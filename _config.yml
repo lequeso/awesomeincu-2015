@@ -1,6 +1,6 @@
 name: Awesome Inc U
 highlighter: pygments
-permalink: /blog/:year/:month/:day/:title/
+
 
 
 # Config for Prose.io, an online editor for writing blog posts
