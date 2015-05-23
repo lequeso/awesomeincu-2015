@@ -33,6 +33,20 @@ body {
   width: auto;
 }
 
+.btn-ghost{
+
+	background: transparent;
+	color: white;
+
+	/* CSS Transition */
+	-webkit-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-moz-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-ms-transition: background .2s ease-in-out, border .2s ease-in-out;
+	-o-transition: background .2s ease-in-out, border .2s ease-in-out;
+	transition: background .2s ease-in-out, border .2s ease-in-out;
+
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -137,6 +151,7 @@ margin-top: 100px;
   margin-bottom: 20px;
   color: #999;
 }
+
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
