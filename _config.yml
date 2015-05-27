@@ -1,3 +1,4 @@
 name: Awesome Inc U
+description: "Learn to Code"
 highlighter: pygments
 permalink: /blog/:year/:month/:day/:title/
