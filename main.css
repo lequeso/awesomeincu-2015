@@ -3,6 +3,7 @@
 /* Padding below the footer and lighter body text */
 
 body {
+    padding-top: 70px;
   padding-bottom: 40px;
   color: #5a5a5a;
 }
@@ -105,6 +106,9 @@ body {
 .center{
     text-align: center;
 }
+.top-marketing{
+    margin-top: 40px;
+}
 
 /* Featurettes
 ------------------------- */
@@ -136,7 +140,6 @@ body {
 }
 
 .jumbotron {
-margin-top:50px;
 color: white;
 text-shadow: 1px 1px 1px #000000;}
 
@@ -153,7 +156,6 @@ text-shadow: 1px 1px 1px #000000;}
   padding-bottom: 20px;
 }
 .blog-title {
-  margin-top: 80px;
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
@@ -169,7 +171,10 @@ text-shadow: 1px 1px 1px #000000;}
  */
 
 .blog-main {
-  font-size: 18px;
+  letter-spacing: .01rem;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
   line-height: 1.5;
 }
 /*
