@@ -9,3 +9,6 @@ collections:
     programs:
         output: true
         permalink: /programs/:path/
+    services:
+        output: true
+        permalink: /services/:path/
