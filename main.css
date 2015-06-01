@@ -124,9 +124,14 @@ body {
   letter-spacing: -1px;
 }
 
+.featurette-heading a {
+  text-decoration: underline;
+}
+
 .embed-responsive{
     margin-bottom: 15px;
 }
+
 /* Jumbotron
 ---------------------------*/
 .bg-image {

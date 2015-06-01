@@ -2,6 +2,8 @@ name: Awesome Inc U
 description: "Learn to Code"
 highlighter: pygments
 permalink: /blog/:year/:month/:day/:title/
+gems:
+  - jekyll-redirect-from
 collections:
     notes:
         output: true
@@ -12,3 +14,9 @@ collections:
     services:
         output: true
         permalink: /services/:path/
+    applications:
+        output: true
+        permalink: /applications/:path/
+    tutorials:
+        output: true
+        permalink: /tutorials/:path/

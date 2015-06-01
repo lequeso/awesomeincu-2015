@@ -1,0 +1,28 @@
+---
+layout: page
+---
+
+   <div>
+    
+    	<div class="container">
+    		
+  			<div class="row head1">
+    			<div class="span12" >
+    				<h2>{{ page.title }}</h2>
+    			</div>
+          <div class="span12" >
+            <p>This is the application for <a href="/programs/#{{ page.program_link }}">{{ page.title }}</a>. You can also view this application directly on <a href="https://docs.google.com/document/d/{{ page.doc_id }}/edit">Google Drive</a></p>
+          </div>
+      	</div>
+
+        <div class="span8 offset2">
+          <div class="row" id="starlight">
+              <div class="embed-responsive embed-responsive-4by3">
+          <iframe src="https://docs.google.com/forms/d/{{ page.doc_id }}/viewform?embedded=true height="{{ page.notes_height }}" ></iframe>
+</div>
+          </div>
+        </div>        
+
+    	</div> <!-- /container -->
+    
+    </div> <!-- /about -->
