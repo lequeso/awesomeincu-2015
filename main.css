@@ -110,6 +110,11 @@ body {
     margin-top: 60px;
 }
 
+.img-center {
+	margin: 0 auto;
+}
+
+
 /* Featurettes
 ------------------------- */
 
@@ -199,6 +204,9 @@ margin-top: 100px;
 .blog-post-meta {
   margin-bottom: 20px;
   color: #999;
+}
+.employer-list {
+    list-style: none;
 }
 
 
