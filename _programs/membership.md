@@ -2,7 +2,7 @@
 layout: program
 title: "Membership"
 description: "Actually Learn Code"
-cover: /img/academy.jpg
+cover: /img/membership-2.jpg
 application: /applications/membership/
 ---
 

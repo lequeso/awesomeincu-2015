@@ -2,8 +2,8 @@
 layout: program
 title: School Assemblies
 description: Bring The Movement To Your School
-cover: /img/academy.jpg
-application: /#
+cover: /img/school-assemblies-3.jpg
+application: /register
 ---
 
 Hour of Code
