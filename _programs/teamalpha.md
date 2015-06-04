@@ -2,7 +2,7 @@
 layout: program
 title: Team Alpha
 description: Write Code With The Pros
-cover: /img/academy.jpg
+cover: /img/team-alpha-1.jpg
 application: https://docs.google.com/spreadsheet/viewform?usp=sharing_eil&formkey=dDNLRTI0MmcyYWtDSDZNNGZOVERfNUE6MQ#gid=0
 ---
 
