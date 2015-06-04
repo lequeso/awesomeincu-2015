@@ -4,6 +4,7 @@ highlighter: pygments
 permalink: /blog/:year/:month/:day/:title/
 gems:
   - jekyll-redirect-from
+  - jekyll-sitemap
 collections:
     notes:
         output: true
