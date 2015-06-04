@@ -8,6 +8,9 @@ body {
   color: #5a5a5a;
 }
 
+h1, h2 { font-family: 'Exo', sans-serif; }
+h3, h4, p, li, td { font-family: 'Lato', sans-serif; }
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
