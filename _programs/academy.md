@@ -4,6 +4,7 @@ title: The Academy
 description: Awesome Inc U's Premier Coding Program
 cover: /img/academy-2.jpg
 application: /applications/academy/
+redirect_from: /academy/
 ---
 
 So, you’ve got the basics down. You’ve taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Academy is our answer.
