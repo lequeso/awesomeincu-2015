@@ -24,5 +24,5 @@ We still had to understand the circuits in terms of traditional diagrams, but th
 
 ![Computer ALU built in Minecraft](/img/blog/alu-minecraft-computer.png)
 
-Our Minecraft world is available at [http://gchpcc.georgetowncollege.edu/~dthorne0/GeorgetownCollegeMinecraftALU2014.zip](http://gchpcc.georgetowncollege.edu/~dthorne0/GeorgetownCollegeMinecraftALU2014.zip)  for anyone who is interested in exploring our construction. (Unzip it in your Minecraft saves folder. It's a big structure. Increase render distance for best viewing.)
+Our Minecraft world is available [here](http://gchpcc.georgetowncollege.edu/~dthorne0/GeorgetownCollegeMinecraftALU2014.zip)  for anyone who is interested in exploring our construction. (Unzip it in your Minecraft saves folder. It's a big structure. Increase render distance for best viewing.)
 
