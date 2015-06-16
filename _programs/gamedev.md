@@ -2,7 +2,7 @@
 layout: program
 title: Game Developer Bootcamp
 description: Make Better Video Games
-cover: /img/academy-2.jpg
+cover: /img/Awesome-Inc-Academy.jpg
 application: /applications/gamedev/
 redirect_from: /gamedev/
 ---

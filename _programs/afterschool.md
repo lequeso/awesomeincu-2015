@@ -2,7 +2,7 @@
 layout: program
 title: "Afterschool Coding Club"
 description: "Learn Code, Make Friends"
-cover: /img/after-school-1.jpg
+cover: /img/After-School-Coding-Club.jpg
 application: /applications/afterschool/
 ---
 

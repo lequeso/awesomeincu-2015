@@ -2,7 +2,7 @@
 layout: program
 title: The Academy
 description: Awesome Inc U's Premier Coding Program
-cover: /img/academy-2.jpg
+cover: /img/Awesome-Inc-Academy.jpg
 application: /applications/academy/
 redirect_from: /academy/
 ---

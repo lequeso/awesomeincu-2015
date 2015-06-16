@@ -2,7 +2,7 @@
 layout: program
 title: Corporate Training
 description: Bring The Movement To Your Workplace
-cover: /img/on-site-training-1.jpg
+cover: /img/Corporate-Training.jpg
 application: /contact/
 ---
 

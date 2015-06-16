@@ -71,7 +71,7 @@ a:hover, a:focus, a:active{ color: #557991;}
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-image: url(img/awesome-inc-break-room.jpg);
+  background-image: url(img/awesome-inc-learn-to-code-homepage-bg.jpg);
     background-size: cover;
 
 }
