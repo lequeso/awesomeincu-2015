@@ -10,8 +10,21 @@ body {
 
 h1, h2 { font-family: 'Exo', sans-serif; }
 h3, h4, p, li, td { font-family: 'Lato', sans-serif; }
-
-
+a {color:#7ca5b7;}
+a:hover, a:focus, a:active{ color: #557991;}
+.btn-primary {
+    background-color: #e4173d;
+    border-color: #e4173d;}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #bd1433;
+  border-color: #bd1433;
+}
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -58,7 +71,9 @@ h3, h4, p, li, td { font-family: 'Lato', sans-serif; }
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-color: #777;
+  background-image: url(img/awesome-inc-break-room.jpg);
+    background-size: cover;
+
 }
 .carousel-inner > .item > img {
   position: absolute;

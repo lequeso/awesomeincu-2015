@@ -2,7 +2,7 @@
 layout: program
 title: Remote Coaching
 description: Learn To Code, Wherever You Are
-cover: /img/academy.jpg
+cover: /img/learn-to-Code-Programs.jpg
 application: https://www.coach.me/nicksuch?ref=8jOJR
 ---
 
