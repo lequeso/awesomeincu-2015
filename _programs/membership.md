@@ -4,6 +4,7 @@ title: "Membership"
 description: "Actually Learn Code"
 cover: /img/membership-2.jpg
 application: /applications/membership/
+redirect_from: /membership/
 ---
 
 Learning to code can be intimidating on your own. Maybe you’ve gotten started on Codecademy, but never finished that JavaScript track. Perhaps you’ve dabbled in iPhone app development, following a series of video tutorials, but got stuck somewhere Objective-C and an NSObject. If you’re looking to make a career switch, or just want to learn a valuable new skill, the Awesome Inc U Membership program is made for people like you.
