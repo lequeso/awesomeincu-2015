@@ -6,7 +6,7 @@ cover: /img/school-assemblies-3.jpg
 application: /register
 ---
 
-[Hour of Code](https://docs.google.com/forms/d/1vIHhrrct5zISCJ44FYlm0xD9D5ZCKh-Cbw_B6Uu7H6Y/viewform)
+[Hour of Code](/hourofcode/)
 
 One-Day courses
 

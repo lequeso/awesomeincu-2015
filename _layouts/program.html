@@ -10,6 +10,8 @@ layout: page
         <p>{{page.description}}</p>
         <p><a class="btn btn-primary btn-lg" href={{page.application}} role="button"> {% if page.path contains 'services' %}
             Get Started
+            {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
+              Register
               {% else %}
               Apply Now
               {% endif %} &raquo;</a></p>
@@ -23,8 +25,10 @@ layout: page
             
             
           <p><a class="btn btn-lg btn-primary center-block" href="{{page.application}}" role="button">
-              {% if page.path contains 'services' %}
+              {% if page.path contains 'services'%}
             Get Started
+               {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
+              Register
               {% else %}
               Start Application
               {% endif %} &raquo;</a></p>
