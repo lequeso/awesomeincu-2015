@@ -25,6 +25,13 @@ a:hover, a:focus, a:active{ color: #557991;}
   background-color: #bd1433;
   border-color: #bd1433;
 }
+.col-lg-6:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -50px; 
+  height: 50px; 
+  visibility: hidden; 
+}
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 

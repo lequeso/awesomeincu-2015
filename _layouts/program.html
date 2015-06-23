@@ -11,10 +11,13 @@ layout: page
         <p><a class="btn btn-primary btn-lg" href={{page.application}} role="button"> {% if page.path contains 'services' %}
             Get Started
             {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
-              Register
+              Register {{page.dateName1}}
               {% else %}
               Apply Now
               {% endif %} &raquo;</a></p>
+          {% if page.multipleDates == true %}
+               <p><a class="btn btn-primary btn-lg" href={{page.application2}} role="button" > Register {{page.dateName2}} &raquo;</a></p>
+          {% endif %}
       </div> 
 </div>
         <div class="container">
@@ -28,10 +31,13 @@ layout: page
               {% if page.path contains 'services'%}
             Get Started
                {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
-              Register
+              Register {{page.dateName1}}
               {% else %}
               Start Application
               {% endif %} &raquo;</a></p>
+             {% if page.multipleDates == true %}
+               <p><a class="btn btn-primary btn-lg center-block" href={{page.application2}} role="button" > Register {{page.dateName2}} &raquo;</a></p>
+          {% endif %}
         </div>
       </div>
         </div>
