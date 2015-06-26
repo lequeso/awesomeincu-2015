@@ -66,16 +66,16 @@
   landingHeader: "What your kids can learn this Spring!"
   landingDiscount: "Make a website, mobile app, and video game at this camp!"
 
-- title: Minecraft Party
+- title: Minecraft Party (day of code special)
   curriculum: minecraft
   date: Aug 7th 
   time: 6pm - 9pm
   early-bird-price:
   standard-price: 20
   early-bird-date:
-  url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-16293261584
+  url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-17535772969
   logo: minecraft.png
-  status: 'inactive' 
+  status: 'active' 
 
 - title: Game Developer Bootcamp
   curriculum: gamedev
@@ -113,7 +113,7 @@
   date: Sept - Dec
   time: 5pm - 6:30pm
   early-bird-price: 
-  standard-price: 25/week
+  standard-price: 100/mo
   early-bird-date:
   url: /programs/afterschool/
   logo: logo_big.png
@@ -148,11 +148,11 @@
 
 - title: iPhone App Development Crash Course
   curriculum: ios-crash
-  date: Jan 27 and 29
+  date: Aug 29
   time: 6pm - 9pm
   student-price: 50
-  early-bird-price: 75
-  standard-price: 100
+  early-bird-price: 100
+  standard-price: 125
   early-bird-date: Jan 13
   url: https://www.eventbrite.com/e/iphone-development-crash-course-tickets-14735037895
   eid: 14735037895 # this entry will be deprecated, can be regex'd from url
@@ -200,16 +200,16 @@
 
 - title: Day of Code for Kids (Minecraft Party Special)
   curriculum: k12-day
-  date: May 16
+  date: Aug 8
   time: 12pm - 5pm
   student-price: 
   early-bird-price: 100 + free minecraft party ticket
   standard-price: 125
   early-bird-date:
-  url: https://www.eventbrite.com/e/kids-code-camp-dayofcode-tickets-16293433097
-  eid: 16293433097
+  url: http://www.eventbrite.com/e/kids-code-camp-dayofcode-tickets-17535646591
+  eid: 17535646591
   logo: Day-of-Code-Logo.png
-  status: 'inactive'
+  status: 'active'
   landingTitle: Day of Code for Kids
   landingSubTitle: Come Learn to Code with us this Spring
   landingHeader: In just ONE day your student will have made at least two programs!
@@ -218,11 +218,11 @@
 
 - title: Basic Web Development 1-Day
   curriculum: basicweb-crash
-  date: Nov 15
+  date: Sept 5
   time: 12pm - 6pm
   student-price: 50
-  early-bird-price: 75
-  standard-price: 100
+  early-bird-price: 100
+  standard-price: 125
   early-bird-date: Oct 27
   url: https://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-13385176423
   eid: 13385176423 # this entry will be deprecated, can be regex'd from url
