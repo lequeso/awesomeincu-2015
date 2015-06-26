@@ -20,6 +20,9 @@
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" >
     <title>{% if page.title %}{{ page.title }} | {{ site.name }}{% else %}{{ site.name }} - learn to code{% endif %}</title>
     <link rel="icon" href="/img/favicon.ico">
+    {% if page.url == '/blog/' %}
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/rss.xml">
+    {% endif%}
 
     <!-- Bootstrap core CSS -->
     <link href="/css/bootstrap.min.css" rel="stylesheet">
