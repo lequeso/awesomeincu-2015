@@ -15,6 +15,8 @@ By [Nick Such](https://plus.google.com/+NickSuch/)
 
 Last week, over 15 million people around the world celebrated Computer Science Education Week by dedicating an hour to learn to code. Our team at [Awesome Inc](http://www.awesomeinc.org/) helped facilitate 10 [Hour of Code](http://www.awesomeincu.com/hourofcode) sessions at 8 schools around Fayette County, working with over 950 students from grades 4 - 12. During this process, we made a few observations:
 
+<!--break-->
+
 * Learning to code is fun. Sure, anything that gets a kid out of his or her normal routine is exciting, but we were surprised at how much fun students were having. As an experienced software developer will tell you, the joy of overcoming a programming challenge is worth any frustrations you encounter along the way.
 
 * The notion that programming is an "affluent white male thing" is only due to social inertia. From our observations, girls often picked up the logic faster than boys, and ethnicity was not a factor in how well a student grasped the Hour of Code activities. Some great organizations like [BlackGirlsCode](http://www.blackgirlscode.com/) are helping to tip the scales.

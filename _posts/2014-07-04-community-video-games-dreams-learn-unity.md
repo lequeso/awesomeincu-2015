@@ -12,6 +12,8 @@ In 2013, YouTube hosted an event they called "Geek Week" that showcased and cele
 
 ![Multiplayer video on YouTube](/img/blog/learn_unity_0.png)
 
+<!--break-->
+
 Those relationships are a real part of real communities that are simply awesome things to watch and be a part of. 
 
 But giving back to that community like those YouTubers is hard. Being a member of it is easy and rewarding, but being on the other side - a content creator - that’s difficult. Few people that try to become streamers and YouTubers and [lets-players](http://en.wikipedia.org/wiki/Let's_Play_(video_gaming)) succeed. Few people are able to land a job at a major studio making [AAA games](http://en.wikipedia.org/wiki/AAA_(game_industry)). For a long time, it took an extraordinary amount of time and effort to start creating and sharing. And a lot of luck on top of all that.That has changed. Now, products like Steam and Kickstarter and IndieGoGo are helping independent, at-home game developers become a reality. No longer is it necessary to land a job at a major label to be able to give back to the game community. But no software or company has ushered in this new reality quite as much as [Unity 3D](http://unity3d.com/). 

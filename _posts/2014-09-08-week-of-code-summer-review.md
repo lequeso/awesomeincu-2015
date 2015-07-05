@@ -12,6 +12,8 @@ If you‘re looking for the most promising programming talent in Lexington, Awes
 
 This summer, Awesome Inc held three of our Week of Code for kids events. In total, 45 elementary, middle, and high school students learned to code with Awesome Inc.
 
+<!--break-->
+
 Awesome Inc co-founder Nick Such, with the help of several other programming instructors, introduced the students to some of the most important tools and concepts for programming.  In the 4 days of the Week of Code Camp, students learned to program a website, a mobile app, and a video game.
 
 On day one, the students learned how to make their own websites from scratch in HTML and CSS.  They learned how to select colors with hex values and create a table using only HTML tags.  Then they got a chance to use FTP to upload their files directly to the server that hosted their websites.

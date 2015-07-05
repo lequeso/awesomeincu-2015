@@ -12,6 +12,8 @@ By [Nick Such](https://plus.google.com/+NickSuch/)
 
 When we started Awesome Inc U, our vision was to simply offer 1-2 day, in-person courses in the basics of software development. These "Crash Courses" are great because they provide a hands-on experience for our students, with lots of interaction with our instructional team, and they happen 2-3 times per month. While this was a great way to get started, we’ve learned a few things from our students since we launched in June 2013. Based on feedback from our students, we decided to share our courses through the online training site, [Udemy](https://www.udemy.com/u/awesomeinc/) in addition to our in-person courses. Here are a few benefits that we hope it will offer:
 
+<!--break-->
+
 ## Convenience
 
 Our Crash Courses typically run on Saturday afternoons for about 6 hours. If your Saturday afternoons are open, then this works great. It turns out, this is not the case for everyone. There are quite a few University of Kentucky basketball games on Saturdays, and both our students and instructors here in Lexington are pretty avid fans. We don’t want people to have to choose between cheering on the Wildcats or creating a web app, so this allows our students the opportunity to take our courses when they have the time to focus on learning to code.

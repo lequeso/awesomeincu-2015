@@ -12,6 +12,8 @@ There was a lull in the freezing cold weather, the endless ice and snow. It was 
 
 ![Classroom for iOS course at UPike](/img/blog/pikeville-ios-classroom.jpg)
 
+<!--break-->
+
 ## Learning By Doing
 
 At the end of the class, the students were pleasantly surprised that they all built an actual, functional iPhone App. This was not just theoretical learning -- this was a real world exercise in building something that worked. This on-site course covered the curriculum from our [1-Day iOS Crash Course](http://www.awesomeincu.com/curriculum/#ios-crash). Participants with no prior programming experience learn how to navigate the Xcode development environment, pick up the fundamentals of the Objective-C programming language, and implement common iPhone app components like multiple View Controllers, ImageViews, and the Apple MapKit. 

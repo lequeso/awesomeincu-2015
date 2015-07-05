@@ -10,6 +10,8 @@ by Sarah Hoffmann
 
 Code is the language of the 21st century. Computer programming is rapidly becoming an essential skill in every sector of the job world. To put it simply, everyone is doing it. But that begs the question, if coding is so important, why isn’t it being taught in schools?
 
+<!--break-->
+
 While many schools have computer science classes, there is still an overwhelming majority of schools that lack any sort of coding class. Computer science is a growing industry full of opportunities, yet so many kids have little to no exposure to that world. When the idea of adding coding classes to standard curriculum comes up, there are often quite a few common challenges that come up.
 
 ## Kids don’t know what coding is.
