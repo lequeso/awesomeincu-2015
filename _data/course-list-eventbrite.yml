@@ -38,9 +38,9 @@
   time: 1pm - 5pm
   location: Lexington
   student-price: 
-  early-bird-price: 495
+  early-bird-price: <del>495
   standard-price: 695
-  early-bird-date: July 29
+  early-bird-date: July 3</del>
   url: https://www.eventbrite.com/e/awesome-inc-kids-code-camp-august-tickets-15971522253
   eid: 15971522253 # this entry will be deprecated, can be regex'd from url
   logo: Week-of-Code-Logo.png
