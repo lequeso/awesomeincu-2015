@@ -8,7 +8,8 @@ body {
   color: #5a5a5a;
 }
 
-h1, h2 { font-family: 'Exo-thin', sans-serif;  text-transform: uppercase; }
+h1, h2 { font-family: 'Exo', sans-serif; font-weight: 300; text-transform: uppercase; }
+div.carousel-caption h1 {font-family: 'Exo', sans-serif; font-weight: 800; text-transform: none; }
 h3, h4, p, li, td { font-family: 'Lato', sans-serif; }
 a {color:#7ca5b7;}
 a:hover, a:focus, a:active{ color: #557991;}
