@@ -106,17 +106,18 @@ Fri - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 #### 2:00pm
 
 * [Ball Bounce game](https://www.youtube.com/watch?v=w0yxJSlC00w)
-* [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
-    * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
 
 #### 3pm
 
-* <del>Simon</del> Garrett Says
+* Around The World Ping Pong
 
 #### 3:30pm
 
-* Danny’s Circles app
-    * [link to code]
+* [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
+    * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
+* Danny’s Sample apps
+    * [Circles](https://dl.dropboxusercontent.com/u/15010097/circles.aia)
+    * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
 * [Space Invaders](http://appinventor.mit.edu/explore/ai2/space-invaders.html)
     * Here’s a [video of the original game](https://www.youtube.com/watch?v=437Ld_rKM2s), if you missed the launch in 1978
 
