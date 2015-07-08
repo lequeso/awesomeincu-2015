@@ -140,7 +140,8 @@ Fri - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
 #### 1pm
 
-* View Page Source
+* What is "The Web"?
+* View Page Source, see HTML, CSS, JavaScript
 * Google Developer Tools
     * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc)
 * [Mozilla Thimble](https://thimble.webmaker.org/en-US)
@@ -168,7 +169,7 @@ Fri - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
 #### 3pm
 
-* Break - Relay Race
+* Break - Rock Paper Scissors...War!
 
 #### 3:15pm
 
@@ -219,7 +220,7 @@ If times remains:
 
 #### 3pm
 
-* Break - Around-the-world Ping Pong
+* Break - Cookie Face
 
 #### 3:15pm
 
