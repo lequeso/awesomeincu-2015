@@ -156,8 +156,11 @@ a:hover, a:focus, a:active{ color: #557991;}
 }
 
 .featurette-heading a {
-  text-decoration: underline;
+  text-decoration: none;
+  
 }
+
+.text-muted {color: #557991;}
 
 .embed-responsive{
     margin-bottom: 15px;
@@ -270,7 +273,7 @@ margin-top: 50px;
   }
 
   .featurette-heading {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
