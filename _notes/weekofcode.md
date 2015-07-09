@@ -34,9 +34,9 @@ Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 [Wed](#wednesday) - Making Websites with HTML, CSS, and JavaScript
 
-Thurs - Making Video Games with Unity 3D
+[Thurs](#thursday) - Making Video Games with Unity 3D
 
-Fri - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
+[Fri](#friday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
 ## Details
 
@@ -155,36 +155,37 @@ Fri - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
         * Other page
         * Same page
     * Lists
+    * Images
     * Navigation Bar
     * Styles
-    * Images
-    * Tables
-    * YouTube embed
-        * Share -> Embed
-        * Add "http:" to view locally
-    * Google Form embed
-        * [Sample Form](https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform)
-        * Form embed code:
-        		<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+    * CSS
+       * [COPY THIS CSS CODE](https://raw.githubusercontent.com/ainc/basicweb-crash/weekofcode-animals/styles.css)
+       * Text Colors
+       * Background Colors
+       * Fonts
 
 #### 3pm
 
-* Break - Rock Paper Scissors...War!
+* Break - Relay Race
 
 #### 3:15pm
 
-* CSS
-    * [COPY THIS CODE](https://raw.githubusercontent.com/ainc/basicweb-crash/weekofcode-animals/styles.css)
-    * Text Colors
-    * Background Colors
-    * Fonts
+* Special Content
+   * Tables
+   * YouTube embed
+      * Share -> Embed
+   * Google Form embed
+      * [Sample Form](https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform)
+      * Form embed code:
+ 
+        		<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 #### 4pm
 
 * Deployment with FTP
     * FileZilla
         * Host: awesomebasicweb.nicksuch.com
-        * User: weekofcode1, weekofcode2, weekofcode3, weekofcode4
+        * User: (ask instructor)
         * Password: (ask instructor)
     * Server
     * Relative links
@@ -193,13 +194,13 @@ Fri - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
 If times remains:
 
-* Codecademy web practice
+* [Codecademy web practice](http://www.codecademy.com/skills/make-a-website)
 * [Bootstrap](http://getbootstrap.com/)
-* JavaScript
+* [JavaScript](http://www.codecademy.com/goals/hour-of-code)
 
 #### 5pm
 
-* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](https://rawgit.com/ainc/basicweb-crash/weekofcode-animals/index.html)
+* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](http://ainc.github.io/basicweb-crash/)
 * [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * Remind students to bring a mouse for Unity tomorrow
 
@@ -207,7 +208,7 @@ If times remains:
 
 * * *
 
-### Thursday
+### <a name="thursday">Thursday</a>
 
 #### 1pm
 
@@ -220,25 +221,25 @@ If times remains:
 
 #### 3pm
 
-* Break - Cookie Face
+* Break - Cookie Face, Rock Paper Scissors...War!
 
 #### 3:15pm
 
-* More Making Minecraft
+* More [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
 
 #### 4:30pm
 
 * If time:
     * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-a-ball)
-    * [Upload Roll-A-Ball](https://rawgit.com/nicksuch/Roll-a-ball/master/www/www.html)
+    * [Upload Roll-A-Ball](http://www.nicksuch.com/Roll-a-ball/www/www.html)
     * [2D Platformer from Unity Assets Store](https://www.assetstore.unity3d.com/en/#!/content/11228)
 
 #### 5pm
 
-* Homework: Finish Minecraft
+* Homework: Finish [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
 * Remind students to bring headphones for Friday tutorials
 
-### Friday
+### <a name="friday">Friday</a>
 
 #### 1pm
 
