@@ -1,4 +1,4 @@
-- title: Kids Summer Code Camp - August
+- title: Week of Code summer camp - August
   curriculum: k12-week
   date: Aug 3 - Aug 6
   time: 1pm - 5pm
@@ -7,7 +7,7 @@
   early-bird-price: 495
   standard-price: 695
   early-bird-date: July 27
-  url: https://www.eventbrite.com/e/awesome-inc-kids-code-camp-august-tickets-15971522253
+  url: https://www.eventbrite.com/e/awesome-inc-week-of-code-camp-august-tickets-15971522253
   eid: 15971522253 # this entry will be deprecated, can be regex'd from url
   logo: Week-of-Code-Logo.png
   number-students: 
