@@ -283,3 +283,9 @@ margin-top: 50px;
   }
 }
 
+/* Fix taking mailchimp pop-up off mobile site */
+@media (max-width: 767px) {
+.mc-modal {
+    display: none !important;
+  }
+  /* end fix */
