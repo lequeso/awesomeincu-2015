@@ -21,26 +21,26 @@ notes_height: 7000
 * Web Development with HTML, CSS, and JavaScript
 * Mobile App Development with Android & MIT App Inventor
 * Video Game Development with Unity 3D
-* Sandbox time with 1-on-1 support from our instructional team
+* 1-on-1 support from our instructional team
 * Final project presentations at the end of the week
 
 # Schedule
 
 ## Overview
 
-Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
+Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
 
-[Tues](#tuesday) - Making Mobile Apps with Android Studio
+[Mon](#monday) - Making Mobile Apps with Android Studio
 
-[Wed](#wednesday) - Making Websites with HTML, CSS, and JavaScript
+[Tues](#tuesday) - Making Websites with HTML, CSS, and JavaScript
 
-[Thurs](#thursday) - Making Video Games with Unity 3D
+[Wed](#wednesday) - Making Video Games with Unity 3D
 
-[Fri](#friday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
+[Thurs](#thursday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
 ## Details
 
-### Monday (optional setup / prework day) (optional pre-work and install day)
+### Sunday (optional setup / prework day) (optional pre-work and install day)
 
 #### 1pm
 
@@ -85,7 +85,7 @@ Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 * * *
 
-### <a name="tuesday">Tuesday</a>
+### <a name="monday">Monday</a>
 
 #### 1pm
 
@@ -123,7 +123,7 @@ Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 #### 4:30pm
 
-* Confirm Unity setup for Thursday
+* Confirm Unity setup for Wednesday
 * More App Inventor
     * [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html) or [Get the Gold](http://appinventor.mit.edu/explore/get-gold.html)
 * Want to go more in-depth with Android?
@@ -136,7 +136,7 @@ Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 * * *
 
-### <a name="wednesday">Wednesday</a>
+### <a name="tuesday">Tuesday</a>
 
 #### 1pm
 
@@ -208,7 +208,7 @@ If times remains:
 
 * * *
 
-### <a name="thursday">Thursday</a>
+### <a name="wednesday">Wednesday</a>
 
 #### 1pm
 
@@ -237,9 +237,9 @@ If times remains:
 #### 5pm
 
 * Homework: Finish [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
-* Remind students to bring headphones for Friday tutorials
+* Remind students to bring headphones for Thursday tutorials
 
-### <a name="friday">Friday</a>
+### <a name="thursday">Thursday</a>
 
 #### 1pm
 
