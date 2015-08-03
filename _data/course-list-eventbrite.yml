@@ -27,7 +27,7 @@
     ["android-crash-device.jpg", Android app and code],
     ["unity-crash-angry-boxes.jpg", Angry Boxes game made with Unity]
   ]
-  status: 'active'
+  status: 'inactive'
   landingTitle: Kids Code Camp
   landingHeader: "What your kids can learn this Spring!"
   landingDiscount: "Make a website, mobile app, and video game at this camp!"
@@ -60,6 +60,30 @@
   landingHeader: In just ONE day your student will have made at least two programs!
   landingDiscount: Learn the basics of programming in just ONE day - 
   curriculum-contents: ['Introduction to Computer Science concepts', 'Building games with Scratch', 'The basics of writing code with Javascript', 'Integrating Javascript in to an HTML page', 'Setting up accounts on Scratch and Codecademy', 'Sandbox time with 1-on-1 support from our <a target="_blank" href="http://www.awesomeincu.com/#instructors">instructional team</a>'] 
+
+- title: iPhone App Development Crash Course
+  curriculum: ios-crash
+  date: Aug 29
+  time: 12pm - 6pm
+  student-price: 50
+  early-bird-price: 100
+  standard-price: 125
+  early-bird-date: Aug 15
+  url: http://www.eventbrite.com/e/ios-development-1-day-crash-course-tickets-17535941473
+  logo: logo-ios.png 
+  status: 'active'
+
+- title: Basic Web Development 1-Day
+  curriculum: basicweb-crash
+  date: Sept 5
+  time: 9am - 3pm
+  student-price: 50
+  early-bird-price: 100
+  standard-price: 125
+  early-bird-date: Aug 22
+  url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
+  logo: logo-html.png
+  status: 'active'
 
 - title: Game Developer Bootcamp
   curriculum: gamedev
@@ -130,40 +154,6 @@
   logo: logo_big.png
   status: 'inactive'
 
-- title: iPhone App Development Crash Course
-  curriculum: ios-crash
-  date: Aug 29
-  time: 6pm - 9pm
-  student-price: 50
-  early-bird-price: 100
-  standard-price: 125
-  early-bird-date: Jan 13
-  url: https://www.eventbrite.com/e/iphone-development-crash-course-tickets-14735037895
-  eid: 14735037895 # this entry will be deprecated, can be regex'd from url
-  number-students: 110
-  benefits: ["Make your own iPhone app with us in less than 6 hours", "Be ready for our <a href=\"/curriculum/#ios-advanced\">iOS Advanced Course</a>"]
-  difficulty: BEGINNER
-  testimonials: ["Having other experienced iOS programmers roaming to answer questions in addition to the main instructor was great.", "Favorite part of the course: Networking and talking with knowledgeable instructors.", "I found the 'sandbox' time quite beneficial."]
-  whatyoulllearn: "This six-hour course will teach you the basics of native iOS development using Apple's Xcode development environment. By the end of the day, you will have created your own iPhone application."
-  curriculum-contents: ["How to use the Xcode IDE and iOS SDK", "Hello World", "Objective-C language basics", "User Interface design with Storyboards", "Connecting multiple views and using Tab bars", "Importing external images", "Introduction to MapKit and CoreLocation frameworks"]
-  requirements: ["Mac computer (eg MacBook Pro, MacBook Air, Mac Mini), <a href=\"http://mkt.com/awesome-inc/laptop-rental\">rental computers available</a>", "OSX 10.8.4 (Mountain Lion) or newer", "Xcode 5 or newer (<a href=\"https://developer.apple.com/xcode/downloads/\">free download from Mac App Store</a>)", "No prior programming experience required", "Suggested: Typing speed of <a href=\"http://10fastfingers.com/typing-test/english\">40 WPM</a> or greater"]
-  headline: "So, you have an App idea...but no idea where to get started. Our DEVELOP YOUR FIRST IPHONE APP TODAY! course was made just for you! In 6 hours, you\'ll go from zero to working iPhone App. We\'ve been teaching this course in-person since 2010, and it\'s still our most popular."
-  logo: logo-ios.png 
-  course-images: [
-    ["ios-crash-20140813.jpg", Pic of course],
-    ["ios-crash-screenshot4.png", Xcode screenshot]
-  ]
-  screenshots: [
-    ["ios-crash-screenshot1.png", Pic of app],
-    ["ios-crash-screenshot2.png", Pic of app 2],
-    ["ios-crash-screenshot3.png", Pic of app 3]
-  ]
-  status: 'inactive'
-  landingTitle: Make an iPhone App in 6 Hours!
-  landingSubTitle: iPhone App Development
-  landingHeader: "What you'll learn at this interactive two day course!"
-  landingDiscount: "Learn to code your very own app this week!"
-
 - title: PHP Web Development 1-Day
   curriculum: php-crash
   date: June 13
@@ -180,25 +170,6 @@
   landingSubTitle: PHP Web Development 1-Day
   landingHeader: "What you'll learn at this interactive one day course!"
   landingDiscount: "You don't want to miss out on this crash course that teaches the most popular programming language!"
-
-- title: Basic Web Development 1-Day
-  curriculum: basicweb-crash
-  date: Sept 5
-  time: 12pm - 6pm
-  student-price: 50
-  early-bird-price: 100
-  standard-price: 125
-  early-bird-date: Oct 27
-  url: https://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-13385176423
-  eid: 13385176423 # this entry will be deprecated, can be regex'd from url
-  logo: logo-html.png
-  number-students: 53
-  status: 'inactive'
-  landingTitle: Web Development
-  landingSubTitle: Create your own website in just one day!
-  landingHeader: "Learn how to create a website using different programming tools"
-  landingDiscount: "Make a website with your very own content in one day - "
-  curriculum-contents: ['Overview of front-end web technologies including HTML and CSS', 'Setting up a local development environment', 'Publishing a website with Weebly, Tumblr, and Wordpress.com', 'Collecting user data through forms', 'Embedding media content, including tweets', 'Registering a domain name and deploying to a web server']
 
 - title: Android App Development 1-Day
   curriculum: android-crash
