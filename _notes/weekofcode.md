@@ -30,7 +30,7 @@ notes_height: 7000
 
 Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
 
-[Mon](#monday) - Making Mobile Apps with Android Studio
+[Mon](#monday) - Making Mobile Apps with MIT App Inventor
 
 [Tues](#tuesday) - Making Websites with HTML, CSS, and JavaScript
 
