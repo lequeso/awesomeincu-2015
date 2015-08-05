@@ -178,7 +178,7 @@ Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
       * [Sample Form](https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform)
       * Form embed code:
  
-        		<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+        	<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 #### 4pm
 
@@ -239,6 +239,8 @@ If times remains:
 * Homework: Finish [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
 * Remind students to bring headphones for Thursday tutorials
 
+* * *
+
 ### <a name="thursday">Thursday</a>
 
 #### 1pm
@@ -252,27 +254,28 @@ If times remains:
         * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
         * [Bootstrap project](https://www.udemy.com/front-end-web-development-with-bootstrap/)
         * [HTML Dog Tutorials](http://htmldog.com/guides/)
-        * [Meteor.js tutorial](https://www.meteor.com/learn-meteor)
+        * [Meteor.js tutorial](https://www.meteor.com/tools/resources)
         * [Learn Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
+        * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)
     * Mobile
         * [Ray’s Android App](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
-        * [Create A Simple Android Game](http://www.raywenderlich.com/12065/how-to-create-a-simple-android-game) (RayWenderlich.com)
-        * [Mole Mash game](http://appinventor.mit.edu/explore/ai2/molemash.html)
-        * (Mac only) [Awesome Inc U iPhone App Development](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
-        * [Basketball Lineup](https://github.com/nicksuch/MyFavoriteTeam), via 
-        * Instagram (filter) clone
+        * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html), such as [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
+        * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
+        * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
         * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
 
     * Game
         * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
-        * Other Project from [official Unity 3D page](http://unity3d.com/learn/tutorials/projects), such as [Roll-A-Ball](http://unity3d.com/learn/tutorials/projects/roll-a-ball)
+        * Other Project from [official Unity 3D page](http://unity3d.com/learn/tutorials/), such as [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
         * [Rock, Paper, Scissors...in code](http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1)
         * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
         * [Five Unity Game Examples](http://u3d.as/content/m2h/c-game-examples/1sG)
-        * [Walker Boys Unity Tutorials](http://walkerboystudio.com/html/unity_training___free__.html)
-        * [Hack & Slash RPG Tutorials](http://www.burgzergarcade.com/hack-slash-rpg-unity3d-game-engine-tutorial)
+        * [Walker Boys Unity Tutorials](http://www.walkerboystudio.com/wbstudio/learn-unity/)
         * [Snake HTML5 Game](http://thecodeplayer.com/walkthrough/html5-game-tutorial-make-a-snake-game-using-html5-canvas-jquery)
         * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
+
+Note: many projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
+
 
 #### 2pm
 
@@ -293,14 +296,13 @@ If times remains:
     1. Show us one thing you made this week
     2. Tell us one interesting thing you learned
     3. What’s one thing you want to create next?
-* Presentation Order
-    4. Student 1 - project name
-    5. Student 2 - project name
+
 * Recap
 * Next steps for learning
-    6. [Codecademy](http://www.codecademy.com/)
-    7. [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
-    8. [Awesome Inc Academy](http://awesomeincu.com/academy)
+
+    1. Online resources: [Codecademy](http://www.codecademy.com/), [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
+    2. [Awesome Inc Academy](http://awesomeincu.com/academy)
+    3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/programs/afterschool/)
 
 #### 5pm
 
