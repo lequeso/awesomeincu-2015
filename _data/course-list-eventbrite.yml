@@ -1,4 +1,4 @@
-- title: Week of Code summer camp - August
+- title: Week of Code summer camp
   curriculum: k12-week
   date: Aug 3 - Aug 6
   time: 1pm - 5pm
@@ -41,7 +41,7 @@
   early-bird-date:
   url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-17535772969
   logo: minecraft.png
-  status: 'active'
+  status: 'inactive'
 
 - title: Day of Code for Kids (Minecraft Party Special)
   curriculum: k12-day
@@ -54,7 +54,7 @@
   url: http://www.eventbrite.com/e/kids-code-camp-dayofcode-tickets-17535646591
   eid: 17535646591
   logo: Day-of-Code-Logo.png
-  status: 'active'
+  status: 'inactive'
   landingTitle: Day of Code for Kids
   landingSubTitle: Come Learn to Code with us this Spring
   landingHeader: In just ONE day your student will have made at least two programs!
@@ -96,27 +96,7 @@
   logo: logo-unity3d.png
   status: 'inactive'
 
-- title: Awesome Inc Academy
-  curriculum: academy
-  date: Sept - Dec
-  time: evenings
-  early-bird-price: 429/month
-  standard-price: 533/month
-  early-bird-date: Aug 21
-  url: /programs/academy/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Awesome Inc U Membership
-  curriculum: membership
-  date: Sept - Dec
-  time: evenings
-  standard-price: 179/month
-  url: /programs/membership/
-  logo: logo_big.png
-  status: 'active'
-
-- title: After School Coding Club
+- title: After School Coding Club (age 10-14)
   curriculum: club
   date: Sept - Dec
   time: 5pm - 6:30pm
@@ -127,6 +107,26 @@
   logo: logo_big.png
   status: 'active'
   curriculum-date: mon
+
+- title: Awesome Inc Academy (age 12-17)
+  curriculum: academy
+  date: Sept - Dec
+  time: evenings
+  early-bird-price: 429/month
+  standard-price: 533/month
+  early-bird-date: Aug 21
+  url: /programs/academy/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Awesome Inc U Membership (adults)
+  curriculum: membership
+  date: Sept - Dec
+  time: evenings
+  standard-price: 179/month
+  url: /programs/membership/
+  logo: logo_big.png
+  status: 'active'
 
 - title: iPhone App Development 2-Day Advanced Course
   curriculum: ios-advanced
