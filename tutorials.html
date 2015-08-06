@@ -17,11 +17,11 @@ permalink: /tutorials/
         <div class="col-sm-8 blog-main">
 
           <div class="blog-post">
+          <ul>
               {% for post in site.tutorials %}
-              <h2><a href={{post.url}}>{{ post.title }}</a></h2>
-                <p class="blog-post-meta">{{ post.date | date: "%b %d, %Y" }}</p>
-                <p>{{ post.content }}</p>
+              <li><a href={{post.url}}>{{ post.title }}</a></li>
               {% endfor %}
+              </ul>
             </div>
             
         </div><!-- /.blog-main -->

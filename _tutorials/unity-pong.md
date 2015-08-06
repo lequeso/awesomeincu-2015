@@ -9,6 +9,8 @@ title: Make A Pong Game With Unity 2D
 
 By Will Oldham
 
+> Note: This tutorial was designed for Unity 4, and some features have changed for Unity 5.
+
 Today, the name of the game is Pong. We’re going to be using Unity3D v4.3 or later, MonoDevelop with the C# programming language, this tutorial, and a few stock images I’ve provided in a downloadable file. No prior knowledge in Unity or C# is required. I’m going to be working from a Mac, but that shouldn’t affect anything until the very end of the project. The game is going to 2 Player - Unity can absolutely make a Computer opponent, but that’s a little above our level for today. The only other thing we need is about 2 hours. 
 
 Ready? It’s gonna be awesome.
