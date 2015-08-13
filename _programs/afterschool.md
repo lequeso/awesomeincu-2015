@@ -1,9 +1,11 @@
 ---
 layout: program
-title: "Afterschool Coding Club"
+title: "After-School Coding Club"
 description: "Learn Code, Make Friends"
 cover: /img/After-School-Coding-Club.jpg
 application: /applications/afterschool/
+redirect-from: /programs/afterschool/
+permalink: /after-school/
 ---
 
 Do you have a student at home who spends too much time on the computer, plays lots of Minecraft, or enjoyed doing the Hour of Code at school? The After-School Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls in middle school who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting. 
