@@ -1,10 +1,10 @@
 ---
 layout: program
-title: "After-School Coding Club"
+title: After-School Coding Club
 description: "Learn Code, Make Friends"
 cover: /img/After-School-Coding-Club.jpg
-application: /applications/afterschool/
-redirect-from: /programs/afterschool/
+application: /applications/after-school/
+redirect_from: /programs/afterschool/
 permalink: /after-school/
 ---
 

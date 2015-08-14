@@ -96,14 +96,14 @@
   logo: logo-unity3d.png
   status: 'inactive'
 
-- title: After School Coding Club (age 9-13)
+- title: After-School Coding Club (age 9-13)
   curriculum: club
   date: Sept - Dec
   time: 5pm - 6:30pm
   early-bird-price: 
   standard-price: 100/mo
   early-bird-date:
-  url: /programs/afterschool/
+  url: /after-school/
   logo: logo_big.png
   status: 'active'
   curriculum-date: mon
@@ -115,7 +115,7 @@
   early-bird-price: 429/month
   standard-price: 533/month
   early-bird-date: Aug 21
-  url: /programs/academy/
+  url: /academy/
   logo: logo_big.png
   status: 'active'
 
@@ -124,7 +124,7 @@
   date: Sept - Dec
   time: evenings
   standard-price: 179/month
-  url: /programs/membership/
+  url: /membership/
   logo: logo_big.png
   status: 'active'
 

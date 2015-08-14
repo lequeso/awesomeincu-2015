@@ -6,18 +6,21 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
 collections:
+    applications:
+        output: true
+        permalink: /applications/:path/
+    interest:
+        output: true
+        permalink: /interest/:path/
     notes:
         output: true
         permalink: /notes/:path/
     programs:
         output: true
-        permalink: /programs/:path/
+        permalink: /:path/
     services:
         output: true
         permalink: /services/:path/
-    applications:
-        output: true
-        permalink: /applications/:path/
     tutorials:
         output: true
         permalink: /tutorials/:path/
