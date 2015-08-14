@@ -196,7 +196,8 @@ height: 350px;
   padding-top: 20px;
   padding-bottom: 20px;
 }
-.blog-title {
+
+.blog-header h1 {
   margin-bottom: 0;
   font-size: 60px;
   font-weight: normal;
@@ -219,7 +220,7 @@ height: 350px;
   line-height: 1.5;
 }
 
-.blog-main p, .blog-main img, .content-main p, .content-main img { 
+.blog-main p, .content-main p { 
   margin-bottom: 30px;
 }
 /*
@@ -233,7 +234,7 @@ height: 350px;
 .blog-post img{
     width: 100%;
 }
-.blog-post-title {
+.blog-main h1, .content-main h2 {
 margin-top: 50px;
   margin-bottom: 5px;
   font-size: 40px;

@@ -3,6 +3,7 @@ layout: interest
 title: Academy
 curriculum_link: academy
 landing: /academy/
+hero_img: 
 ---
 
 So, you've got the basics down. You've taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do you go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Academy is our answer.
