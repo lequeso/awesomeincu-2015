@@ -4,7 +4,7 @@ title: Game Developer Bootcamp
 description: Make Better Video Games
 cover: /img/Awesome-Inc-Academy.jpg
 application: /applications/gamedev/
-redirect_from: /gamedev/
+redirect_from: /programs/gamedev/
 ---
 
 This summer, Awesome Inc, in partnership with [RunJumpDev](http://runjumpdev.org), is offering a Game Developer Bootcamp. This is meant for beginner video game developers to take their skills to the next level, learning from experts in indie game development.
