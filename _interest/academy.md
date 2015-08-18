@@ -8,15 +8,23 @@ hero_img: /img/academy-group.jpg
 
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
-<br>
-<form action="//formspree.io/info@awesomeincu.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name">
-    <input type="email" name="_replyto" placeholder="Email Address">
-    <input type="hidden" name="_subject" value="Academy interest form submission" />
-    <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/" />
-    <input type="submit" value="Send">
-</form>
+    <form action="//formspree.io/info@awesomeincu.com" method="POST">
+        <legend>Interested in coding classes for 13-17 year olds?</legend>
+        <div class="form-group">
+            <input type="text" name="name" placeholder="Your Name" class="form-control input-lg">
+        </div>
+        <div class="form-group">
+            <input type="tel" name="phone" placeholder="Phone Number" class="form-control input-lg">
+        </div>
+        <div class="form-group">
+            <input type="email" name="email" placeholder="Email Address" class="form-control input-lg">
+        </div>
+        <div class="form-group">
+            <input type="hidden" name="_subject" value="Academy interest form submission"  class="form-control input-lg">
+        </div>
+        <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
+        <button type="submit" class="btn btn-default">Submit</button>  
+    </form>
 </div>
 </div>
 <br>
@@ -26,7 +34,7 @@ So, you've got the basics down. You've taken a class or two, followed some tutor
 The Academy is our premier training program for students age 13 - 17 who aspire to be software developers. This program runs for 14 weeks each Spring and Fall semester, and meets twice a week, two hours per night.
 
 <div class="row">
-<img alt="Student with iPhone app project at Awesome Inc Academy" src="/img/academy-student.jpg" class="col-md-8 col-md-offset-2">
+<img alt="Student with iPhone app project at Awesome Inc Academy" src="/img/academy-student.jpg" class="col-md-8 col-md-offset-2 img-responsive">
 </div>
 
 During program sessions, our team of coding coaches work with each student to select a challenging final project, assess his or her current skill level, then design a curriculum to help them achieve their goals. Students work alongside other highly-talented peers to gain exposure to a breadth of topics, not just their own focus area. In addition to 56 in-class hours, our coaches are available throughout the semester via Slack online chat.
@@ -43,19 +51,25 @@ During program sessions, our team of coding coaches work with each student to se
 </div>
 </div>
 
-Ready to start making your own apps, games, or websites?
-
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
-<br>
-<form action="//formspree.io/info@awesomeincu.com"
-      method="POST">
-    <input type="text" name="name" placeholder="Your Name">
-    <input type="email" name="_replyto" placeholder="Email Address">
-    <input type="hidden" name="_subject" value="Academy interest form submission" />
-    <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/" />
-    <input type="submit" value="Send">
-</form>
+    <form action="//formspree.io/info@awesomeincu.com" method="POST">
+        <legend>Ready to start making your own apps, games, and websites?</legend>
+        <div class="form-group">
+            <input type="text" name="name" placeholder="Your Name" class="form-control input-lg">
+        </div>
+        <div class="form-group">
+            <input type="tel" name="phone" placeholder="Phone Number" class="form-control input-lg">
+        </div>
+        <div class="form-group">
+            <input type="email" name="email" placeholder="Email Address" class="form-control input-lg">
+        </div>
+        <div class="form-group">
+            <input type="hidden" name="_subject" value="Academy interest form submission"  class="form-control input-lg">
+        </div>
+        <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
+        <button type="submit" class="btn btn-default">Submit</button>  
+    </form>
 </div>
 </div>
 <br>
