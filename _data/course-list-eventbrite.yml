@@ -71,7 +71,7 @@
   early-bird-date: Aug 15
   url: http://www.eventbrite.com/e/ios-development-1-day-crash-course-tickets-17535941473
   logo: logo-ios.png 
-  status: 'active'
+  status: 'inactive'
 
 - title: Basic Web Development 1-Day
   curriculum: basicweb-crash
