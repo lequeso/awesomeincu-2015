@@ -7,11 +7,30 @@ redirect_from: /home/
 
     <!-- Carousel
     ================================================== -->
-    <div id="myCarousel" class="carousel slide carousel-fade" data-ride="carousel">
-      
+    <div id="course-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+      <ol class="carousel-indicators">
+{% for course in site.data.course-list-eventbrite limit: 4 %}
+  {% if course.status == 'active' %}
+        <li data-target="#course-carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+  {% endif %}
+{% endfor %}
+      </ol>
+
       <div class="carousel-inner" role="listbox">
-        <div class="item active">
-<!--          <img class="first-slide" src="/img/awesome-inc-break-room.jpg" alt="First slide">-->
+{% for course in site.data.course-list-eventbrite limit: 4 %}
+  {% if course.status == 'active' %}
+        <div class="item {% if forloop.first %}active{% endif %}">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1><code>Learn To Code</code> with {{ course.title }}</h1>
+              <p style="background-color: rgba(0,0,0,0.3);">{{ course.headline }}</p>
+              <p><a class="btn btn-lg btn-primary" href="{{ course.url }}" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+  {% endif %}
+{% else %}
+        <div class="item">
           <div class="container">
             <div class="carousel-caption">
               <h1>Learn to Code <code>iOS</code></h1>
@@ -20,35 +39,8 @@ redirect_from: /home/
             </div>
           </div>
         </div>
-        <div class="item">
-<!--          <img class="second-slide" src="/img/awesome-inc-break-room.jpg" alt="Second slide">-->
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Learn to Code <code>Android</code></h1>
-              <p>Awesome Inc has courses in Java to boost your Android skills</p>
-              <p><a class="btn btn-lg btn-primary" href="/register/" role="button">Learn more</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="item">
-<!--          <img class="third-slide" src="/img/awesome-inc-break-room.jpg" alt="Third slide">-->
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Learn to Code <code>The Web</code></h1>
-              <p>Find cutting edge HTML5 classes and hit the 'net</p>
-              <p><a class="btn btn-lg btn-primary" href="/register/" role="button">Learn more</a></p>
-            </div>
-          </div>
-        </div>
-          <div class="item">
-<!--          <img class="fourth-slide" src="/img/awesome-inc-break-room.jpg" alt="fourth slide">-->
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Learn to Code <code>Video Games</code></h1>
-              <p>Make a game for any console with our Unity courses</p>
-              <p><a class="btn btn-lg btn-primary" href="/register/" role="button">Learn more</a></p>
-            </div>
-          </div>
+{% endfor %}
+        
         </div>
       </div>
     </div><!-- /.carousel -->

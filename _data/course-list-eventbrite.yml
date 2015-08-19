@@ -1,3 +1,58 @@
+# Note: convention is that 
+# upcoming classes are moved to top of list, in chronological order. 
+# Inactive classes should be moved to end of list.
+
+- title: Basic Web Development 1-Day
+  headline: Build that colorful website to finally sell your little cat bowties online.
+  curriculum: basicweb-crash
+  date: Sept 5
+  time: 9am - 3pm
+  student-price: 50
+  early-bird-price: 100
+  standard-price: 125
+  early-bird-date: Aug 22
+  url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
+  logo: logo-html.png
+  status: 'active'
+
+- title: After-School Coding Club
+  headline: Have fun and learn to code with friends! (Ages 9-13)
+  age_range: 9-13
+  curriculum: club
+  date: Sept - Dec
+  time: 5pm - 6:30pm
+  early-bird-price: 
+  standard-price: 100/mo
+  early-bird-date:
+  url: /after-school/
+  logo: logo_big.png
+  status: 'active'
+  curriculum-date: mon
+
+- title: Awesome Inc Academy
+  headline: Our premier training program for students (Ages 13 - 17)
+  age_range: 13-17
+  curriculum: academy
+  date: Sept - Dec
+  time: evenings
+  early-bird-price: 429/month
+  standard-price: 533/month
+  early-bird-date: Aug 21
+  url: /academy/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Awesome Inc U Membership
+  headline: For adult learners who want to go beyond "Hello, world"
+  age_range: adults
+  curriculum: membership
+  date: Sept - Dec
+  time: evenings
+  standard-price: 179/month
+  url: /membership/
+  logo: logo_big.png
+  status: 'active'
+
 - title: Week of Code summer camp
   curriculum: k12-week
   date: Aug 3 - Aug 6
@@ -73,18 +128,6 @@
   logo: logo-ios.png 
   status: 'inactive'
 
-- title: Basic Web Development 1-Day
-  curriculum: basicweb-crash
-  date: Sept 5
-  time: 9am - 3pm
-  student-price: 50
-  early-bird-price: 100
-  standard-price: 125
-  early-bird-date: Aug 22
-  url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
-  logo: logo-html.png
-  status: 'active'
-
 - title: Game Developer Bootcamp
   curriculum: gamedev
   date: July 6 - July 29
@@ -95,38 +138,6 @@
   url: /gamedev/
   logo: logo-unity3d.png
   status: 'inactive'
-
-- title: After-School Coding Club (age 9-13)
-  curriculum: club
-  date: Sept - Dec
-  time: 5pm - 6:30pm
-  early-bird-price: 
-  standard-price: 100/mo
-  early-bird-date:
-  url: /after-school/
-  logo: logo_big.png
-  status: 'active'
-  curriculum-date: mon
-
-- title: Awesome Inc Academy (age 13-17)
-  curriculum: academy
-  date: Sept - Dec
-  time: evenings
-  early-bird-price: 429/month
-  standard-price: 533/month
-  early-bird-date: Aug 21
-  url: /academy/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Awesome Inc U Membership (adults)
-  curriculum: membership
-  date: Sept - Dec
-  time: evenings
-  standard-price: 179/month
-  url: /membership/
-  logo: logo_big.png
-  status: 'active'
 
 - title: iPhone App Development 2-Day Advanced Course
   curriculum: ios-advanced

@@ -9,7 +9,7 @@
 				{% for course in site.data.course-list-eventbrite %}
 				{% if course.status == 'active' %}
 				
-					<tr><td><a href="{{ course.url }}"><img src="/img/logos/{{ course.logo }} " alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;{{ course.date }}, {{ course.time }}</td><td><a href="{{ course.url }}">{{ course.title }}</a></td><td> 
+					<tr><td><a href="{{ course.url }}"><img src="/img/logos/{{ course.logo }} " alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;{{ course.date }}, {{ course.time }}</td><td><a href="{{ course.url }}">{{ course.title }} {% if course.age_range %}(age: {{ course.age_range }}){% endif %}</a></td><td> 
 					{% if course.student-price %} 
 						${{ course.student-price }} (students), 
 					{% endif %}  
