@@ -73,5 +73,3 @@ During program sessions, our team of coding coaches work with each student to se
 </div>
 </div>
 <br>
-
-- - -

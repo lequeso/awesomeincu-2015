@@ -71,5 +71,3 @@ The After-School Coding Club meets one night a week for 90 minutes, and new sess
 </div>
 </div>
 <br>
-
-- - -
