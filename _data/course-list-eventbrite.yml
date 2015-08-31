@@ -2,19 +2,6 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: Basic Web Development 1-Day
-  headline: Build that colorful website to finally sell your little cat bowties online.
-  curriculum: basicweb-crash
-  date: Sept 5
-  time: 9am - 3pm
-  student-price: 50
-  early-bird-price: 100
-  standard-price: 125
-  early-bird-date: Aug 31
-  url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
-  logo: logo-html.png
-  status: 'active'
-
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
@@ -96,6 +83,19 @@
   early-bird-date:
   url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-17535772969
   logo: minecraft.png
+  status: 'inactive'
+  
+- title: Basic Web Development 1-Day
+  headline: Build that colorful website to finally sell your little cat bowties online.
+  curriculum: basicweb-crash
+  date: Sept 5
+  time: 9am - 3pm
+  student-price: 50
+  early-bird-price: 100
+  standard-price: 125
+  early-bird-date: Aug 31
+  url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
+  logo: logo-html.png
   status: 'inactive'
 
 - title: Day of Code for Kids (Minecraft Party Special)
