@@ -324,12 +324,18 @@ height: 350px;
 .mc-modal {
     top: 100px  !important;
 }
-/* Fix parallax for mobile screen sizes */
+}
+/* end fix */
+@media (max-width:1024px){
+    /* Fix parallax for mobile screen sizes */
 .scrollup {
     background-color: white;
     padding-top: 20px;
+    width:100%;
+    margin-left: 0;
+    margin-right: 0;
 }
 footer{
     background-color: white;
 }
-/* end fix */
+}
