@@ -1,5 +1,5 @@
 name: Awesome Inc U
-description: "Learn to Code"
+description: "Learn to Code classes for kids and adults in Lexington, Kentucky."
 highlighter: pygments
 permalink: /blog/:year/:month/:day/:title/
 gems:
