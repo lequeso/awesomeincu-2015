@@ -11,7 +11,8 @@ body {
 h1, h2 { font-family: 'Exo', sans-serif; font-weight: 300; text-transform: uppercase; }
 div.carousel-caption h1 {font-family: 'Exo', sans-serif; font-weight: 800; text-transform: none; }
 h3, h4, p, li, td { font-family: 'Lato', sans-serif; }
-p { font-size: 16px;}
+p, li { font-size: 18px;}
+.nav li {font-size: 14px;}
 a {color:#7ca5b7;}
 a:hover, a:focus, a:active{ color: #557991;}
 .btn-primary {
@@ -314,6 +315,8 @@ height: 350px;
   }
 }
 
+/* ---- */
+
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 120px;
@@ -324,29 +327,23 @@ height: 350px;
 @media (max-width: 980px) {
 .mc-modal {
     top: 100px  !important;
-<<<<<<< HEAD
 }
-}
-/* end fix */
+
 @media (max-width:1024px){
-    /* Fix parallax for mobile screen sizes */
-.scrollup {
-    background-color: white;
-    padding-top: 20px;
-    width:100%;
-    margin-left: 0;
-    margin-right: 0;
+/* Fix parallax for mobile screen sizes */
+  .scrollup {
+      background-color: white;
+      padding-top: 20px;
+      width:100%;
+      margin-left: 0;
+      margin-right: 0;
+  }
 }
 footer{
     background-color: white;
 }
-=======
-  }
-/* end fix */
-
 #mc_embed_signup {
   background: #fff;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
->>>>>>> nick-aug-28
 }
