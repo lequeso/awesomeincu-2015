@@ -6,7 +6,7 @@
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: Sept - Dec
+  date: Sept 15 - Dec 1, Tuesdays
   time: 5pm - 6:30pm
   early-bird-price: 
   standard-price: 100/mo
@@ -20,8 +20,8 @@
   headline: Our premier training program for students (Ages 13 - 17)
   age_range: 13-17
   curriculum: academy
-  date: Sept - Dec
-  time: evenings
+  date: Sept 14 - Dec 14, Mon & Thurs
+  time: 6 - 8pm
   early-bird-price: 429/month
   standard-price: 533/month
   early-bird-date: Sept 1
@@ -33,8 +33,8 @@
   headline: For adult learners who want to go beyond "Hello, world"
   age_range: adults
   curriculum: membership
-  date: Sept - Dec
-  time: evenings
+  date: Sept - Dec, Wednesdays
+  time: 6-8pm
   standard-price: 179/month
   url: /membership/
   logo: logo_big.png
