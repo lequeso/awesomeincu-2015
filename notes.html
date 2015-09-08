@@ -12,8 +12,6 @@ redirect_from:
   - /courses/weekofcode/
   - /courses/weekofcode2/
   - /courses/weekofcodelou/
-
-    
 ---
 
 <div class="container">
@@ -30,7 +28,7 @@ redirect_from:
           <div class="blog-post">
             <ul>
               {% for topic in site.notes %}
-              <li><a href={{post.url}}>{{ topic.title }}</a></li>
+              <li><a href={{topic.url}}>{{ topic.title }}</a></li>
               {% endfor %}
               </ul>
             </div>
