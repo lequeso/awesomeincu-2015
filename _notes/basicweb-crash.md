@@ -3,10 +3,9 @@ layout: notes
 title: Basic Web Crash Course
 doc_id: 1D03Nh-_lqjdbiZU8B78vZw5eVrQVY-BHYM3lPiJZgMI
 curriculum_link: basicweb-crash
-notes_height: 7000
 ---
 
-Welcome to the Basic Web Development Course from [Awesome Inc U](http://awesomeincu.com)! Our goal is to take the first steps, together, in learning how to make websites. We hope this will be a fun, useful learning experience.
+Welcome to the Basic Web Development Course from [Awesome Inc U](http://www.awesomeincu.com)! Our goal is to take the first steps, together, in learning how to make websites. We hope this will be a fun, useful learning experience.
 
 * * *
 
@@ -14,7 +13,7 @@ Welcome to the Basic Web Development Course from [Awesome Inc U](http://awesomei
 
 * The ability to type text on a computer (e.g. write an email, edit a Word document)
 
-* Access to a computer with OSX/Windows/Linux (must have permission to install programs)
+* Access to a computer with OS X/Windows/Linux (must have permission to install programs)
 
 * We’ll be installing [Google Chrome](http://www.google.com/chrome/), [Sublime Text](http://www.sublimetext.com/), and [Filezilla](https://filezilla-project.org/)
 
@@ -38,8 +37,6 @@ Welcome to the Basic Web Development Course from [Awesome Inc U](http://awesomei
 
 * Registering a domain name and deploying to a web server
 
-* Introduction to web frameworks including Bootstrap
-
 * Sandbox time with 1-on-1 support from our instructional team
 
 ## Course material
@@ -50,7 +47,7 @@ Welcome to the Basic Web Development Course from [Awesome Inc U](http://awesomei
 
 [Sample Website](http://ainc.github.io/basicweb-crash/index.html) (inspired by [this](http://www.kingscountyjerky.com/))
 
-Manual *(coming soon)*
+[Tutorial](/tutorials/business-website/)
 
 [Slide Deck](https://docs.google.com/presentation/edit?id=17vOuLgv_EY7V1MgPx6h17TNceu4A7MmAQytHrBJFSZI#slide=id.g71b015041b78197839)
 
