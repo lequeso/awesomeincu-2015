@@ -1,15 +1,15 @@
 ---
 layout: interest
-title: Membership
-curriculum_link: membership
-landing: /membership/
-hero_img: /img/Awesome-Inc-Membership.jpg
+title: Bootcamp
+curriculum_link: bootcamp
+landing: /bootcamp/
+hero_img: /img/Awesome-Inc-Membership-2.jpg
 ---
 
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
     <form action="//formspree.io/info@awesomeincu.com" method="POST">
-        <legend>Interested in coding classes for adults?</legend>
+        <legend>Ready to start your new career as a professional developer?</legend>
         <div class="form-group">
             <input type="text" name="name" placeholder="Your Name" class="form-control input-lg">
         </div>
@@ -20,7 +20,7 @@ hero_img: /img/Awesome-Inc-Membership.jpg
             <input type="email" name="email" placeholder="Email Address" class="form-control input-lg">
         </div>
         <div class="form-group">
-            <input type="hidden" name="_subject" value="Membership interest form submission"  class="form-control input-lg">
+            <input type="hidden" name="_subject" value="Bootcamp interest form submission"  class="form-control input-lg">
         </div>
         <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
         <button type="submit" class="btn btn-default">Submit</button>  
@@ -29,21 +29,14 @@ hero_img: /img/Awesome-Inc-Membership.jpg
 </div>
 <br>
 
-So, you've got the basics down. You've taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do you go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Membership is our answer.
-
-The Membership is our lightweight training program for adult learners who aspire to improve their software development skills. This program runs for 14 weeks each Spring and Fall, and meets one evening a week for two hours.
+The Web Developer Bootcamp is a 3-month, full-time training program for aspiring web developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in web development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, Angular.js, Ruby on Rails, AWS, GitHub, Agile, and more.
 
 <div class="row">
-<img alt="Student with iPhone app project at Awesome Inc Academy" src="/img/Awesome-Inc-Membership-2.jpg" class="col-md-8 col-md-offset-2 img-responsive">
+<img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="col-md-8 col-md-offset-2 img-responsive">
 </div>
 
-During program sessions, our team of coding coaches work with each student to select a challenging final project, assess his or her current skill level, then design a curriculum to help them achieve their goals. Students work alongside other highly-talented peers to gain exposure to a breadth of topics, not just their own focus area. In addition to 28 in-class hours, our coaches are available throughout the semester via Slack online chat.
+The Awesome Inc U Bootcamp Program costs $10,000. Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be able to interview with a number of our business partners to receive a full time position in Kentucky at a competitive developer's salary.
 
-## Membership Outcomes:
-
-*   Make your own Apps, Games, and Websites
-*   Learn Software Development methodology
-*   Meet professional programmers from local tech companies
 
 <div class="row">
 <div class="col-md-8 col-md-offset-2">
@@ -54,7 +47,7 @@ During program sessions, our team of coding coaches work with each student to se
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
     <form action="//formspree.io/info@awesomeincu.com" method="POST">
-        <legend>Ready to start making your own apps, games, and websites?</legend>
+        <legend>Want more information on our Web Developer Bootcamp?</legend>
         <div class="form-group">
             <input type="text" name="name" placeholder="Your Name" class="form-control input-lg">
         </div>
@@ -65,7 +58,7 @@ During program sessions, our team of coding coaches work with each student to se
             <input type="email" name="email" placeholder="Email Address" class="form-control input-lg">
         </div>
         <div class="form-group">
-            <input type="hidden" name="_subject" value="Membership interest form submission"  class="form-control input-lg">
+            <input type="hidden" name="_subject" value="Bootcamp interest form submission"  class="form-control input-lg">
         </div>
         <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
         <button type="submit" class="btn btn-default">Submit</button>  

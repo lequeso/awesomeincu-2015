@@ -1,7 +1,7 @@
 ---
 layout: program
-title: "Membership"
-description: "Actually Learn Code"
+title: Membership
+description: Actually Learn To Code
 cover: /img/Awesome-Inc-Membership.jpg
 application: /applications/membership/
 redirect_from: /programs/membership/
