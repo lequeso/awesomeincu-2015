@@ -2,12 +2,23 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
+- title: Web Developer Bootcamp
+  headline: Become A Professional Web Developer
+  age_range: adults
+  curriculum: bootcamp
+  date: Jan - April, Weekdays
+  time: 8am-5pm
+  standard-price: "10,000"
+  url: /bootcamp/
+  logo: logo_big.png
+  status: 'active'
+
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: Sept 15 - Dec 1, Tuesdays
-  time: 5pm - 6:30pm
+  date: Oct 13 - Nov 3, Tuesdays
+  time: 5-6:30pm
   early-bird-price: 
   standard-price: 100/mo
   early-bird-date:
@@ -20,11 +31,11 @@
   headline: Our premier training program for students (Ages 13 - 17)
   age_range: 13-17
   curriculum: academy
-  date: Sept 14 - Dec 14, Mon & Thurs
-  time: 6 - 8pm
-  early-bird-price: 429/month
+  date: Jan - April, Mon & Thurs
+  time: 6-8pm
+  early-bird-price:
   standard-price: 533/month
-  early-bird-date: Sept 1
+  early-bird-date:
   url: /academy/
   logo: logo_big.png
   status: 'active'
