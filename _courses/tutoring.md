@@ -5,7 +5,7 @@ description: Get Exclusive Help From The Experts
 cover: /img/private-tutoring.jpg
 application: /contact/
 ---
-In addition to teaching [group classes](/register/), our expert instructors are available for 1-on-1 tutoring. Whether you need help finishing that almost-complete Android app, studying for the AP Computer Science exam, or just prefer learning in a more personal environment, we’ve got someone who can get you through it. 
+In addition to teaching [group classes](/register/), our expert instructors are available for 1-on-1 tutoring and small group sessions. Whether you need help finishing that almost-complete Android app, studying for the AP Computer Science exam, or just prefer learning in a more personal environment, we’ve got someone who can get you through it. 
 
 ## Your First 2 Hours
 
@@ -25,8 +25,8 @@ Our coaching services are provided remotely via the Coach.me mobile app and webs
 
 *  Unlimited chat-based communication with coach
 *  Curriculum guidance on dozens of free resources
-*  Daily check-ins and progress accountability.
+*  Daily check-ins and progress accountability
 
-## 1-on-1 Technical Support
+## On-Demand Technical Support
 
-Need help getting your head around the latest JavaScript MVC framework? Making the transition from Objective-C to Swift? Are you a Rails developer who just got hired for a Django project? Our instructors are available to walk you through their experiences with a variety of languages and frameworks. We can take you beyond "Hello, World" tutorials, to pair programming as you dive into new topics, and even debugging your existing code. Our 1-on-1 tutoring rate is $95/hour.
+Need help getting your head around the latest JavaScript MVC framework? Is your 3-person development team making the transition from Objective-C to Swift? Are you a Rails developer who just got hired for a Django project? Our instructors are available to walk you through their experiences with a variety of languages and frameworks. We can take you beyond "Hello, World" tutorials, to pair programming as you dive into new topics, and even debugging your existing code. Our tutoring rate is $95/hour.

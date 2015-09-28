@@ -13,7 +13,6 @@ Can’t make it into Awesome Inc for our in-person courses? Been trying to learn
 
 Our coaching services are provided via the Coach.me mobile app and website. Coaching clients receive:
 
-*  Unlimited in-app texting with coach.
-*  Daily check-ins and communication with coach.
-*  Personalized advice to overcome your biggest obstacles.
-
+*  Unlimited chat-based communication with coach
+*  Curriculum guidance on dozens of free resources
+*  Daily check-ins and progress accountability

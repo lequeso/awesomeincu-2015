@@ -13,6 +13,16 @@
   logo: logo_big.png
   status: 'active'
 
+- title: Personalized Tutoring
+  headline: Get started or move forward, 1-on-1
+  age_range: kids, adults
+  date: Any
+  time: 8am-8pm
+  standard-price: 49 (1st session), $95
+  url: /tutoring/
+  logo: logo_big.png
+  status: 'active'
+
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
@@ -48,17 +58,6 @@
   time: 6-8pm
   standard-price: 179/month
   url: /membership/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Private Tutoring
-  headline: Get started or move forward, 1-on-1
-  age_range: kids, adults
-  date: Any
-  time: 8am-8pm
-  early-bird-price: 49
-  standard-price: 95
-  url: /private-tutoring/
   logo: logo_big.png
   status: 'active'
 
