@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Week of Code
 description: Awesome Inc U's Kids Coding Camp
 cover: /img/Awesome-Inc-Week-Of-Code.jpg

@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Private Tutoring
 description: Get Exclusive Help From The Experts
 cover: /img/private-tutoring.jpg

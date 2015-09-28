@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Corporate Training
 description: Bring The Movement To Your Workplace
 cover: /img/Corporate-Training.jpg

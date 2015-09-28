@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: School Assemblies
 description: Bring The Movement To Your School
 cover: /img/school-assemblies-3.jpg

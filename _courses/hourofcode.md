@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Hour of Code
 description: Introduce Your School to Code
 cover: /img/school-assemblies-1.jpg

@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: The Academy
 description: Awesome Inc U's Premier Coding Program
 cover: /img/Awesome-Inc-Academy.jpg

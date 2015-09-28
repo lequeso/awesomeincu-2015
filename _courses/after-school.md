@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: After-School Coding Club
 description: "Learn Code, Make Friends"
 cover: /img/After-School-Coding-Club.jpg

@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Remote Coaching
 description: Learn To Code, Wherever You Are
 cover: /img/learn-to-Code-Programs.jpg
@@ -12,6 +12,7 @@ Can’t make it into Awesome Inc for our in-person courses? Been trying to learn
 
 
 Our coaching services are provided via the Coach.me mobile app and website. Coaching clients receive:
+
 *  Unlimited in-app texting with coach.
 *  Daily check-ins and communication with coach.
 *  Personalized advice to overcome your biggest obstacles.

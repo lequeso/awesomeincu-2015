@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Game Developer Bootcamp
 description: Make Better Video Games
 cover: /img/Awesome-Inc-Academy.jpg

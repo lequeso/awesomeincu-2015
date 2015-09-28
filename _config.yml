@@ -17,12 +17,9 @@ collections:
     notes:
         output: true
         permalink: /notes/:path/
-    programs:
+    courses:
         output: true
         permalink: /:path/
-    services:
-        output: true
-        permalink: /services/:path/
     tutorials:
         output: true
         permalink: /tutorials/:path/

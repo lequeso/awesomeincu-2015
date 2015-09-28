@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Membership
 description: Actually Learn To Code
 cover: /img/Awesome-Inc-Membership.jpg

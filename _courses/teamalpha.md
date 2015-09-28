@@ -1,5 +1,5 @@
 ---
-layout: program
+layout: course
 title: Team Alpha
 description: Write Code With The Pros
 cover: /img/Team-Alpha-Apprenticeship.jpg

@@ -302,7 +302,7 @@ Note: many projects here will take longer than 4 hours to complete. That's OK! O
 
     1. Online resources: [Codecademy](http://www.codecademy.com/), [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
     2. [Awesome Inc Academy](http://awesomeincu.com/academy)
-    3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/programs/afterschool/)
+    3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/after-school/)
 
 #### 5pm
 

@@ -1,10 +1,10 @@
 ---
-layout: program
+layout: course
 title: Web Developer Bootcamp
 description: Become A Professional Web Developer
 cover: /img/Awesome-Inc-Membership-2.jpg
 application: /applications/bootcamp/
-redirect_from: /programs/bootcamp/
+redirect_from:
 permalink: /bootcamp/
 ---
 
