@@ -51,6 +51,17 @@
   logo: logo_big.png
   status: 'active'
 
+- title: Private Tutoring
+  headline: Get started or move forward, 1-on-1
+  age_range: kids, adults
+  date: Any
+  time: 8am-8pm
+  early-bird-price: 49
+  standard-price: 95
+  url: /private-tutoring/
+  logo: logo_big.png
+  status: 'active'
+
 - title: Week of Code summer camp
   curriculum: k12-week
   date: Aug 3 - Aug 6
