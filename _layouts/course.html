@@ -8,13 +8,14 @@ layout: page
       <div class="container center">
         <h1>{{page.title}}</h1>
         <p>{{page.description}}</p>
-        <p><a class="btn btn-primary btn-lg" href={{page.application}} role="button"> {% if page.path contains 'services' %}
-            Get Started
+        <p><a class="btn btn-primary btn-lg" {% if page.registration %}
+            href="{{page.registration}}" target="_blank" role="button"> Register
             {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
-              Register {{page.dateName1}}
+              href="{{page.application}}" role="button">Register {{page.dateName1}}
               {% else %}
-              Apply Now
-              {% endif %} &raquo;</a></p>
+              href="{{page.application}}" role="button">Apply Now
+              {% endif %}
+              &raquo;</a></p>
           {% if page.multipleDates == true %}
                <p><a class="btn btn-primary btn-lg" href={{page.application2}} role="button" > Register {{page.dateName2}} &raquo;</a></p>
           {% endif %}
@@ -27,14 +28,15 @@ layout: page
           {{content}}
             
             
-          <p><a class="btn btn-lg btn-primary center-block" href="{{page.application}}" role="button">
-              {% if page.path contains 'services'%}
-            Get Started
+          <p><a class="btn btn-lg btn-primary center-block"
+              {% if page.registration %}
+            href="{{page.registration}}" target="_blank" role="button">Register
                {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
-              Register {{page.dateName1}}
+              href="{{page.application}}" role="button">Register {{page.dateName1}}
               {% else %}
-              Start Application
-              {% endif %} &raquo;</a></p>
+              href="{{page.application}}" role="button">Start Application
+              {% endif %}
+              &raquo;</a></p>
              {% if page.multipleDates == true %}
                <p><a class="btn btn-primary btn-lg center-block" href={{page.application2}} role="button" > Register {{page.dateName2}} &raquo;</a></p>
           {% endif %}
