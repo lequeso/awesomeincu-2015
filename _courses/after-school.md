@@ -4,6 +4,7 @@ title: After-School Coding Club
 description: "Learn Code, Make Friends"
 cover: /img/After-School-Coding-Club.jpg
 application: /applications/after-school/
+registration: https://www.eventbrite.com/e/awesome-inc-after-school-coding-club-fall-2015-tuesdays-tickets-18409149261
 redirect_from: /programs/afterschool/
 permalink: /after-school/
 ---
