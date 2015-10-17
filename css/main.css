@@ -208,13 +208,14 @@ a:hover, a:focus, a:active{ color: #557991;}
   top:0;
   left:0;
   z-index: -1;
+  background-size: cover;
 }
 
 .jumbotron {
 color: white;
 text-shadow: 1px 1px 1px #000000;
 height: 350px;
-  background:transparent;
+background:transparent;
 }
 
 .center-block{
@@ -222,20 +223,36 @@ height: 350px;
 }
 /* Jumbotron-Large
 ---------------------------*/
-.bg-image-large {
-  /*position: fixed;*/
-  width: 100%;
-  height: 500px; /*same height as jumbotron-large */
-/*  top:0;
-  left:0;*/
+.jumbotron-large {
+  opacity: 1;
+  height: 500px;
+  z-index: 1;
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-size: cover;
   z-index: -1;
+  padding-top: 40px;
 }
 
-.jumbotron-large {
-color: white;
-text-shadow: 1px 1px 1px #000000;
-height: 500px;
-background:transparent;
+.jumbotron-mask {
+  width: 100%;
+  height: 500px; /*same height as jumbotron-large */
+  z-index: 0;
+  background-color: #555;
+  opacity: 0.6;
+  position: absolute;
+  top: 50px; /* offset for navbar */
+  left: 0;
+}
+
+.jumbotron-large legend, .jumbotron-large h1, .jumbotron-large p {
+  color: white;
+  opacity: 1;
+  text-shadow: 1px 1px 1px #000000;
+}
+
+legend {
+  margin-top: 20px;
 }
 
 /* Blog styles

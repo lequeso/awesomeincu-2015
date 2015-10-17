@@ -3,16 +3,17 @@ layout: page
 ---
 
 <!-- Main jumbotron for a primary marketing message or call to action -->
-    <div class="jumbotron-large" style="background: url({{page.hero_img}}); background-repeat: no-repeat; background-position: center; background-size: 100%;">
+    <div class="jumbotron-large" style="background-image: url({{page.hero_img}});">
+      <div class="jumbotron-mask"></div>
       <div class="container">
-        <div class="col-lg-6">
+        <div class="col-sm-7">
           <h1>Awesome Inc {{page.title}}</h1>
           <p>{{page.description}}</p>
           </div>
-          <div class="col-lg-6" style="color: #fff;">
+          <div class="col-sm-5">
             {% include formspree.html %}
           </div>
-      </div> 
+      </div>
 </div>
         <div class="container">
             <!-- Headline text -->
