@@ -2,7 +2,7 @@
 layout: interest
 title: After-School Coding Club
 curriculum_link: after-school
-landing: /after-school/
+course: /after-school/
 hero_img: /img/After-School-Coding-Club.jpg
 ---
 

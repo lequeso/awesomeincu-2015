@@ -2,7 +2,7 @@
 layout: interest
 title: Membership
 curriculum_link: membership
-landing: /membership/
+course: /membership/
 hero_img: /img/Awesome-Inc-Membership.jpg
 ---
 

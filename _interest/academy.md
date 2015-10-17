@@ -2,7 +2,7 @@
 layout: interest
 title: Academy
 curriculum_link: academy
-landing: /academy/
+course: /academy/
 hero_img: /img/academy-group.jpg
 ---
 
