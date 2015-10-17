@@ -209,6 +209,8 @@ a:hover, a:focus, a:active{ color: #557991;}
   left:0;
   z-index: -1;
   background-size: cover;
+  background-repeat: no-repeat; 
+  background-position: center;
 }
 
 .jumbotron {
