@@ -4,30 +4,9 @@ title: Membership
 curriculum_link: membership
 course: /membership/
 hero_img: /img/Awesome-Inc-Membership.jpg
+form_legend: Interested in weekly coding classes for adults?
+description: It's never to late to learn to code. Join our diverse group of professionals and learn a new skill. Meets Tuesday evenings from 7-9pm.
 ---
-
-<div class="row">
-<div class="col-md-10 col-md-offset-1">
-    <form action="//formspree.io/info@awesomeincu.com" method="POST">
-        <legend>Interested in coding classes for adults?</legend>
-        <div class="form-group">
-            <input type="text" name="name" placeholder="Your Name" class="form-control input-lg">
-        </div>
-        <div class="form-group">
-            <input type="tel" name="phone" placeholder="Phone Number" class="form-control input-lg">
-        </div>
-        <div class="form-group">
-            <input type="email" name="email" placeholder="Email Address" class="form-control input-lg">
-        </div>
-        <div class="form-group">
-            <input type="hidden" name="_subject" value="Membership interest form submission"  class="form-control input-lg">
-        </div>
-        <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
-        <button type="submit" class="btn btn-default">Submit</button>  
-    </form>
-</div>
-</div>
-<br>
 
 So, you've got the basics down. You've taken a class or two, followed some tutorials, built a few “Hello, world” programs. How do you go beyond learning-to-code and take your software development skills to the next level? The Awesome Inc Membership is our answer.
 
@@ -41,35 +20,8 @@ During program sessions, our team of coding coaches work with each student to se
 
 ## Membership Outcomes:
 
-*   Make your own Apps, Games, and Websites
+*   Make your own Apps, Website, and Video Games
 *   Learn Software Development methodology
-*   Meet professional programmers from local tech companies
+*   Network with professional programmers from local tech companies
 
-<div class="row">
-<div class="col-md-8 col-md-offset-2">
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kSqzDzU-Bxo"></iframe></div>
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-10 col-md-offset-1">
-    <form action="//formspree.io/info@awesomeincu.com" method="POST">
-        <legend>Ready to start making your own apps, games, and websites?</legend>
-        <div class="form-group">
-            <input type="text" name="name" placeholder="Your Name" class="form-control input-lg">
-        </div>
-        <div class="form-group">
-            <input type="tel" name="phone" placeholder="Phone Number" class="form-control input-lg">
-        </div>
-        <div class="form-group">
-            <input type="email" name="email" placeholder="Email Address" class="form-control input-lg">
-        </div>
-        <div class="form-group">
-            <input type="hidden" name="_subject" value="Membership interest form submission"  class="form-control input-lg">
-        </div>
-        <input type="hidden" name="_next" value="//www.awesomeincu.com/thanks/">
-        <button type="submit" class="btn btn-default">Submit</button>  
-    </form>
-</div>
-</div>
-<br>

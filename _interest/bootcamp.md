@@ -10,15 +10,8 @@ description: Become a web developer with our intense 14-week program. Taught by 
 
 The Web Developer Bootcamp is a 3-month, full-time training program for aspiring web developers. We've worked with companies throughout the region to design a curriculum to prepare you to dive into a career in web development. This intense training program is designed to quickly take you from the basics of programming to a level of competency in building modern web applications. With over 500 hours of hands-on training, you'll gain experience while building 10+ projects using HTML, CSS, JavaScript, jQuery, Angular.js, Ruby on Rails, AWS, GitHub, Agile, and more.
 
-<div class="row">
-<img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="col-md-8 col-md-offset-2 img-responsive">
-</div>
+<img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
 
 The Awesome Inc U Bootcamp Program costs $10,000. Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be able to interview with a number of our business partners to receive a full time position in Kentucky at a competitive developer's salary.
 
-
-<div class="row">
-<div class="col-md-8 col-md-offset-2">
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kSqzDzU-Bxo"></iframe></div>
-</div>
-</div>
