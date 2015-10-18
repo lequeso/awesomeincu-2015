@@ -253,8 +253,9 @@ background:transparent;
   text-shadow: 1px 1px 1px #000000;
 }
 
-legend {
-  margin-top: 20px;
+form {
+  margin-top: 16px;
+  font-family: 'Lato', sans-serif;
 }
 
 /* Blog styles
