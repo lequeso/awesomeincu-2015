@@ -3,14 +3,14 @@
 /* Padding below the footer and lighter body text */
 
 body {
-    padding-top: 50px;
+  padding-top: 50px;
   padding-bottom: 40px;
   color: #5a5a5a;
+  font-family: 'Lato', sans-serif;
 }
 
 h1, h2 { font-family: 'Exo', sans-serif; font-weight: 300; text-transform: uppercase; }
 div.carousel-caption h1 {font-family: 'Exo', sans-serif; font-weight: 800; text-transform: none; }
-h3, h4, p, li, td { font-family: 'Lato', sans-serif; }
 p, li { font-size: 18px;}
 .nav li {font-size: 14px;}
 a {color:#7ca5b7;}
@@ -233,7 +233,12 @@ background:transparent;
   background-position: center; 
   background-size: cover;
   z-index: -1;
+}
+
+@media (min-width: 768px) {
+  .jumbotron-large {
   padding-top: 40px;
+  }
 }
 
 .jumbotron-mask {
@@ -255,6 +260,7 @@ background:transparent;
 
 form {
   margin-top: 16px;
+  margin-bottom: 16px;
   font-family: 'Lato', sans-serif;
 }
 
