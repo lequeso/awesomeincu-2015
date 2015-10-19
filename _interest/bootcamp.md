@@ -16,27 +16,4 @@ The Awesome Inc U Bootcamp Program costs $10,000. Participants are expected to b
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
 
-## FAQs
-
-### Who should apply for this Bootcamp?
-
-Our ideal applicants are professional men and women who are looking to transition into a career in software development. This program is not for everyone. Like all Awesome Inc initiatives, we've built this program with our [Core Values](http://www.awesomeinc.org/about/#core-values) in mind. CV #2 (Be Excellent) is a big part of this program. We expect that many of our candidates will have deep experience in a related field, such as graphic design, math/finance, or project management. Some applicants will have prior programming experience, maybe a class back in college, but many will not.
-
-We expect than many of our applicants will be from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, West Virginia. Since our 14-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as full-time employment) to focus on learning for that duration.
-
-### How do tuition payments work?
-
-Tuition for the Bootcamp is $10,000. The first $1000 is due once your application is accepted to secure your spot in the program. The remaining $9000 due in up to three installments throughout the duration of the program. Payments can be made via check or credit card. If the only thing keeping you from participating in the program is finances, please [contact us](contact/) and we'll do our best to work with you to find a solution.
-
-### What will I learn during the Bootcamp?
-
-Our curriculum provides what we and our employer partners see as necessary skills for a junior web developer. We will start with 
-
-Will you be optimizing C++ code for image processing algorithms by the end of your 14 weeks? If that's where your interests fall, then a Masters Degree in Computer Science is probably a better fit.
-
-### Why do you require prework before the bootcamp?
-
-There are two reasons. First, we want to hit the ground running on week one. Our students start with different prior experiences, so we want to make sure everyone is starting at (nearly) the same spot. And we want that spot to be somewhere beyond absolute zero. Our program is an intense 14 weeks, but without the prework, we couldn't fit in all that you'll need. Don't worry, Bootcamp week 1 will include a review of material you'll be covering on your own during Prework.
-
-Second, one of our Awesome Inc co-founders is a physician and an author. As such, Dr. Luke Murray has interviewed hundreds of medical students from across the country. These are people who have spent their whole lives focused on becoming doctors, starting with high school biology classes, volunteering to help sick kids, all the way through taking the MCAT and getting into medical school. Something odd that Luke noticed was this: many medical students never _tried being a doctor_ until it was too late. Maybe they didn't like seeing blood, or maybe they were no good at talking with patients. We like to get this out of the way early. Maybe you don't actually like programming, or maybe you're way better at graphic design or video production. Again, our program is not a good fit for everyone, so the Prework helps you to figure this out.
-
+Fill out the form below to hear back from our team, read about the [bootcamp on our blog](/blog/), or head on over to the [main Bootcamp page](/bootcamp/) to start your application.
