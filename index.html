@@ -3,11 +3,9 @@ layout: page
 permalink: /
 redirect_from: /home/
 ---
-
-
-    <!-- Carousel
-    ================================================== -->
-    <div id="course-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+<!-- Carousel
+================================================== -->
+<div id="course-carousel" class="carousel slide carousel-fade" data-ride="carousel">
       <ol class="carousel-indicators">
 {% for course in site.data.course-list-eventbrite limit: 4 %}
   {% if course.status == 'active' %}
@@ -40,10 +38,8 @@ redirect_from: /home/
           </div>
         </div>
 {% endfor %}
-        
-        </div>
-      </div>
-    </div><!-- /.carousel -->
+    </div>
+</div><!-- /.carousel -->
 
 
     <!-- Marketing messaging and featurettes
@@ -128,6 +124,5 @@ redirect_from: /home/
           <img class="featurette-image img-responsive center-block img-rounded" src="/img/Awesome-Inc-Academy-Square.jpg" alt="Generic placeholder image">
         </div>
       </div>
-
 </div>
 <!-- /END THE FEATURETTES -->
