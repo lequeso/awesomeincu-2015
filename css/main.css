@@ -5,13 +5,22 @@
 body {
   padding-top: 50px;
   padding-bottom: 40px;
-  color: #5a5a5a;
+  color: #3e3e3e;
+  background-color: #fefefe;
   font-family: 'Lato', sans-serif;
+}
+
+footer {
+  margin-bottom: -40px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  background-color: #f9f9f9;
 }
 
 h1, h2 { font-family: 'Exo', sans-serif; font-weight: 300; text-transform: uppercase; }
 div.carousel-caption h1 {font-family: 'Exo', sans-serif; font-weight: 800; text-transform: none; }
 p, li { font-size: 18px;}
+p { margin-bottom: 30px;}
 .nav li {font-size: 14px;}
 a {color:#7ca5b7;}
 a:hover, a:focus, a:active{ color: #557991;}
@@ -376,18 +385,15 @@ form {
 @media (max-width:1024px){
 /* Fix parallax for mobile screen sizes */
   .scrollup {
-      background-color: white;
+      background-color: #fefefe;
       padding-top: 20px;
       width:100%;
       margin-left: 0;
       margin-right: 0;
   }
 }
-footer{
-    background-color: white;
-}
 #mc_embed_signup {
-  background: #fff;
+  background-color: #fefefe;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
 }
