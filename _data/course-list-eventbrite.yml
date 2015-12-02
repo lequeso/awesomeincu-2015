@@ -2,32 +2,23 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: Web Developer Bootcamp
-  headline: Become A Professional Web Developer
-  age_range: adults
-  curriculum: bootcamp
-  date: Jan - April, Weekdays
-  time: 8am-5pm
-  standard-price: "10,000"
-  url: /bootcamp/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Personalized Tutoring
-  headline: Get started or move forward, 1-on-1
-  age_range: kids, adults
-  date: Any
-  time: 8am-8pm
-  standard-price: 49 (1st session), $95
-  url: /tutoring/
-  logo: logo_big.png
+- title: Minecraft Party
+  headline: "Play games and learn some code, too! (Ages 8 - 14)"
+  curriculum: minecraft
+  date: Dec 11th
+  time: 6pm - 9pm
+  early-bird-price:
+  standard-price: 20
+  early-bird-date:
+  url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-19795685428
+  logo: minecraft.png
   status: 'active'
 
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: Oct 13 - Nov 3, Tuesdays
+  date: Jan 12 - May 3, Tuesdays
   time: 5-6:30pm
   early-bird-price: 
   standard-price: 100/mo
@@ -37,27 +28,48 @@
   status: 'active'
   curriculum-date: mon
 
+- title: Web Developer Bootcamp
+  headline: Become A Professional Web Developer
+  age_range: adults
+  curriculum: bootcamp
+  date: Feb - May, Weekdays
+  time: 8am-5pm
+  standard-price: "10,000"
+  url: /bootcamp/
+  logo: logo_big.png
+  status: 'active'
+
 - title: Awesome Inc Academy
   headline: Our premier training program for students (Ages 13 - 17)
   age_range: 13-17
   curriculum: academy
-  date: Jan - April, Mon & Thurs
+  date: Jan 25 - April 28, Mon & Thurs
   time: 6-8pm
-  early-bird-price:
+  early-bird-price: 429/month
   standard-price: 533/month
-  early-bird-date:
+  early-bird-date: Dec 31st
   url: /academy/
   logo: logo_big.png
   status: 'active'
 
 - title: Awesome Inc U Membership
-  headline: For adult learners who want to go beyond "Hello, world"
+  headline: 'For adult learners who want to go beyond "Hello, world"'
   age_range: adults
   curriculum: membership
-  date: Sept - Dec, Wednesdays
-  time: 6-8pm
+  date: Jan 26 - April 26, Tuesdays
+  time: 7-9pm
   standard-price: 179/month
   url: /membership/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Personalized Tutoring
+  headline: Get started or move forward, 1-on-1
+  age_range: kids, adults
+  date: Any
+  time: 8am-8pm
+  standard-price: 49 (1st session), $95/hr
+  url: /tutoring/
   logo: logo_big.png
   status: 'active'
 
@@ -95,17 +107,6 @@
   landingHeader: "What your kids can learn this Spring!"
   landingDiscount: "Make a website, mobile app, and video game at this camp!"
 
-- title: Minecraft Party
-  curriculum: minecraft
-  date: Aug 7th 
-  time: 6pm - 9pm
-  early-bird-price:
-  standard-price: 20
-  early-bird-date:
-  url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-17535772969
-  logo: minecraft.png
-  status: 'inactive'
-  
 - title: Basic Web Development 1-Day
   headline: Build that colorful website to finally sell your little cat bowties online.
   curriculum: basicweb-crash
@@ -119,12 +120,12 @@
   logo: logo-html.png
   status: 'inactive'
 
-- title: Day of Code for Kids (Minecraft Party Special)
+- title: Day of Code for Kids
   curriculum: k12-day
   date: Aug 8
   time: 12pm - 5pm
   student-price: 
-  early-bird-price: 100 + free minecraft party ticket
+  early-bird-price: 100
   standard-price: 125
   early-bird-date: July 24
   url: http://www.eventbrite.com/e/kids-code-camp-dayofcode-tickets-17535646591
