@@ -2,18 +2,6 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: Minecraft Party
-  headline: "Play games and learn some code, too! (Ages 8 - 14)"
-  curriculum: minecraft
-  date: Dec 11th
-  time: 6pm - 9pm
-  early-bird-price:
-  standard-price: 20
-  early-bird-date:
-  url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-19795685428
-  logo: minecraft.png
-  status: 'active'
-
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
@@ -21,34 +9,36 @@
   date: Jan 12 - May 3, Tuesdays
   time: 5-6:30pm
   early-bird-price: 
-  standard-price: 100/mo
+  standard-price: 100/month
   early-bird-date:
   url: /after-school/
   logo: logo_big.png
   status: 'active'
   curriculum-date: mon
 
-- title: Web Developer Bootcamp
-  headline: Become A Professional Web Developer
-  age_range: adults
-  curriculum: bootcamp
-  date: Feb - May, Weekdays
-  time: 8am-5pm
-  standard-price: "10,000"
-  url: /bootcamp/
-  logo: logo_big.png
-  status: 'active'
-
 - title: Awesome Inc Academy
   headline: Our premier training program for students (Ages 13 - 17)
   age_range: 13-17
   curriculum: academy
-  date: Jan 25 - April 28, Mon & Thurs
+  date: Jan 26 - April 28, Tues & Thurs
   time: 6-8pm
-  early-bird-price: 429/month
+  early-bird-price: <del>429/month
   standard-price: 533/month
-  early-bird-date: Dec 31st
+  early-bird-date: Dec 31st</del>
   url: /academy/
+  logo: logo_big.png
+  status: 'active'
+
+- title: AP Computer Science prep
+  headline: Learn CS and pass the AP exam
+  age_range: 13-18
+  curriculum: apcs
+  date: Jan 28 - April 28, Thursdays
+  time: 6-8pm
+  early-bird-price: 
+  standard-price: 849
+  early-bird-date: 
+  url: /apcs/
   logo: logo_big.png
   status: 'active'
 
@@ -60,6 +50,17 @@
   time: 7-9pm
   standard-price: 179/month
   url: /membership/
+  logo: logo_big.png
+  status: 'active'
+
+- title: Web Developer Bootcamp
+  headline: Become A Professional Web Developer
+  age_range: adults
+  curriculum: bootcamp
+  date: Fall 2016, Weekdays
+  time: 8am-5pm
+  standard-price: "10,000"
+  url: /bootcamp/
   logo: logo_big.png
   status: 'active'
 
@@ -118,6 +119,18 @@
   early-bird-date: Aug 31
   url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
   logo: logo-html.png
+  status: 'inactive'
+
+- title: Minecraft Party
+  headline: "Play games and learn some code, too! (Ages 8 - 14)"
+  curriculum: minecraft
+  date: 
+  time: 
+  early-bird-price:
+  standard-price: 20
+  early-bird-date:
+  url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-19795685428
+  logo: minecraft.png
   status: 'inactive'
 
 - title: Day of Code for Kids
