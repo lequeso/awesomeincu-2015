@@ -9,7 +9,7 @@ When your organization needs specific training on a specific timeline, you can b
 
 We’ll come to you for on-site training.
 
-Past clients: Lexmark, Dreamhost
+Past clients: Lexmark, Dreamhost, NSBE
 
 Rates start at $4000 for a 6-hour course, up to 30 participants.
 
