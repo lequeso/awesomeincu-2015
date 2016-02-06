@@ -13,7 +13,7 @@ dateName2: August
 
 Instead of your kids spending their summer playing apps, what if they spent it learning to make them? This camp for middle and high school students introduces the fundamentals of coding. Students will create websites, mobile apps, and video games all while having fun with our energetic team. By the end of the camp, each student will have built at least one web page, mobile app, and video game using programming languages like HTML, CSS, JavaScript, Android, and Unity 3D. We keep this camp small to ensure everyone gets very focused attention and learns at their own pace. Prepare to be amazed!
 
-![Logic diagram](/img/weekofcode_screenshots.png)
+![Week of Code screenshots of app, game, website](/img/weekofcode_screenshots.png)
 
 ### Curriculum
 

@@ -6,7 +6,7 @@
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: Jan 12 - May 3, Tuesdays
+  date: Feb 9 - May 3, Tuesdays
   time: 5-6:30pm
   early-bird-price: 
   standard-price: 100/month
@@ -16,24 +16,11 @@
   status: 'active'
   curriculum-date: mon
 
-- title: Awesome Inc Academy
-  headline: Our premier training program for students (Ages 13 - 17)
-  age_range: 13-17
-  curriculum: academy
-  date: Jan 26 - April 28, Tues & Thurs
-  time: 6-8pm
-  early-bird-price: <del>429/month
-  standard-price: 533/month
-  early-bird-date: Dec 31st</del>
-  url: /academy/
-  logo: logo_big.png
-  status: 'active'
-
 - title: AP Computer Science prep
   headline: Learn CS and pass the AP exam
   age_range: 13-18
   curriculum: apcs
-  date: Jan 28 - April 28, Thursdays
+  date: Feb 25 - April 28, Thursdays
   time: 6-8pm
   early-bird-price: 
   standard-price: 849
@@ -46,11 +33,37 @@
   headline: 'For adult learners who want to go beyond "Hello, world"'
   age_range: adults
   curriculum: membership
-  date: Jan 26 - April 26, Tuesdays
+  date: March 1 - April 26, Tuesdays
   time: 7-9pm
   standard-price: 179/month
   url: /membership/
   logo: logo_big.png
+  status: 'active'
+
+- title: Week of Code summer camp - Lexington
+  headline: "Spend your summer making apps, games, and websites"
+  age_range: 11-16
+  curriculum: k12-week
+  date: July 12 - 15
+  time: 1pm - 5pm
+  early-bird-price: 495
+  standard-price: 625
+  early-bird-date: May 1
+  url: https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-21317300620
+  logo: Week-of-Code-Logo.png
+  status: 'active'
+
+- title: Week of Code summer camp - Lexington
+  headline: "Spend your summer making apps, games, and websites"
+  age_range: 11-16
+  curriculum: k12-week
+  date: Aug 2 - 5
+  time: 1pm - 5pm
+  early-bird-price: 495
+  standard-price: 625
+  early-bird-date: May 1
+  url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
+  logo: Week-of-Code-Logo.png
   status: 'active'
 
 - title: Web Developer Bootcamp
@@ -74,39 +87,20 @@
   logo: logo_big.png
   status: 'active'
 
-- title: Week of Code summer camp
-  curriculum: k12-week
-  date: Aug 3 - Aug 6
-  time: 1pm - 5pm
-  location: Lexington
-  student-price: 
-  early-bird-price: 495
-  standard-price: 695
-  early-bird-date: July 27
-  url: https://www.eventbrite.com/e/awesome-inc-week-of-code-camp-august-tickets-15971522253
-  eid: 15971522253 # this entry will be deprecated, can be regex'd from url
-  logo: Week-of-Code-Logo.png
-  number-students: 
-  seats-remain: 15
-  benefits: ["Learn coding basics", "Make a website, mobile app, and video game at this camp"]
-  difficulty: BEGINNER
-  testimonials: []
-  curriculum-contents: ['Introduction to Computer Science concepts with Code.org', 'Learning to write code with Codecademy','Web Development with HTML, CSS, and JavaScript', 'Mobile App Development with Android', 'Video Game Development with Unity 3D', 'Sandbox time with 1-on-1 support from our <a href="/#instructors">instructional team</a>', 'Final project presentations at the end of the camp']
-  requirements: ['Laptop computer (Win, Mac) capable of running Unity 3D, Google Chrome, and Android Studio', 'Experience typing and manipulating files on a computer', 'Experience using a variety of websites, mobile apps, and video games']
-  headline: "Instead of your kids spending their time playing apps, what if they spent their time learning to write them? This camp for middle and high school students will teach the fundamentals of coding. Students will create websites, mobile apps and learn to design video games all while having fun with our energetic team. By the end of the camp, each student will have built at least 1 web page, mobile app, and video game using HTML, CSS, JavaScript, Android, and Unity 3D. We keep this camp small to ensure everyone gets very focused attention and learns at their own pace. Prepare to be amazed!"
-  course-images: [
-    ["day-of-code-1.jpg", Instructors helping kids program computers],
-    ["day-of-code-2.jpg", Kids programming]
-  ]
-  screenshots: [
-    ["basicweb-crash-screenshot1.png", Web development screenshot],
-    ["android-crash-device.jpg", Android app and code],
-    ["unity-crash-angry-boxes.jpg", Angry Boxes game made with Unity]
-  ]
+# Note: Inactive Courses below here
+
+- title: Awesome Inc Academy
+  headline: Our premier training program for students (Ages 13 - 17)
+  age_range: 13-17
+  curriculum: academy
+  date: Jan 26 - April 28, Tues & Thurs
+  time: 6-8pm
+  early-bird-price: <del>429/month
+  standard-price: 533/month
+  early-bird-date: Dec 31st</del>
+  url: /academy/
+  logo: logo_big.png
   status: 'inactive'
-  landingTitle: Kids Code Camp
-  landingHeader: "What your kids can learn this Spring!"
-  landingDiscount: "Make a website, mobile app, and video game at this camp!"
 
 - title: Basic Web Development 1-Day
   headline: Build that colorful website to finally sell your little cat bowties online.
