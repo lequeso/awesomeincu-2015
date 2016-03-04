@@ -6,7 +6,7 @@
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: Feb 9 - May 3, Tuesdays
+  date: March 8 - April 5, Tuesdays
   time: 5-6:30pm
   early-bird-price: 
   standard-price: 100/month
@@ -16,28 +16,28 @@
   status: 'active'
   curriculum-date: mon
 
-- title: AP Computer Science prep
-  headline: Learn CS and pass the AP exam
-  age_range: 13-18
-  curriculum: apcs
-  date: Feb 25 - April 28, Thursdays
-  time: 6-8pm
-  early-bird-price: 
-  standard-price: 849
-  early-bird-date: 
-  url: /apcs/
+- title: What is a Coding Bootcamp?
+  headline: Learn How To Become A Professional Web Developer
+  age_range: adults
+  curriculum: bootcamp
+  date: March 23
+  time: 6:30pm
+  standard-price: 0 - free
+  url: https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737
   logo: logo_big.png
   status: 'active'
 
-- title: Awesome Inc U Membership
-  headline: 'For adult learners who want to go beyond "Hello, world"'
-  age_range: adults
-  curriculum: membership
-  date: March 1 - April 26, Tuesdays
-  time: 7-9pm
-  standard-price: 179/month
-  url: /membership/
-  logo: logo_big.png
+- title: Week of Code summer camp - Louisville
+  headline: "Spend your summer making apps, games, and websites"
+  age_range: 11-16
+  curriculum: k12-week
+  date: June 20 - 23
+  time: 1pm - 5pm
+  early-bird-price: 495
+  standard-price: 625
+  early-bird-date: May 1
+  url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
+  logo: Week-of-Code-Logo.png
   status: 'active'
 
 - title: Week of Code summer camp - Lexington
@@ -64,6 +64,17 @@
   early-bird-date: May 1
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
   logo: Week-of-Code-Logo.png
+  status: 'active'
+
+- title: Awesome Inc U Membership
+  headline: 'For adult learners who want to go beyond "Hello, world"'
+  age_range: adults
+  curriculum: membership
+  date: March 1 - April 26, Tuesdays
+  time: 7-9pm
+  standard-price: 179/month
+  url: /membership/
+  logo: logo_big.png
   status: 'active'
 
 - title: Web Developer Bootcamp
@@ -99,6 +110,19 @@
   standard-price: 533/month
   early-bird-date: Dec 31st</del>
   url: /academy/
+  logo: logo_big.png
+  status: 'inactive'
+
+- title: AP Computer Science prep
+  headline: Learn CS and pass the AP exam
+  age_range: 13-18
+  curriculum: apcs
+  date: Feb 25 - April 28, Thursdays
+  time: 6-8pm
+  early-bird-price: 
+  standard-price: 849
+  early-bird-date: 
+  url: /apcs/
   logo: logo_big.png
   status: 'inactive'
 

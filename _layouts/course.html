@@ -29,17 +29,19 @@ layout: page
 
           {{content}}
         
-          <p><a class="btn btn-lg btn-primary center-block"
-              {% if page.registration %}
-            href="{{page.registration}}" target="_blank" role="button">Register
-               {% elsif page.path contains 'weekofcode' or page.path contains 'hourofcode' %}
-              href="{{page.application}}" role="button">Register {{page.dateName1}}
-              {% else %}
-              href="{{page.application}}" role="button">Start Application
-              {% endif %}
+          <p><a class=""
+          {% if page.dates %}
+            {% for date in page.dates %}
+               <p><a class="btn btn-primary btn-lg center-block" href={{date[1]}} role="button" > Register {{date[0]}} &raquo;</a></p>
+            {% endfor %}
+          {% else %}
+            <p><a class="btn btn-primary btn-lg center-block" 
+            {% if page.registration %}
+              href="{{page.registration}}" target="_blank" role="button"> Register
+            {% else %}
+              href="{{page.application}}" role="button">Apply Now
+            {% endif %}
               &raquo;</a></p>
-             {% if page.multipleDates == true %}
-               <p><a class="btn btn-primary btn-lg center-block" href={{page.application2}} role="button" > Register {{page.dateName2}} &raquo;</a></p>
           {% endif %}
         </div>
       </div>
