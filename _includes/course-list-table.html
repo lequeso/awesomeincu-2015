@@ -1,11 +1,10 @@
+{% comment %} 
+    To make changes to course date/time/price or active state, see _data/course-list.yml
+{% endcomment %}
+
 <table class="table table-striped">
 			    <tr><th>Date/Time</th><th>Course</th><th>Price</th><th>Availability</th></tr>
 			    
-			    {% comment %} 
-			    To make changes to course date/time/price or active state, see _data/course-list.yml
-			    {% endcomment %}
-
-				
 				{% for course in site.data.course-list-eventbrite %}
 				{% if course.status == 'active' %}
 				
@@ -24,13 +23,6 @@
 				{% endif %}
 				{% endfor %}		
 
-				{% for course in site.data.course-list-udemy %}
-				{% if course.status == 'online' %}
-				
-				<tr><td><a href="{{ course.url }}"><img src="/img/logos/{{ course.logo }} " alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;Online Course</td><td><a href="{{ course.url }}">{{ course.title }}</a>, via Udemy</td><td><del>${{ course.standard-price }} (standard)</del>, ${{course.early-bird-price}} (special discount)</td><td><center><a class="btn btn-success btn-large" href="{{ course.url }}" target="_blank">Start Now</a></center></td></tr>
-				
-				{% endif %}
-				{% endfor %}
 
 				{% for course in site.data.course-list-other %}
 				{% if course.status == 'on-location' %}
@@ -43,7 +35,23 @@
 
 <hr>
 
-<h1>Past Courses</h1>
+<h2>Online Courses</h2>
+
+<table class="table table-striped">
+			    <tr><th>Track</th><th>Course</th><th>Price</th><th>Link</th></tr>
+				
+				{% for course in site.data.course-list-udemy %}
+				{% if course.status == 'online' %}
+				
+				<tr><td><a href="{{ course.url }}"><img src="/img/logos/{{ course.logo }} " alt="{{ course.title }}" width="40"></a>&nbsp;&nbsp;{{ course.track }}</td><td><a href="{{ course.url }}">{{ course.title }}</a>, via Udemy</td><td><del>${{ course.standard-price }} (standard)</del>, ${{course.discount-price}} (special discount)</td><td><center><a class="btn btn-success btn-large" href="{{ course.url }}" target="_blank">Start Now</a></center></td></tr>
+				
+				{% endif %}
+				{% endfor %}
+</table>
+
+<hr>
+
+<h2>Past Courses</h2>
 
 <table class="table table-striped">
 	  
