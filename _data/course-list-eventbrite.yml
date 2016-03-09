@@ -6,7 +6,7 @@
   headline: Have fun and learn to code with friends! (Ages 9-13)
   age_range: 9-13
   curriculum: club
-  date: March 8 - April 5, Tuesdays
+  date: April 12 - May 3, Tuesdays
   time: 5-6:30pm
   early-bird-price: 
   standard-price: 100/month
@@ -15,17 +15,6 @@
   logo: logo_big.png
   status: 'active'
   curriculum-date: mon
-
-- title: What is a Coding Bootcamp?
-  headline: Learn How To Become A Professional Web Developer
-  age_range: adults
-  curriculum: bootcamp
-  date: March 23
-  time: 6:30pm
-  standard-price: 0 - free
-  url: https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737
-  logo: logo_big.png
-  status: 'active'
 
 - title: Week of Code summer camp - Louisville
   headline: "Spend your summer making apps, games, and websites"
@@ -74,17 +63,6 @@
   time: 7-9pm
   standard-price: 179/month
   url: /membership/
-  logo: logo_big.png
-  status: 'active'
-
-- title: Web Developer Bootcamp
-  headline: Become A Professional Web Developer
-  age_range: adults
-  curriculum: bootcamp
-  date: Fall 2016, Weekdays
-  time: 8am-5pm
-  standard-price: "10,000"
-  url: /bootcamp/
   logo: logo_big.png
   status: 'active'
 
