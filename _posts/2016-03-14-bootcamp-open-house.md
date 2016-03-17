@@ -14,7 +14,7 @@ Since our last Bootcamp blog post came on Back To The Future Day, I find it's on
 
 <!--break-->
 
-<a class="btn btn-primary btn-large" href="http://www.awesomeincu.com/blog/2016/03/14/bootcamp-open-house/" target="_blank">Free Tickets</a>
+{% include special-announcement.html %}
 
 ## You're Invited. Yes, You.
 
@@ -28,6 +28,6 @@ The software development profession has grown leaps and bounds in the past few y
 
 The [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737) on March 23rd starts at 6:30pm. We'll have representatives from Awesome Inc U's instructional team, as well as local employers looking to hire aspiring software developers like you. We'll have some drinks and snacks, and answer any questions you have about learning to code, making a career switch, or just about the exciting things happening here in Lexington's technology community.
 
-<a class="btn btn-primary btn-large" href="http://www.awesomeincu.com/blog/2016/03/14/bootcamp-open-house/" target="_blank">Free Tickets</a>
+{% include special-announcement.html %}
 
 I can't wait to see you at our [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737) on March 23rd.
