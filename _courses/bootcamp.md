@@ -5,6 +5,8 @@ description: Become A Professional Web Developer
 cover: /img/Awesome-Inc-Membership-2.jpg
 application: /applications/bootcamp/
 redirect_from:
+ - /Bootcamp/
+ - /BOOTCAMP/
 permalink: /bootcamp/
 ---
 
