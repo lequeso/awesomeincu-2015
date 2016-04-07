@@ -16,6 +16,19 @@
   status: 'active'
   curriculum-date: mon
 
+- title: Minecraft Party
+  headline: "Play games and learn some code, too! (Ages 8 - 14)"
+  curriculum: minecraft
+  age_range: 8-14
+  date: May 13
+  time: 6-9pm
+  early-bird-price: 20
+  standard-price: 25
+  early-bird-date: May 12
+  url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-22793251228
+  logo: minecraft.png
+  status: 'active'
+
 - title: Week of Code summer camp - Louisville
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
@@ -115,18 +128,6 @@
   early-bird-date: Aug 31
   url: http://www.eventbrite.com/e/basic-web-development-1-day-crash-course-tickets-17535839167
   logo: logo-html.png
-  status: 'inactive'
-
-- title: Minecraft Party
-  headline: "Play games and learn some code, too! (Ages 8 - 14)"
-  curriculum: minecraft
-  date: 
-  time: 
-  early-bird-price:
-  standard-price: 20
-  early-bird-date:
-  url: http://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-19795685428
-  logo: minecraft.png
   status: 'inactive'
 
 - title: Day of Code for Kids
