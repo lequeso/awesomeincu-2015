@@ -22,7 +22,7 @@ redirect_from: /home/
             <div class="carousel-caption">
               <h1><code>Learn To Code</code> with {{ course.title }}</h1>
               <p style="background-color: rgba(0,0,0,0.3);">{{ course.headline }}</p>
-              <p><a class="btn btn-lg btn-primary" href="{{ course.url }}" role="button">Learn more</a></p>
+              <p><a class="btn btn-lg btn-primary" href="{% if course.curriculum == 'k12-week' %}/weekofcode{% else %}{{ course.url }}{% endif %}" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
