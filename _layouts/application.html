@@ -7,10 +7,120 @@ layout: page
     	<div class="container">
     		
   			<div class="row">
-    			<div class="col-md-10 col-md-offset-1" >
-    				<h2>Awesome Inc {{ page.title }} Application</h2>
+    			<div class="col-md-12 " >
+
+            <form class="form-horizontal" name="insightly_web_to_lead" action="https://mifeueci.insight.ly/WebToLead/Create" method="post">
+
+              <input type="hidden" name="formId" value="ZX+0GRupPEsQJj/l0/0AeQ=="/>
+
+              <div class="form-group"> 
+                <label class="col-sm-4" style="float:right;">Are you applying as a...</label>
+                  <div class="col-sm-8">
+                    <label class="radio-inline">
+                      <input class="" type="radio" value="Student" name="apply_as">Student</input>
+                    </label>
+                    <label class="radio-inline">
+                      <input class="" type="radio" value="Employee Partner" name="apply_as">Employee Partner</input>
+                    </label>  
+                  </div>
+              </div>
+              
+
+              <div class="form-group">
+                <label for="insightly_firstName" class="col-sm-4 control-label">First Name: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_FirstName" name="FirstName" type="text"/>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="insightly_lastName" class="col-sm-4 control-label">Last Name: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_LastName" name="LastName" type="text"/>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="email" class="col-sm-4 control-label">Email: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_Email" name="email" type="text"/>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="phone" class="col-sm-4 control-label">Phone Number: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_Phone" name="phone" type="text"/>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="age" class="col-sm-4 control-label">Age: </label>
+                <div class="col-sm-1">
+                  <input class="form-control" id="insightly_Age" name="age" type="text"/>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="twitter" class="col-sm-4 control-label">Twitter Handle: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_Twitter" name="twitter" type="text" placeholder="(optional) Your username on Twitter, eg @awesome_inc" />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="linkedin" class="col-sm-4 control-label">LinkedIn Profile: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_Linkedin" name="linkedin" type="text" placeholder="(optional) URL for LinkedIn Profile" />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="github" class="col-sm-4 control-label">GitHub Profile: </label>
+                <div class="col-sm-4">
+                  <input class="form-control" id="insightly_Github" name="github" type="text" placeholder="(optional) URL for user profile on GitHub" />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="why" class="col-sm-4 control-label">Why are you applying to the Awesome Inc U Bootcamp Program? </label>
+                <div class="col-sm-8">
+                  <textarea class="form-control" id="insightly_Why" name="why" placeholder="Don't think about the answer to this question - just be honest and start typing."></textarea>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="project" class="col-sm-4 control-label">What's something cool you've created or designed? </label>
+                <div class="col-sm-8">
+                  <textarea class="form-control" id="insightly_Project" name="project" placeholder="Include a link to something you've created.  This can anything and does not have to be programming related"></textarea>
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="referral" class="col-sm-4 control-label">Do you know anyone at Awesome Inc?</label>
+                <div class="col-sm-8">
+                  <input class="form-control" id="insightly_Referral" name="referral" type="text" />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <label for="how" class="col-sm-4 control-label">How did you find out about Awesome Inc U?</label>
+                <div class="col-sm-8">
+                  <input class="form-control" id="insightly_How" name="how" type="text" />
+                </div>
+              </div>
+
+              <input type="hidden" id="insightly_ResponsibleUser" name="ResponsibleUser" value="1103764"/>
+
+              <input type="hidden" id="insightly_LeadSource" name="LeadSource" value="957421"/>
+
+              <input type="submit" value="Submit"/>
+
+            </form>
+
+    				<!-- <h2>Awesome Inc {{ page.title }} Application</h2>
             <p>This is the application for <a href="{{page.course}}">Awesome Inc {{ page.title }}</a>. You can also view this application directly on <a href="https://docs.google.com/forms/d/{{ page.doc_id }}/viewform">Google Drive</a></p>
-            <iframe src="https://docs.google.com/forms/d/{{ page.doc_id }}/viewform?embedded=true" height="{{ page.notes_height }}" width="100%"></iframe>
+            <iframe src="https://docs.google.com/forms/d/{{ page.doc_id }}/viewform?embedded=true" height="{{ page.notes_height }}" width="100%"></iframe> -->
           </div>
       	</div>
     	</div> <!-- /container -->
