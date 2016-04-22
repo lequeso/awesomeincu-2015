@@ -397,3 +397,11 @@ form {
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
 }
+
+/* Custom styling for insightly form */
+
+.radio-label {
+  float: right;
+}
+
+
