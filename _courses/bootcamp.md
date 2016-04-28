@@ -16,7 +16,7 @@ The Web Developer Bootcamp is a 3-month, full-time training program for aspiring
 
 <img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
 
-The Awesome Inc U Bootcamp Program costs $9500. Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
+Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
 
@@ -34,7 +34,7 @@ We expect than many of our applicants will be from Kentucky and surrounding stat
 
 ### How do tuition payments work?
 
-Tuition for the Bootcamp is $9500. The first $1000 is due once your application is accepted to secure your spot in the program. Remaining payments can be made via check or credit card, and payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
+Tuition for the Bootcamp is $9500. Financing and flexible payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
 
 ### What will I learn during the Bootcamp?
 
