@@ -36,6 +36,10 @@ We expect than many of our applicants will be from Kentucky and surrounding stat
 
 Tuition for the Bootcamp is $9500. Financing and flexible payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
 
+### Are scholarships available?
+
+Yes. In addition to combatting developer shortage, APAX Software and Awesome Inc U have joined forces to tackle the gender and race imbalance in the tech industry by offering scholarships to women and minorities. Please [contact us](/contact/) for more information.
+
 ### What will I learn during the Bootcamp?
 
 Our curriculum provides what we and our employer partners see as necessary skills for a junior web developer. First, we'll help you learn how to learn (seriously, there are some lifehacks you'll wish you had during college chemistry class). Then we will start with programming and computer science basics, dive into the building blocks of web pages (HTML, CSS, JS), then get into the server side of web applications (databases, SQL, Python/Node.js/Ruby, frameworks, AWS), all with plenty of exposure to modern development systems and tools (Git, GitHub, Agile, TDD, UI/UX design). Through all of this, our focus is on making real, working software projects. We can print off a certificate for you at the end if you're the sentimental type, but this experience is really about making things, working with a team, building your project portfolio, and networking with the local developers and companies who we hope will be your future co-workers and employers.
