@@ -32,7 +32,7 @@ Our ideal applicants are professional men and women who are looking to transitio
 
 We expect than many of our applicants will be from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as full-time employment) to focus on learning for that duration.
 
-### How do tuition payments work?
+### What is the cost of the Bootcamp?
 
 Tuition for the Bootcamp is $9500. Financing and flexible payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
 
