@@ -16,7 +16,7 @@ The Web Developer Bootcamp is a 3-month, full-time training program for aspiring
 
 <img alt="Learn to code and make websites and mobile apps" src="/img/Responsive_Web_Design.png" class="img-responsive">
 
-The Awesome Inc U Bootcamp Program costs $9500. Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
+Participants are expected to be fully invested in the training process for a 3 month period. At the conclusion of the program, participants will be ready to interview with a number of our employer partners for the opportunity to earn a full time position in Kentucky at a competitive junior developer's salary.
 
 <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/8IryuzzI2DA?rel=0&amp;controls=0"></iframe></div>
 
@@ -24,7 +24,7 @@ The Awesome Inc U Bootcamp Program costs $9500. Participants are expected to be 
 
 ### What is a Developer Bootcamp?
 
-Like many cities, Lexington, KY’s technology community is experiencing a shortage of well-qualified software developers. While there are several possible responses to this need, many cities have benefited from intensive training programs called Developer Bootcamps. The general model is a 3-month program, in batches of 10-20 students, with a curriculum for full-stack web development jobs. Programs typically cost students around $10,000, and partner employers pay a hiring fee of 10% of the candidate’s first-year salary. The bootcamp is taught by experienced software developers (10+ years industry experience), with a focus on quickly moving from basic skills to project experience. High job placement rates (close to 100%) are the target for these programs. Successful programs are highly selective of their applicants, typically targeting college graduates in their mid to late 20s and early 30s looking to make a career change.
+Like many cities, Lexington, KY’s technology community is experiencing a shortage of well-qualified software developers. While there are several possible responses to this need, many cities have benefited from intensive training programs called Developer Bootcamps. The general model is a 3-month program, in batches of 10-20 students, with a curriculum for full-stack web development jobs. The bootcamp is taught by experienced software developers (10+ years industry experience), with a focus on quickly moving from basic skills to project experience. High job placement rates (close to 100%) are the target for these programs. Successful programs are highly selective of their applicants, typically targeting college graduates in their mid to late 20s and early 30s looking to make a career change.
 
 ### Who should apply for this Bootcamp?
 
@@ -32,9 +32,13 @@ Our ideal applicants are professional men and women who are looking to transitio
 
 We expect than many of our applicants will be from Kentucky and surrounding states, such as Indiana, Ohio, Tennessee, West Virginia. Since our 12-week program is full-time (8am - 5pm, five days per week), our candidates must be willing to sacrifice other commitments (such as full-time employment) to focus on learning for that duration.
 
-### How do tuition payments work?
+### What is the cost of the Bootcamp?
 
-Tuition for the Bootcamp is $9500. The first $1000 is due once your application is accepted to secure your spot in the program. Remaining payments can be made via check or credit card, and payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
+Tuition for the Bootcamp is $9500. Financing and flexible payment plans are available. If the only thing keeping you from participating in the program is finances, please [contact us](/contact/) and we'll do our best to work with you to find a solution.
+
+### Are scholarships available?
+
+Yes. In addition to combatting developer shortage, APAX Software and Awesome Inc U have joined forces to tackle the gender and race imbalance in the tech industry by offering scholarships to women and minorities. Please [contact us](/contact/) for more information.
 
 ### What will I learn during the Bootcamp?
 
