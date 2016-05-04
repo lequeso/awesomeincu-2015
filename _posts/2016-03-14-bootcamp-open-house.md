@@ -10,7 +10,7 @@ tags: [learntocode, bootcamp, career]
 
 by [Nick Such](https://plus.google.com/+NickSuch/)
 
-Since our last Bootcamp blog post came on Back To The Future Day, I find it's only appropriate to share our next Bootcamp update on Pi Day. While BTTF only bears loose cultural significance to a career in web development, the mathematical concept of pi is much more directly related. Just like you've probably encountered pi in some circle in your life, you've probably encountered math...today. As I prepared my taxes over the weekend, I used math. As a left a tip at a coffee shop yesterday, I used math. Interestingly, for both of those, I also used software (TurboTax Online and Square, respectively). And when software is a vital, yet nearly invisible, part of activities as benign as filing taxes and paying for coffee, it follows that more and more people are employed to develop software like this.
+Since our last Bootcamp blog post came on Back To The Future Day, I find it's only appropriate to share our next Bootcamp update on Pi Day. While BTTF only bears loose cultural significance to a career in web development, the mathematical concept of pi is much more directly related. Just like you've probably encountered pi in some circle in your life, you've probably encountered math...today. As I prepared my taxes last month, I used math. As a left a tip at a coffee shop yesterday, I used math. Interestingly, for both of those, I also used software (TurboTax Online and Square, respectively). And when software is a vital, yet nearly invisible, part of activities as benign as filing taxes and paying for coffee, it follows that more and more people are employed to develop software like this.
 
 <!--break-->
 
@@ -18,7 +18,7 @@ Since our last Bootcamp blog post came on Back To The Future Day, I find it's on
 
 ## You're Invited. Yes, You.
 
-On March 23rd, Awesome Inc will be hosting a free [open house event](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737) for our upcoming [Web Developer Bootcamp](/interest/bootcamp/). This 12-week program is meant to take you, a user of software, and turn you into a _creator_ of software. The Bootcamp is not meant for geniuses and prodigies. We've made it for ordinary men and women who want to do something extraordinary with their careers. Your most important skills are curiosity and determination, not prior experience with programming. If you're ready to take the leap, we can help you get there.
+On May 12, Awesome Inc will be hosting a free [open house event](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) for our upcoming [Web Developer Bootcamp](/interest/bootcamp/). This 12-week program is meant to take you, a user of software, and turn you into a _creator_ of software. The Bootcamp is not meant for geniuses and prodigies. We've made it for ordinary men and women who want to do something extraordinary with their careers. Your most important skills are curiosity and determination, not prior experience with programming. If you're ready to take the leap, we can help you get there.
 
 ## The Opportunity
 
@@ -26,8 +26,8 @@ The software development profession has grown leaps and bounds in the past few y
 
 ## The Event
 
-The [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737) on March 23rd starts at 6:30pm. We'll have representatives from Awesome Inc U's instructional team, as well as local employers looking to hire aspiring software developers like you. We'll have some drinks and snacks, and answer any questions you have about learning to code, making a career switch, or just about the exciting things happening here in Lexington's technology community.
+The [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) on May 12th starts at 6:30pm. We'll have representatives from Awesome Inc U's instructional team, as well as local employers looking to hire aspiring software developers like you. We'll have some drinks and snacks, and answer any questions you have about learning to code, making a career switch, or just about the exciting things happening here in Lexington's technology community.
 
 {% include special-announcement.html %}
 
-I can't wait to see you at our [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-21689452737) on March 23rd.
+I can't wait to see you at our [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) on May 12th.
