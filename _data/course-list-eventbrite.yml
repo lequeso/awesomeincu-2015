@@ -2,20 +2,6 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: After-School Coding Club
-  headline: Have fun and learn to code with friends! (Ages 9-13)
-  age_range: 9-13
-  curriculum: club
-  date: April 12 - May 3, Tuesdays
-  time: 5-6:30pm
-  early-bird-price: 
-  standard-price: 100/month
-  early-bird-date:
-  url: /after-school/
-  logo: logo_big.png
-  status: 'active'
-  curriculum-date: mon
-
 - title: Minecraft Party
   headline: "Play games and learn some code, too! (Ages 8 - 14)"
   curriculum: minecraft
@@ -37,7 +23,7 @@
   time: 1pm - 5pm
   early-bird-price: 495
   standard-price: 625
-  early-bird-date: May 1
+  early-bird-date: May 22
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
   logo: Week-of-Code-Logo.png
   status: 'active'
@@ -48,9 +34,9 @@
   curriculum: k12-week
   date: July 12 - 15
   time: 1pm - 5pm
-  early-bird-price: 495
+  early-bird-price: <del>495
   standard-price: 625
-  early-bird-date: May 1
+  early-bird-date: May 1</del>
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-21317300620
   logo: Week-of-Code-Logo.png
   status: 'active'
@@ -63,20 +49,9 @@
   time: 1pm - 5pm
   early-bird-price: 495
   standard-price: 625
-  early-bird-date: May 1
+  early-bird-date: May 22
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
   logo: Week-of-Code-Logo.png
-  status: 'active'
-
-- title: Awesome Inc U Membership
-  headline: 'For adult learners who want to go beyond "Hello, world"'
-  age_range: adults
-  curriculum: membership
-  date: March 1 - April 26, Tuesdays
-  time: 7-9pm
-  standard-price: 179/month
-  url: /membership/
-  logo: logo_big.png
   status: 'active'
 
 - title: Personalized Tutoring
@@ -90,6 +65,31 @@
   status: 'active'
 
 # Note: Inactive Courses below here
+
+- title: After-School Coding Club
+  headline: Have fun and learn to code with friends! (Ages 9-13)
+  age_range: 9-13
+  curriculum: club
+  date: April 12 - May 3, Tuesdays
+  time: 5-6:30pm
+  early-bird-price: 
+  standard-price: 100/month
+  early-bird-date:
+  url: /after-school/
+  logo: logo_big.png
+  status: 'inactive'
+  curriculum-date: mon
+
+- title: Awesome Inc U Membership
+  headline: 'For adult learners who want to go beyond "Hello, world"'
+  age_range: adults
+  curriculum: membership
+  date: March 1 - April 26, Tuesdays
+  time: 7-9pm
+  standard-price: 179/month
+  url: /membership/
+  logo: logo_big.png
+  status: 'inactive'
 
 - title: Awesome Inc Academy
   headline: Our premier training program for students (Ages 13 - 17)
