@@ -14,7 +14,7 @@ redirect_from: /home/
 {% endfor %}
 {% for course in site.data.course-list-bootcamp limit: 2 %}
   {% if course.status == 'active' %}
-        <li data-target="#course-carousel" data-slide-to="{{ forloop.index0 + 2 }}" ></li>
+        <li data-target="#course-carousel" data-slide-to="{% if forloop.first %}2{% else %}3{% endif %}" ></li>
   {% endif %}
 {% endfor %}
       </ol>
