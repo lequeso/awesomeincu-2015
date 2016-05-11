@@ -7,17 +7,45 @@ redirect_from: /home/
 ================================================== -->
 <div id="course-carousel" class="carousel slide carousel-fade" data-ride="carousel">
       <ol class="carousel-indicators">
-{% for course in site.data.course-list-eventbrite limit: 4 %}
+{% for course in site.data.course-list-eventbrite limit: 2 %}
   {% if course.status == 'active' %}
         <li data-target="#course-carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+  {% endif %}
+{% endfor %}
+{% for course in site.data.course-list-bootcamp limit: 2 %}
+  {% if course.status == 'active' %}
+        <li data-target="#course-carousel" data-slide-to="{{ forloop.index0 + 2 }}" ></li>
   {% endif %}
 {% endfor %}
       </ol>
 
       <div class="carousel-inner" role="listbox">
-{% for course in site.data.course-list-eventbrite limit: 4 %}
+{% for course in site.data.course-list-eventbrite limit: 2 %}
   {% if course.status == 'active' %}
         <div class="item {% if forloop.first %}active{% endif %}">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1><code>Learn To Code</code> with {{ course.title }}</h1>
+              <p style="background-color: rgba(0,0,0,0.3);">{{ course.headline }}</p>
+              <p><a class="btn btn-lg btn-primary" href="{% if course.curriculum == 'k12-week' %}/weekofcode{% else %}{{ course.url }}{% endif %}" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+  {% endif %}
+{% else %}
+        <div class="item">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Learn to Code <code>iOS</code></h1>
+              <p>With courses in Objective C and Swift, Awesome Inc U can get you there.</p>
+              <p><a class="btn btn-lg btn-primary" href="/register/" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+{% endfor %}
+{% for course in site.data.course-list-bootcamp limit: 2 %}
+  {% if course.status == 'active' %}
+        <div class="item ">
           <div class="container">
             <div class="carousel-caption">
               <h1><code>Learn To Code</code> with {{ course.title }}</h1>
