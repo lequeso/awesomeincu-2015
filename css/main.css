@@ -340,6 +340,9 @@ form {
   width: 30%;
   margin-left: 35%;
 }
+.row.press {
+  margin-bottom: 40px;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
