@@ -309,6 +309,7 @@ form {
 .blog-main p, .content-main p { 
   margin-bottom: 30px;
 }
+
 /*
  * Blog posts
  */
@@ -333,6 +334,12 @@ form {
     list-style: none;
 }
 
+/* PRESS PAGE 
+-------------------------------------------------- */
+.press img {
+  width: 30%;
+  margin-left: 35%;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
