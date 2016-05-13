@@ -8,6 +8,7 @@ redirect_from:
  - /Bootcamp/
  - /BOOTCAMP/
 permalink: /bootcamp/
+press_footer: true
 ---
 
 {% include special-announcement.html %}

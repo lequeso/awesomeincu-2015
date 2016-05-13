@@ -344,6 +344,12 @@ form {
   margin-bottom: 40px;
 }
 
+.container-clearfluid {
+  background-color: rgb(234, 234, 234);
+  padding: 25px 0;
+  margin-top: 40px;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 

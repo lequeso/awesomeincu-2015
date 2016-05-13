@@ -6,6 +6,7 @@ course: /bootcamp/
 hero_img: /img/Awesome-Inc-Membership-2.jpg
 form_legend: Ready to start your new career as a professional developer?
 description: Become a web developer with our intense 12-week program. Taught by industry professionals. Start your new career today.
+press_footer: true
 ---
 
 {% include special-announcement.html %}
