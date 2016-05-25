@@ -7,6 +7,7 @@ application: /applications/bootcamp/
 redirect_from:
  - /Bootcamp/
  - /BOOTCAMP/
+ - /BootCamp/
 permalink: /bootcamp/
 press_footer: true
 ---
