@@ -12,7 +12,7 @@ press_footer: true
         {% if boot_course.status == 'active' %}
               <li data-target="#course-carousel" data-slide-to="0" class="active"></li>
         {% endif %}
-{% for course in site.data.course-list-eventbrite limit: 3 %}
+{% for course in site.data.course-list-eventbrite limit: 2 %}
   {% if course.status == 'active' %}
         <li data-target="#course-carousel" data-slide-to="{{ forloop.index }}" ></li>
   {% endif %}

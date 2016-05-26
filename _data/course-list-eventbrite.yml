@@ -2,19 +2,6 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: Minecraft Party
-  headline: "Play games and learn some code, too! (Ages 8 - 14)"
-  curriculum: minecraft
-  age_range: 8-14
-  date: May 13
-  time: 6-9pm
-  early-bird-price: 20
-  standard-price: 25
-  early-bird-date: May 12
-  url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-22793251228
-  logo: minecraft.png
-  status: 'active'
-
 - title: Week of Code summer camp - Louisville
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
@@ -27,6 +14,7 @@
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
   logo: Week-of-Code-Logo.png
   status: 'active'
+  feature: true
 
 - title: Week of Code summer camp - Lexington
   headline: "Spend your summer making apps, games, and websites"
@@ -63,8 +51,22 @@
   url: /tutoring/
   logo: logo_big.png
   status: 'active'
+  feature: true
 
 # Note: Inactive Courses below here
+
+- title: Minecraft Party
+  headline: "Play games and learn some code, too! (Ages 8 - 14)"
+  curriculum: minecraft
+  age_range: 8-14
+  date: May 13
+  time: 6-9pm
+  early-bird-price: 20
+  standard-price: 25
+  early-bird-date: May 12
+  url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-22793251228
+  logo: minecraft.png
+  status: 'inactive'
 
 - title: After-School Coding Club
   headline: Have fun and learn to code with friends! (Ages 9-13)
