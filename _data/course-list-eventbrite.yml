@@ -3,19 +3,6 @@
 # Inactive classes should be moved to end of list.
 # Note 2.0: Because of the carousel, some are out of chrono order
 
-- title: Awesome Inc Academy
-  headline: Our premier training program for students (Ages 13 - 17)
-  age_range: 13-17
-  curriculum: academy
-  date: Aug 30 - Dec 1, Tues & Thurs
-  time: 6-8pm
-  early-bird-price: <del>429/month
-  standard-price: 533/month
-  early-bird-date: Dec 31st</del>
-  url: /academy/
-  logo: logo_big.png
-  status: 'active'
-
 - title: Week of Code summer camp - Louisville
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
@@ -41,6 +28,19 @@
   early-bird-date: May 1</del>
   url: https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-21317300620
   logo: Week-of-Code-Logo.png
+  status: 'active'
+
+- title: Awesome Inc Academy
+  headline: Our premier training program for students (Ages 13 - 17)
+  age_range: 13-17
+  curriculum: academy
+  date: Aug 30 - Dec 1, Tues & Thurs
+  time: 6-8pm
+  early-bird-price: <del>429/month
+  standard-price: 533/month
+  early-bird-date: Dec 31st</del>
+  url: /academy/
+  logo: logo_big.png
   status: 'active'
 
 - title: Week of Code summer camp - Lexington
