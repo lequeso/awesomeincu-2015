@@ -1,30 +1,28 @@
 ---
 layout: notes
-title: Week of Code
-doc_id: 1-gsXKHghKB-mTAKSDhz1h9yzj9OG_mTKyHHhaD6_v9s
-curriculum_link: k12-week
+title: Week of Code - Hardware Edition
 notes_height: 7000
 ---
 
-_These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [Week of Code - Hardware](/notes/weekofcode-hw/) (Arduino, Web, Games)?_
+_These notes are for Week of Code - Hardware (Arduino, Web, Games). Looking for [Week of Code - Classic](/notes/weekofcode/) (Mobile, Web, Games)?_
 
 ### Prerequisites
 
 * The ability to type text on a computer (e.g. write an email, edit a Word document)
 * Access to a computer with OSX/Windows (must have permission to install programs)
-* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://unity3d.com/get-unity/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), [FileZilla](https://filezilla-project.org/download.php?type=client), and [Sublime Text](http://www.sublimetext.com/3)
-* Google Account (Gmail, Google Drive, etc) - used to sign into MIT App Inventor
+* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://unity3d.com/get-unity/download?ref=personal), [Codebender plugin for Chrome](http://www.letsstartcoding.com/codebender-quick-start), and [Sublime Text](http://www.sublimetext.com/3)
+* Email Account (Gmail, Yahoo Mail, etc) - used to sign into web services
 * Experience using a variety of websites, games, and apps
 
-### What you’ll learn
+### What you’ll do this week
 
-* Introduction to Computer Science concepts
-* Learning to write code in JavaScript with Codecademy
-* Web Development with HTML, CSS, and JavaScript
-* Mobile App Development with Android & MIT App Inventor
-* Video Game Development with Unity 3D
-* 1-on-1 support from our instructional team
-* Final project presentations at the end of the week
+* Understand to Computer Science concepts
+* Write code in JavaScript, C++, C#, HTML, and CSS
+* Build Hardware Projects with Arduino
+* Design and Publish your own Website
+* Create your own Video Game with Unity 3D
+* Receive 1-on-1 support from our instructional team
+* Share a project presentation to peers & parents
 
 # Schedule
 
@@ -32,17 +30,17 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
 
-[Mon](#monday) - Making Mobile Apps with MIT App Inventor
+[Mon](#monday) - Build Hardware Projects with Arduino and C++
 
-[Tues](#tuesday) - Making Websites with HTML, CSS, and JavaScript
+[Tues](#tuesday) - Design and Publish your own Website with HTML, CSS, and JavaScript
 
-[Wed](#wednesday) - Making Video Games with Unity 3D
+[Wed](#wednesday) - Create your own Video Game with Unity 3D and C#
 
-[Thurs](#thursday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
+[Thurs](#thursday) - Project day: go in-depth on a track (Hardware, Web, Game) of your choice
 
 ## Details
 
-### Sunday (optional setup / prework day) (optional pre-work and install day)
+### Sunday (optional setup / prework day)
 
 #### 1pm
 
