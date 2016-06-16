@@ -1,9 +1,7 @@
 ---
 layout: notes
 title: Week of Code
-doc_id: 1-gsXKHghKB-mTAKSDhz1h9yzj9OG_mTKyHHhaD6_v9s
-curriculum_link: k12-week
-notes_height: 7000
+course_link: /weekofcode/
 ---
 
 _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [Week of Code - Hardware](/notes/weekofcode-hw/) (Arduino, Web, Games)?_
