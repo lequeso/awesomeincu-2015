@@ -2,7 +2,7 @@
 layout: notes
 title: Basic Web Crash Course
 doc_id: 1D03Nh-_lqjdbiZU8B78vZw5eVrQVY-BHYM3lPiJZgMI
-curriculum_link: basicweb-crash
+course_link: /register/
 ---
 
 Welcome to the Basic Web Development Course from [Awesome Inc U](http://www.awesomeincu.com)! Our goal is to take the first steps, together, in learning how to make websites. We hope this will be a fun, useful learning experience.
