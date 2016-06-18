@@ -11,13 +11,13 @@ _These notes are for Week of Code - Hardware (Arduino, Web, Games). Looking for 
 
 ### What you’ll do this week
 
-* Understand to Computer Science concepts
-* Write code in JavaScript, C++, C#, HTML, and CSS
+* Understand basic Computer Science concepts
+* Write code in C++, C#, HTML, CSS, and JavaScript
 * Build Hardware Projects with Arduino
 * Design and Publish your own Website
 * Create your own Video Game with Unity 3D
 * Receive 1-on-1 support from our instructional team
-* Share a project presentation to peers & parents
+* Share a project presentation with peers & parents
 
 ### Prerequisites
 
@@ -43,7 +43,7 @@ _These notes are for Week of Code - Hardware (Arduino, Web, Games). Looking for 
 
 ## Details
 
-### <a name="sunday">Sunday</a> (optional setup / prework day)
+<h3 id="sunday">Sunday - optional setup / prework day</h3>
 
 #### 3pm - 5pm
 
@@ -75,33 +75,42 @@ _Pre-work_
 * HTML and CSS basics
     * [Mozilla Thimble](https://thimble.mozilla.org/)
     * [Codecademy Web Track](http://www.codecademy.com/tracks/htmlcss)
-* Homework challenge
+* Homework challenges
     * [Rock Paper Scissors in code](http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1)
     * [Sonic Pi - music from code](http://sonic-pi.net/)
 
 * * *
 
-### <a name="monday">Monday</a>
+<h3 id="monday">Monday - Hardware with Maker Board</h3>
+
+![Makerboard Base Kit + Sensors](/img/notes/weekofcode-makerboard.jpg)
 
 #### 1pm
 
 * Introductions - students, instructors
+    * Name, school, favorite thing to do (besides computer/video game)
 * Why it’s important to learn to code
 * What ground rules should we have?
 * Text editor skills and vocabulary
-* Favorite Game/App quiz [via Keith]
+    * Being precise with Capitalization, Spaces, Punctuation
+    * Selecting with arrow keys, shift, Cmd (Mac) / Ctrl (PC)
+    * Creating folders and saving files
 
 #### 1:15pm
 
-* Look at Android Studio
-* Use [MIT App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html)
-* Hello world
-* Talk to Me Part 1
-* Talk to Me Part 2
+* Controlling lights with code
+    * [Blink Multi-color LED](http://www.letsstartcoding.com/blink-multi-color-led)
+    * [Fade random multicolor LED](http://www.letsstartcoding.com/fade-random-multi-color-led-colors/)
+    * [Multicolor Glow Lamp](http://www.letsstartcoding.com/multi-color-glow-lamp/)
 
 #### 2:00pm
 
-* [Ball Bounce game](https://www.youtube.com/watch?v=w0yxJSlC00w)
+* Controlling Sound with Code
+    * [Press a Button to Play a Tone](http://www.letsstartcoding.com/press-button-to-play-a-tone)
+    * [Press a Button to Play a Random Tone](http://www.letsstartcoding.com/press-button-to-play-a-random-tone/)
+    * [Four Note Piano](http://www.letsstartcoding.com/four-note-piano/)
+    * [Four Note Piano with synced LED](http://www.letsstartcoding.com/four-note-piano-with-synchronized-led/)
+    * [Sound Samples](http://www.letsstartcoding.com/sound-samples/)
 
 #### 3pm
 
@@ -109,30 +118,31 @@ _Pre-work_
 
 #### 3:30pm
 
-* [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
-    * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
-* Danny’s Sample apps
-    * [Circles](https://dl.dropboxusercontent.com/u/15010097/circles.aia)
-    * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
-* [Space Invaders](http://appinventor.mit.edu/explore/ai2/space-invaders.html)
-    * Here’s a [video of the original game](https://www.youtube.com/watch?v=437Ld_rKM2s), if you missed the launch in 1978
+* Sensor Kit - Triggering lights with your environment
+    * [Light-Activated Night Light](http://www.letsstartcoding.com/light-activated-nightlight/)
+    * [Dual-Threshold Night Light](http://www.letsstartcoding.com/dual-threshold-nighlight)
+    * [Sleep-Friendly Night Light](http://www.letsstartcoding.com/sleep-friendly-nightlight/)
+    * [Sound Triggered LED](http://www.letsstartcoding.com/sound-triggered-led/)
+    * [LED Volume Indicator](http://www.letsstartcoding.com/led-volume-indicator/)
+    * [Two Clap Light Switch](http://www.letsstartcoding.com/two-clap-lightswitch/)
+    * [Sound Light Switch](http://www.letsstartcoding.com/sound-light-switch/)
+    * [Temperature Triggered LED](http://www.letsstartcoding.com/temperature-triggered-light/)
 
 #### 4:30pm
 
 * Confirm Unity setup for Wednesday
-* More App Inventor
-    * [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html) or [Get the Gold](http://appinventor.mit.edu/explore/get-gold.html)
-* Want to go more in-depth with Android?
-    * See [Android on Udacity](https://www.udacity.com/course/ud853)
-    * Install [Android Studio](https://developer.android.com/sdk/installing/studio.html)
-    * Master/Detail Flow
-        * [My Favorite Team sample code](https://github.com/nicksuch/MyFavoriteTeam)
+* More Maker Board
+    * [Base Kit projects](http://www.letsstartcoding.com/base-kit-projects)
+    * [Sensor Kit projects](http://www.letsstartcoding.com/sensor-kit-projects)
+
 
 #### 5pm
 
 * * *
 
-### <a name="tuesday">Tuesday</a>
+<h3 id="tuesday">Tuesday - Websites with HTML &amp; CSS</h3>
+
+![Website about animals](/img/notes/weekofcode-animal-website.png)
 
 #### 1pm
 
@@ -140,24 +150,23 @@ _Pre-work_
 * View Page Source, see HTML, CSS, JavaScript
 * Chrome Developer Tools
     * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc)
-* [Mozilla Thimble](https://thimble.mozilla.org/)
+* Use [Mozilla Thimble](https://thimble.mozilla.org/) to make our first web page
+    * HTML Elements
+        * Headings
+        * Paragraph
+        * Links
+        * Lists
+        * Images
+    * Styles with CSS
+        * Text Colors
+        * Background Colors
+        * Fonts
     * [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
     * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* Create our own site - [My Favorite Animal](http://nicksuch.github.io/basicweb-crash/)
+* Create our own site - [My Favorite Animal](http://nicksuch.github.io/weekofcode-web/)
+    * Use Sublime Text (a "text editor")
     * [Website manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
-    * Document
-    * Headings
-    * Paragraph
-    * Links
-    * Lists
-    * Images
-    * Navigation Bar
-    * Styles
-    * CSS
-       * [COPY THIS CSS CODE](https://raw.githubusercontent.com/nicksuch/basicweb-crash/gh-pages/styles.css)
-       * Text Colors
-       * Background Colors
-       * Fonts
+    * [COPY THIS CSS CODE](https://raw.githubusercontent.com/nicksuch/weekofcode-web/gh-pages/styles.css)
 
 #### 3pm
 
@@ -182,22 +191,26 @@ _Pre-work_
         * Use SFTP
         * Host: [projects.awesomeincu.com](http://projects.awesomeincu.com/)
         * Port: 22
+        * Logon Type: Normal
         * User: (ask instructor)
         * Password: (ask instructor)
     * Server
     * Relative links
+* How to register a Domain Name
 
 #### 4:30pm
 
 If times remains:
 
+* [Weebly](http://www.weebly.com/) - [beginner's guide](http://help.weebly.com/beginners-guide.html), [sample Weebly site](http://nicksuch.weebly.com)
+* [Wordpress.com](http://wordpress.com/) - [19% of the Web uses this](http://venturebeat.com/2013/07/27/19-percent-of-the-web-runs-on-wordpress/), [Sample Wordpress.com site](http://nick12013.wordpress.com)
 * [Codecademy web practice](http://www.codecademy.com/skills/make-a-website)
 * [Bootstrap](http://getbootstrap.com/)
 * [JavaScript](http://www.codecademy.com/goals/hour-of-code)
 
 #### 5pm
 
-* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](http://ainc.github.io/basicweb-crash/)
+* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](http://nicksuch.github.io/weekofcode-web/)
 * [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * Remind students to bring a mouse for Unity tomorrow
 
@@ -205,7 +218,9 @@ If times remains:
 
 * * *
 
-### <a name="wednesday">Wednesday</a>
+<h3 id="wednesday">Wednesday - Games with Unity 3D</h3>
+
+![Making Minecraft with Unity 3D](/img/notes/weekofcode-unity-minecraft.png)
 
 #### 1pm
 
@@ -218,7 +233,7 @@ If times remains:
 
 #### 3pm
 
-* Break - Cookie Face, Rock Paper Scissors...War!
+* Break / Game
 
 #### 3:15pm
 
@@ -227,7 +242,7 @@ If times remains:
 #### 4:30pm
 
 * If time:
-    * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-a-ball)
+    * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
     * [Upload Roll-A-Ball](http://www.nicksuch.com/Roll-a-ball/www/www.html)
     * [2D Platformer from Unity Assets Store](https://www.assetstore.unity3d.com/en/#!/content/11228)
 
@@ -238,7 +253,9 @@ If times remains:
 
 * * *
 
-### <a name="thursday">Thursday</a>
+<h3 id="thursday">Thursday - Project Day</h3>
+
+![Week of Code projects](/img/notes/weekofcode-screenshots.png)
 
 #### 1pm
 
@@ -246,7 +263,8 @@ If times remains:
     * Hardware, Web, Games
 * Pick a project:
     * Hardware
-        * 
+        * [Maker Board - Base Kit projects](http://www.letsstartcoding.com/base-kit-projects)
+        * [Maker Board - Sensor Kit projects](http://www.letsstartcoding.com/sensor-kit-projects)
         * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
         * [Sonic Pi - Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html), make music with code
     * Web
@@ -255,7 +273,8 @@ If times remains:
         * [Bootstrap project](https://www.udemy.com/front-end-web-development-with-bootstrap/)
         * [HTML Dog Tutorials](http://htmldog.com/guides/)
         * [Learn Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
-        * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)        
+        * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)
+        * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
     * Game
         * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
         * Other Project from [official Unity 3D page](http://unity3d.com/learn/tutorials/), such as [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
