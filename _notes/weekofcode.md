@@ -6,6 +6,18 @@ course_link: /weekofcode/
 
 _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [Week of Code - Hardware](/notes/weekofcode-hw/) (Arduino, Web, Games)?_
 
+## Overview
+
+### What you’ll do this week
+
+* Understand basic Computer Science concepts
+* Write code in C#, HTML, CSS, and JavaScript
+* Build Android mobile apps with MIT App Inventor
+* Design and Publish your own Website
+* Create your own Video Game with Unity 3D
+* Receive 1-on-1 support from our instructional team
+* Share a project presentation with peers & parents
+
 ### Prerequisites
 
 * The ability to type text on a computer (e.g. write an email, edit a Word document)
@@ -14,33 +26,21 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 * Google Account (Gmail, Google Drive, etc) - used to sign into MIT App Inventor
 * Experience using a variety of websites, games, and apps
 
-### What you’ll learn
+## Schedule Summary
 
-* Introduction to Computer Science concepts
-* Learning to write code in JavaScript with Codecademy
-* Web Development with HTML, CSS, and JavaScript
-* Mobile App Development with Android & MIT App Inventor
-* Video Game Development with Unity 3D
-* 1-on-1 support from our instructional team
-* Final project presentations at the end of the week
+Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
 
-# Schedule
+[Tues](#tuesday) - Making Mobile Apps with MIT App Inventor
 
-## Overview
+[Wed](#wednesday) - Making Websites with HTML, CSS, and JavaScript
 
-Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
+[Thurs](#thursday) - Making Video Games with Unity 3D
 
-[Mon](#monday) - Making Mobile Apps with MIT App Inventor
+[Fri](#friday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
 
-[Tues](#tuesday) - Making Websites with HTML, CSS, and JavaScript
+## Detailed Schedule
 
-[Wed](#wednesday) - Making Video Games with Unity 3D
-
-[Thurs](#thursday) - Project day: go in-depth on a track (Web, Mobile, Game) of your choice
-
-## Details
-
-### Sunday (optional setup / prework day) (optional pre-work and install day)
+<h3 id="monday">Monday (optional setup / prework session)</h3>
 
 #### 1pm
 
@@ -85,7 +85,7 @@ Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 * * *
 
-### <a name="monday">Monday</a>
+<h3 id="tuesday">Tuesday</h3>
 
 #### 1pm
 
@@ -136,7 +136,7 @@ Sun/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 * * *
 
-### <a name="tuesday">Tuesday</a>
+<h3 id="wednesday">Wednesday</h3>
 
 #### 1pm
 
@@ -208,7 +208,7 @@ If times remains:
 
 * * *
 
-### <a name="wednesday">Wednesday</a>
+<h3 id="thursday">Thursday</h3>
 
 #### 1pm
 
@@ -226,6 +226,7 @@ If times remains:
 #### 3:15pm
 
 * More [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
+* Add [Sound Assets](http://dannythorne.github.io/MakingMinecraft_Take02/)
 
 #### 4:30pm
 
@@ -241,29 +242,29 @@ If times remains:
 
 * * *
 
-### <a name="thursday">Thursday</a>
+<h3 id="friday">Friday - Project Day</h3>
+
+![Week of Code projects](/img/notes/weekofcode-screenshots.png)
 
 #### 1pm
 
 * Review what we’ve done so far
-    * Web, Mobile, Games
+    * Hardware, Web, Games
 * Pick a project:
-    * Web
-        * [Ruby on Rails tutorial](http://www.codelearn.org/ruby-on-rails-tutorial) (Codelearn.org -- all in browser.)
-            * [RailsBridge](http://docs.railsbridge.org/docs/)
-        * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
-        * [Bootstrap project](https://www.udemy.com/front-end-web-development-with-bootstrap/)
-        * [HTML Dog Tutorials](http://htmldog.com/guides/)
-        * [Meteor.js tutorial](https://www.meteor.com/tools/resources)
-        * [Learn Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
-        * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)
     * Mobile
         * [Ray’s Android App](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
         * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html), such as [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
         * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
         * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
         * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
-
+    * Web
+        * [RailsBridge](http://docs.railsbridge.org/docs/)
+        * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
+        * [Bootstrap project](https://www.udemy.com/front-end-web-development-with-bootstrap/)
+        * [HTML Dog Tutorials](http://htmldog.com/guides/)
+        * [Learn Javascript on Codecademy](http://www.codecademy.com/en/tracks/javascript)
+        * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)
+        * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
     * Game
         * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
         * Other Project from [official Unity 3D page](http://unity3d.com/learn/tutorials/), such as [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
@@ -273,6 +274,10 @@ If times remains:
         * [Walker Boys Unity Tutorials](http://www.walkerboystudio.com/wbstudio/learn-unity/)
         * [Snake HTML5 Game](http://thecodeplayer.com/walkthrough/html5-game-tutorial-make-a-snake-game-using-html5-canvas-jquery)
         * [Pong Tutorial](http://www.awesomeincu.com/tutorials/unity-pong/)
+    * Hardware
+        * [Maker Board - Base Kit projects](http://www.letsstartcoding.com/base-kit-projects)
+        * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
+        * [Sonic Pi - Aerodynamic](https://aimxhaisse.com/aerodynamic-en.html), make music with code
 
 Note: many projects here will take longer than 4 hours to complete. That's OK! Our goal during project day is to help you get started on something significant that you can continue working on after the Week of Code.
 
@@ -292,250 +297,14 @@ Note: many projects here will take longer than 4 hours to complete. That's OK! O
 #### 4:00pm
 
 * Show & Tell
-
     1. Show us one thing you made this week
     2. Tell us one interesting thing you learned
     3. What’s one thing you want to create next?
 
 * Recap
 * Next steps for learning
-
     1. Online resources: [Codecademy](http://www.codecademy.com/), [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
-    2. [Awesome Inc Academy](http://awesomeincu.com/academy)
+    2. [Awesome Inc Academy](http://www.awesomeincu.com/academy/)
     3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/after-school/)
 
-#### 5pm
-
-## Outcomes
-
-Understand basic [Computer Science concepts](https://docs.google.com/presentation/d/1UDGupMShN41wLeBTnsU3aK8HH_Os0YTpDvPc6B3zOEE/edit) (Variables, If..Else, Loops)
-
-Set up account on [Codecademy](http://www.codecademy.com/) for continued learning
-
-Make a Website for a Pet/Favorite Animal
-
-Make an Android mobile app
-
-Make a Unity Pong game
-
-Create and present an intermediate-level project
-
-## Additional resources
-
-* [Code.org - learning resources](http://code.org/learn)
-* [Codecademy](http://www.codecademy.com/) - interactive tutorials
-* [Awesome Inc U - Udemy courses](https://www.udemy.com/u/awesomeinc)
-    * [Basic Web Crash Course](https://www.udemy.com/basic-web-crash-course/?couponCode=carnegie14) (free for WoC students, normally $79)
-    * [Unity Game Crash Course](https://www.udemy.com/make-a-unity-game-today/?couponCode=carnegie14) (free for WoC students, normally $79)
-    * [iPhone App Crash Course](https://www.udemy.com/iphone-app-crash-course/?couponCode=carnegie14) (free for WoC students, normally $95)
-    * [Responsive Web Design](https://www.udemy.com/front-end-web-development-with-bootstrap/?couponCode=carnegie14) (free for WoC students, normally $39)
-
-* [Coder Dojo LA - resources](http://www.coderdojola.com/coderdojo-la-coding-resources/)
-* [W3Schools - HTML, CSS, JS tutorials](http://www.w3schools.com/)
-* [CS Unplugged](http://csunplugged.org/activities)
-* [Alice](http://www.alice.org/) - learn programming in a 3D environment
-* [JS Syntax Basics](http://learn.jquery.com/javascript-101/syntax-basics/) and more [JavaScript Basics](http://jqfundamentals.com/chapter/javascript-basics)
-
-* * *
-
-
-## Notes
-
-### Vocabulary
-
-#### General Syntax
-
-Curly Braces { }
-
-Angle Brackets < >
-
-Square Brackets [ ]
-
-Slash /
-
-Backslash \
-
-Pipe |
-
-Backtick `
-
-Colon :
-
-Semicolon ;
-
-#### Web
-
-HTML - HyperText Markup Language
-
-CSS - Cascading Style Sheets
-
-JavaScript - a programming language, popularized by its use to render client-side content in web browsers
-
-Document - a piece of content on the Web, located by a URL, identified by a Doctype
-
-Tag - an HTML element identifier surrounded by angle brackets. Opening tag looks like this: <p> Closing tag looks like this: </p>
-
-Element - An atomic piece of an HTML document. Formed by pairs of opening and closing tags, eg <div></div>
-
-Attribute - 
-
-Value - 
-
-#### Mobile
-
-Android - a popular mobile operating system based on Linux
-
-XML - eXtensible Markup Language, a popular data format. Use for Layouts in Android.
-
-Java - a popular Object-Oriented Programming language, used to create the logic for Android apps
-
-Fragment - 
-
-Activity - 
-
-Layout - 
-
-#### Game
-
-Unity - a user-friendly yet powerful game development engine, known for its strong user community, multitude of extensions, and variety of deployment platforms
-
-C# - an Object-Oriented Programming language, popularized by Microsoft, one of the programming languages supported by Unity
-
-Game Object - 
-
-Scene - 
-
-Texture - 
-
-Sprite - 
-
-Collider - 
-
-Rigidbody - 
-
-* * *
-
-
-### Course material
-
-Course Overview (this document)
-
-[Web Manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
-
-Mobile Manual
-
-[Unity Manual](https://github.com/dannythorne/MakingMinecraft_Take02)
-
-Slides
-
-### [Web Manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
-
-## Manuals
-
-### Mobile (Android) Manual
-
-#### Project: My Favorite Team
-
-(eg. UK basketball, USMNT soccer, Harry Potter quidditch team, Minecraft characters)
-
-#### Overview
-
-Launch Eclipse with ADT
-
-Create a new project
-
-Update Android SDK and install necessary packages (x86 and HAX)
-
-Set up an Emulator Android Virtual Device
-
-Run Hello World on Emulator
-
-fragment_main.xml: Remove TextView and change RelativeLayout to a LinearLayout. Add EditText
-
-strings.xml: add necessary strings for edit_message and button_send
-
-fragment_main: add Button, add weight, run, add onClick
-
-Note: use Cmd+Shift+O to resolve any import errors
-
-Create new Android -> Activity. Creates a new .java and .xml file
-
-Remove onCreateOptionsMenu()
-
-Some notes: [http://appinventor.mit.edu/explore/ai2/tutorials.html](http://appinventor.mit.edu/explore/ai2/tutorials.html)
-
-[http://www.mkyong.com/android/android-imageview-example/](http://www.mkyong.com/android/android-imageview-example/)
-
-[http://www.mobileappdocs.com/index.php/First_Android_Master-Detail_App](http://www.mobileappdocs.com/index.php/First_Android_Master-Detail_App)
-
-[http://teamtreehouse.com/library/build-a-blog-reader-android-app](http://teamtreehouse.com/library/build-a-blog-reader-android-app)
-
-[http://www.techotopia.com/index.php/An_Android_Master/Detail_Flow_Tutorial](http://www.techotopia.com/index.php/An_Android_Master/Detail_Flow_Tutorial)
-
-[http://www.raywenderlich.com/5527/getting-started-with-android-development](http://www.raywenderlich.com/5527/getting-started-with-android-development)
-
-### [Game (Unity) Manual](http://www.awesomeincu.com/tutorials/unity-pong/)
-
-* * *
-
-
-DAY 1
-
-MOBILE APP DEVELOPMENT
-
-1:00 Android Studio, MIT App Inventor, Talk to Me Part 1 & 2
-
-2:00 Ball Bounce, Whack-a-Mole, Space Invaders
-
-3:00 Break
-
-3:30 Danny's Circles app
-
-4:30 Install Help Time - Sublime, FileZilla
-
-DAY 2
-
-WEB DEVELOPMENT
-
-1:00 Importance of Coding, Programming Skills
-
-2:00 View Page Source, Developer Tools, HTML
-
-3:00 Break
-
-3:15 Styles with CSS
-
-4:00 Deployment with FTP
-
-4:30 Install Help Time - Unity
-
-DAY 3
-
-VIDEO GAME DEVELOPMENT
-
-1:00 Intro to Unity 3D
-
-1:30 Start Making Minecraft
-
-3:00 Break
-
-3:15 Continue Making Minecraft
-
-4:30 Discuss project options for Day 4
-
-DAY 4
-
-PROJECT COMPLETION AND PRESENTATIONS
-
-1:00 Review, Project Selection
-
-1:30 Work Time
-
-3:00 Break
-
-3:15 Work Time
-
-4:00 Show & Tell (Parents invited)
-
-4:45 Recap, Next Steps for Learning
-
+#### 5pmw

@@ -1,7 +1,6 @@
 ---
 layout: notes
 title: Week of Code - Hardware Edition
-notes_height: 7000
 course_link: /weekofcode/
 ---
 
@@ -27,9 +26,7 @@ _These notes are for Week of Code - Hardware (Arduino, Web, Games). Looking for 
 * Email Account (Gmail, Yahoo Mail, etc) - used to sign into web services
 * Experience using a variety of websites, games, and apps
 
-# Schedule
-
-## Summary
+## Schedule Summary
 
 [Sun/Pre-work](#sunday) - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
 
@@ -41,7 +38,7 @@ _These notes are for Week of Code - Hardware (Arduino, Web, Games). Looking for 
 
 [Thurs](#thursday) - Project day: go in-depth on a track (Hardware, Web, Game) of your choice
 
-## Details
+## Detailed Schedule
 
 <h3 id="sunday">Sunday - optional setup / prework day</h3>
 
