@@ -6,7 +6,6 @@ cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
 permalink: /weekofcode/
 dates:
-  June (Louisville): https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
   July (Lexington): https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-21317300620
   August (Lexington): https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
 ---

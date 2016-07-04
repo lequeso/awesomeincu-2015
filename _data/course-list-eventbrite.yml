@@ -3,20 +3,6 @@
 # Inactive classes should be moved to end of list.
 # Note 2.0: Because of the carousel, some are out of chrono order
 
-- title: Week of Code summer camp - Louisville
-  headline: "Spend your summer making apps, games, and websites"
-  age_range: 11-16
-  curriculum: k12-week
-  date: June 20 - 23
-  time: 1pm - 5pm
-  early-bird-price: 495
-  standard-price: 625
-  early-bird-date: May 22
-  url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
-  logo: Week-of-Code-Logo.png
-  status: 'active'
-  feature: true
-
 - title: Week of Code summer camp - Lexington
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
@@ -43,6 +29,17 @@
   logo: logo_big.png
   status: 'active'
 
+- title: Personalized Tutoring
+  headline: Get started or move forward, 1-on-1
+  age_range: kids, adults
+  date: Any
+  time: 8am-8pm
+  standard-price: 49 (1st session), $95/hr
+  url: /tutoring/
+  logo: logo_big.png
+  status: 'active'
+  feature: true
+
 - title: Week of Code summer camp - Lexington
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
@@ -56,18 +53,21 @@
   logo: Week-of-Code-Logo.png
   status: 'active'
 
-- title: Personalized Tutoring
-  headline: Get started or move forward, 1-on-1
-  age_range: kids, adults
-  date: Any
-  time: 8am-8pm
-  standard-price: 49 (1st session), $95/hr
-  url: /tutoring/
-  logo: logo_big.png
-  status: 'active'
-  feature: true
 
 # Note: Inactive Courses below here
+
+- title: Week of Code summer camp - Louisville
+  headline: "Spend your summer making apps, games, and websites"
+  age_range: 11-16
+  curriculum: k12-week
+  date: June 20 - 23
+  time: 1pm - 5pm
+  early-bird-price: 495
+  standard-price: 625
+  early-bird-date: May 22
+  url: https://www.eventbrite.com/e/week-of-code-summer-camp-june-louisville-tickets-22585539958
+  logo: Week-of-Code-Logo.png
+  status: 'inactive'
 
 - title: Minecraft Party
   headline: "Play games and learn some code, too! (Ages 8 - 14)"
