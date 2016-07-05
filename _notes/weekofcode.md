@@ -21,14 +21,14 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 ### Prerequisites
 
 * The ability to type text on a computer (e.g. write an email, edit a Word document)
-* Access to a computer with OSX/Windows (must have permission to install programs)
-* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://unity3d.com/get-unity/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), [FileZilla](https://filezilla-project.org/download.php?type=client), and [Sublime Text](http://www.sublimetext.com/3)
+* Access to a computer with OSX/Windows (must have permission to install programs, including necessary passwords)
+* Software: [Google Chrome](http://www.google.com/chrome/), [Unity - personal edition](https://store.unity.com/download?ref=personal), [MIT App Inventor](http://appinventor.mit.edu/explore/ai2/setup-emulator.html), [FileZilla](https://filezilla-project.org/download.php?type=client), and [Sublime Text](http://www.sublimetext.com/3)
 * Google Account (Gmail, Google Drive, etc) - used to sign into MIT App Inventor
 * Experience using a variety of websites, games, and apps
 
 ## Schedule Summary
 
-Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Codecademy, Scratch, Processing
+[Mon/Pre-work](#monday) - Intro to programming concepts with Angry Birds, Codecademy, Scratch, JavaScript
 
 [Tues](#tuesday) - Making Mobile Apps with MIT App Inventor
 
@@ -85,7 +85,7 @@ Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 * * *
 
-<h3 id="tuesday">Tuesday</h3>
+<h3 id="tuesday">Tuesday - Mobile Apps</h3>
 
 #### 1pm
 
@@ -136,7 +136,7 @@ Mon/Pre-work - Intro to programming concepts with Angry Birds, Flappy Bird, Code
 
 * * *
 
-<h3 id="wednesday">Wednesday</h3>
+<h3 id="wednesday">Wednesday - Websites</h3>
 
 #### 1pm
 
@@ -208,7 +208,7 @@ If times remains:
 
 * * *
 
-<h3 id="thursday">Thursday</h3>
+<h3 id="thursday">Thursday - Video Games</h3>
 
 #### 1pm
 
