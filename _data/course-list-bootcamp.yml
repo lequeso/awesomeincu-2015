@@ -2,15 +2,14 @@
 # upcoming classes are moved to top of list, in chronological order. 
 # Inactive classes should be moved to end of list.
 
-- title: What is a Coding Bootcamp?
-  headline: Learn How To Become A Professional Web Developer
+- title: Web Developer Bootcamp
+  headline: Become A Professional Web Developer
   age_range: adults
   curriculum: bootcamp
-  date: May 12
-  time: 6:30pm
-  standard-price: free
-  scholarships: false
-  url: https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694
+  date: Aug 22 - Nov 11, Mon-Fri
+  time: 8am-5pm
+  standard-price: <del>class full</del>
+  url: /bootcamp/
   logo: logo_big.png
   status: 'active'
 
@@ -18,7 +17,7 @@
   headline: Become A Professional Web Developer
   age_range: adults
   curriculum: bootcamp
-  date: Aug 22 - Nov 11, Mon-Fri
+  date: Spring 2017, Mon-Fri
   time: 8am-5pm
   standard-price: "$9500"
   scholarships: true

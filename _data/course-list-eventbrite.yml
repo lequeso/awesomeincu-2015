@@ -7,12 +7,12 @@
   headline: "Spend your summer making apps, games, and websites"
   age_range: 11-16
   curriculum: k12-week
-  date: July 12 - 15
+  date: Aug 2 - 5
   time: 1pm - 5pm
   early-bird-price: <del>495
   standard-price: 625
-  early-bird-date: May 1</del>
-  url: https://www.eventbrite.com/e/week-of-code-summer-camp-july-lexington-tickets-21317300620
+  early-bird-date: May 22</del>
+  url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
   logo: Week-of-Code-Logo.png
   status: 'active'
 
@@ -22,9 +22,9 @@
   curriculum: academy
   date: Aug 30 - Dec 1, Tues & Thurs
   time: 6-8pm
-  early-bird-price: <del>429/month
+  early-bird-price: 429/month
   standard-price: 533/month
-  early-bird-date: Dec 31st</del>
+  early-bird-date: Aug 12th
   url: /academy/
   logo: logo_big.png
   status: 'active'
@@ -39,20 +39,6 @@
   logo: logo_big.png
   status: 'active'
   feature: true
-
-- title: Week of Code summer camp - Lexington
-  headline: "Spend your summer making apps, games, and websites"
-  age_range: 11-16
-  curriculum: k12-week
-  date: Aug 2 - 5
-  time: 1pm - 5pm
-  early-bird-price: 495
-  standard-price: 625
-  early-bird-date: May 22
-  url: https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457
-  logo: Week-of-Code-Logo.png
-  status: 'active'
-
 
 # Note: Inactive Courses below here
 
