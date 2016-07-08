@@ -65,7 +65,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 #### 3pm
 
-* Break: Rock, Paper, Scissors...War
+* Break / Game
 
 3:15pm
 
@@ -87,29 +87,41 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 <h3 id="tuesday">Tuesday - Mobile Apps</h3>
 
+![MIT App Inventor screenshot](/img/notes/weekofcode-appinventor.png)
+
 #### 1pm
 
 * Introductions - students, instructors
 * Why it’s important to learn to code
 * What ground rules should we have?
+    * Be Good
+    * Be Excellent
+    * Be a Friend
+    * Be You
 * Text editor skills and vocabulary
-* Favorite Game/App quiz [via Keith]
+    * Copy, Cut, Paste, Switch windows
+    * Arrow keys vs Mouse, Shift-to-select
 
 #### 1:15pm
 
 * Look at Android Studio
 * Use [MIT App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html)
 * Hello world
-* Talk to Me Part 1
-* Talk to Me Part 2
+* Password app
+    * Variables
+    * If Statements
+    * For Loops
+* Talk to Me
+    * [Part 1](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart1.pdf) - press button for sound
+    * [Part 2](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart2.pdf) - get user input
 
 #### 2:00pm
 
-* [Ball Bounce game](https://www.youtube.com/watch?v=w0yxJSlC00w)
+* [Ball Bounce game](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/BallBounceTutorial.pdf)
 
 #### 3pm
 
-* Around The World Ping Pong
+* Break / Game
 
 #### 3:30pm
 
@@ -120,10 +132,13 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
     * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
 * [Space Invaders](http://appinventor.mit.edu/explore/ai2/space-invaders.html)
     * Here’s a [video of the original game](https://www.youtube.com/watch?v=437Ld_rKM2s), if you missed the launch in 1978
+* My Favorite Team
+    * [Sportsball Fanatic sample app](http://ai2.appinventor.mit.edu/?galleryId=4884510797201408)
+
 
 #### 4:30pm
 
-* Confirm Unity setup for Wednesday
+* Confirm Web (Sublime Text, FileZilla) setup for Wednesday
 * More App Inventor
     * [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html) or [Get the Gold](http://appinventor.mit.edu/explore/get-gold.html)
 * Want to go more in-depth with Android?
@@ -138,35 +153,37 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 <h3 id="wednesday">Wednesday - Websites</h3>
 
+![Website about animals](/img/notes/weekofcode-animal-website.png)
+
 #### 1pm
 
 * What is "The Web"?
+    * [Nick's slides](https://docs.google.com/presentation/d/17vOuLgv_EY7V1MgPx6h17TNceu4A7MmAQytHrBJFSZI/edit#slide=id.g255e2bb9d_00)
+    * [Nerf's slides](http://bit.ly/murraygsp)
 * View Page Source, see HTML, CSS, JavaScript
-* Google Developer Tools
+* Chrome Developer Tools
     * Go to [Twitter.com/awesome_inc](https://twitter.com/awesome_inc)
-* [Mozilla Thimble](https://thimble.webmaker.org/en-US)
-    * [HTML Cheatsheet](https://mozteach.makes.org/thimble/html-cheatsheet)
-    * CSS Cheatsheet
-* HTML - see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
-    * Document
-    * Headings
-    * Paragraph
-    * Links
-        * Other page
-        * Same page
-    * Lists
-    * Images
-    * Navigation Bar
-    * Styles
-    * CSS
-       * [COPY THIS CSS CODE](https://raw.githubusercontent.com/ainc/basicweb-crash/weekofcode-animals/styles.css)
-       * Text Colors
-       * Background Colors
-       * Fonts
+* Use [Mozilla Thimble](https://thimble.mozilla.org/) to make our first web page
+    * HTML Elements
+        * Headings
+        * Paragraph
+        * Links
+        * Lists
+        * Images
+    * Styles with CSS
+        * Text Colors
+        * Background Colors
+        * Fonts
+    * [HTML Cheatsheet](https://developer.mozilla.org/en-US/Learn/HTML/Cheatsheet)
+    * [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* Create our own site - [My Favorite Animal](http://nicksuch.github.io/weekofcode-web/)
+    * Use Sublime Text (a "text editor")
+    * [Website manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit)
+    * [COPY THIS CSS CODE](https://raw.githubusercontent.com/nicksuch/weekofcode-web/gh-pages/styles.css)
 
 #### 3pm
 
-* Break - Relay Race
+* Break / Game
 
 #### 3:15pm
 
@@ -178,37 +195,45 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
       * [Sample Form](https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform)
       * Form embed code:
  
-        	<iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+            <iframe src="https://docs.google.com/forms/d/1OXXXjfutX2pbjZwAuOmwzD_vVMmXVFOJgBX-8sXPTZU/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 #### 4pm
 
 * Deployment with FTP
     * FileZilla
-        * Host: awesomebasicweb.nicksuch.com
+        * Use SFTP
+        * Host: [projects.awesomeincu.com](http://projects.awesomeincu.com/)
+        * Port: 22
+        * Logon Type: Normal
         * User: (ask instructor)
         * Password: (ask instructor)
     * Server
     * Relative links
+* How to register a Domain Name
 
 #### 4:30pm
 
 If times remains:
 
+* [Weebly](http://www.weebly.com/) - [beginner's guide](http://help.weebly.com/beginners-guide.html), [sample Weebly site](http://nicksuch.weebly.com)
+* [Wordpress.com](http://wordpress.com/) - [19% of the Web uses this](http://venturebeat.com/2013/07/27/19-percent-of-the-web-runs-on-wordpress/), [Sample Wordpress.com site](http://nick12013.wordpress.com)
 * [Codecademy web practice](http://www.codecademy.com/skills/make-a-website)
 * [Bootstrap](http://getbootstrap.com/)
 * [JavaScript](http://www.codecademy.com/goals/hour-of-code)
 
 #### 5pm
 
-* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](http://ainc.github.io/basicweb-crash/)
+* At home: see [web manual](https://docs.google.com/document/d/1TOuXlaAo-9bJNwu7ZvBSP4KJKfguGXraTivp9xVCUyg/edit) and [sample code](https://github.com/ainc/basicweb-crash/tree/weekofcode-animals) and [sample page](http://nicksuch.github.io/weekofcode-web/)
 * [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* Remind students to bring a mouse for Unity tomorrow
+* Confirm Unity setup for tomorrow. Protip: bring a mouse!
 
 ![Nick's favorite animal is the Wandering Albatross](/img/notes/weekofcode-albatross.jpg)
 
 * * *
 
 <h3 id="thursday">Thursday - Video Games</h3>
+
+![Making Minecraft with Unity 3D](/img/notes/weekofcode-unity-minecraft.png)
 
 #### 1pm
 
@@ -217,28 +242,29 @@ If times remains:
 
 #### 1:30pm
 
-* Start Making Minecraft
+* Start [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
 
 #### 3pm
 
-* Break - Cookie Face, Rock Paper Scissors...War!
+* Break / Game
 
 #### 3:15pm
 
 * More [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
-* Add [Sound Assets](http://dannythorne.github.io/MakingMinecraft_Take02/)
 
 #### 4:30pm
 
 * If time:
-    * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-a-ball)
+    * [Roll-a-Ball](http://unity3d.com/learn/tutorials/projects/roll-ball-tutorial)
     * [Upload Roll-A-Ball](http://www.nicksuch.com/Roll-a-ball/www/www.html)
     * [2D Platformer from Unity Assets Store](https://www.assetstore.unity3d.com/en/#!/content/11228)
 
 #### 5pm
 
-* Homework: Finish [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
-* Remind students to bring headphones for Thursday tutorials
+* Homework:
+    * Finish [Making Minecraft](https://github.com/dannythorne/MakingMinecraft_Take02)
+    * Pick a tutorial/project for Friday
+* Remind students to bring headphones for Friday tutorials
 
 * * *
 
@@ -256,7 +282,6 @@ If times remains:
         * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html), such as [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
         * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
         * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
-        * [Build a Pebble watchface](http://developer.getpebble.com/getting-started/watchface-tutorial/part1/)
     * Web
         * [RailsBridge](http://docs.railsbridge.org/docs/)
         * [Learn Python The Hard Way](http://learnpythonthehardway.org/book)
@@ -266,8 +291,8 @@ If times remains:
         * [Coderbyte programming challenges](http://www.coderbyte.com/CodingArea/Challenges/)
         * [p5.js animation projects](http://p5js.org/examples/), see [samples](https://jsfiddle.net/nicksuch/48Lxhjwu/)
     * Game
+        * Other Project from [official Unity 3D tutorials](http://unity3d.com/learn/tutorials/), such as [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
         * [Flappy Bird tutorial](http://anwell.me/articles/unity3d-flappy-bird/)
-        * Other Project from [official Unity 3D page](http://unity3d.com/learn/tutorials/), such as [Space Shooter](http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial)
         * [Rock, Paper, Scissors...in code](http://www.codecademy.com/courses/javascript-beginner-en-Bthev-mskY8/0/1)
         * [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
         * [Five Unity Game Examples](http://u3d.as/content/m2h/c-game-examples/1sG)
@@ -288,7 +313,7 @@ Note: many projects here will take longer than 4 hours to complete. That's OK! O
 
 #### 3pm
 
-* Break - [Minute to Win It](https://www.youtube.com/watch?v=-Z0LT59hKHM)
+* Break / Game
 
 #### 3:15pm
 
@@ -307,4 +332,4 @@ Note: many projects here will take longer than 4 hours to complete. That's OK! O
     2. [Awesome Inc Academy](http://www.awesomeincu.com/academy/)
     3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/after-school/)
 
-#### 5pmw
+#### 5pm
