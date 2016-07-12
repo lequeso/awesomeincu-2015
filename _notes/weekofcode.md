@@ -127,6 +127,7 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
     * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
+    * Get a [Pikachu sprite](http://vignette1.wikia.nocookie.net/pokemon/images/f/fc/025Pikachu_OS_anime_5.png)
 * Danny’s Sample apps
     * [Circles](https://dl.dropboxusercontent.com/u/15010097/circles.aia)
     * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
