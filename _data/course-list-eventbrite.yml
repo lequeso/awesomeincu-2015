@@ -40,6 +40,20 @@
   status: 'active'
   feature: true
 
+- title: After-School Coding Club
+  headline: Have fun and learn to code with friends! (Ages 9-13)
+  age_range: 9-13
+  curriculum: club
+  date: Sept 13 - Nov 29, Tuesdays
+  time: 5-6:30pm
+  early-bird-price: 
+  standard-price: 100/month
+  early-bird-date:
+  url: https://www.eventbrite.com/e/awesome-inc-after-school-coding-club-fall-2016-tuesdays-tickets-26529774269
+  logo: logo_big.png
+  status: 'active'
+  curriculum-date: tue
+
 # Note: Inactive Courses below here
 
 - title: Week of Code summer camp - Louisville
@@ -67,20 +81,6 @@
   url: https://www.eventbrite.com/e/awesome-inc-u-minecraft-party-tickets-22793251228
   logo: minecraft.png
   status: 'inactive'
-
-- title: After-School Coding Club
-  headline: Have fun and learn to code with friends! (Ages 9-13)
-  age_range: 9-13
-  curriculum: club
-  date: April 12 - May 3, Tuesdays
-  time: 5-6:30pm
-  early-bird-price: 
-  standard-price: 100/month
-  early-bird-date:
-  url: /after-school/
-  logo: logo_big.png
-  status: 'inactive'
-  curriculum-date: mon
 
 - title: Awesome Inc U Membership
   headline: 'For adult learners who want to go beyond "Hello, world"'
