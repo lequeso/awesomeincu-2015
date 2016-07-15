@@ -147,15 +147,11 @@ Update is a function that is called once per frame. We'll use it to tell us what
         }
 	}
 
-![image alt text](/img/tutorials/unity-pong/image_10.png)
-
 The last bit of code should help keep the paddle still when the ball hits it - it's basically saying, after anything happens, put yourself back at the right x-coordinate. This is part of the 'Update()' function.
 
         var reset = rb2d.velocity;
         reset.x = 0;
         rb2d.velocity = reset;
-
-![image alt text](/img/tutorials/unity-pong/image_11.png)
 
 *NOTE: Sometimes as we're writing code, our method (or function) names are important to keep the same, as they come from our packages. Make sure that you name methods the same thing that I do. For instance, an 'Update()' function is one that Unity knows to run once every frame, because it is called 'Update()'. If you want to / know how to play with how the methods accomplish what they do, you can do that. This doesn't apply to all methods, but be aware!*
 
