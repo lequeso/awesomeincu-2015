@@ -350,6 +350,17 @@ form {
   margin-top: 40px;
 }
 
+/* NOTES
+-------------------------------------------------- */
+.notes img {   /*same as bootstrap's .img-responsive & .center-block */
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
