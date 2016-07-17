@@ -34,7 +34,7 @@ Seems easy enough. And it is, but maybe not as easy as it seems. We'll tackle ea
 
 ## Step One: The Setup
 
-First, download this [Unity Pong assets file](https://s3.amazonaws.com/awesomeinc/unity-pong-assets.zip). It contains images and other assets that we'll be using in this tutorial.
+First, download this [Unity Pong assets file](/files/unity-pong-assets/). It contains images and other assets that we'll be using in this tutorial.
 
 Now, let's start with the paddles. When we open up Unity, we're used to seeing the camera hovering in 3D space. But that's not what we want today. Open up Unity and follow these steps:
 
@@ -50,7 +50,7 @@ Now, let's start with the paddles. When we open up Unity, we're used to seeing t
 
 You should now see the camera in a more 2D space. If you don't, in the Scene view in Unity, make sure the '2D' button is pressed along the top toolbar. Setting up Unity in 2D does several things. Objects that in 3D space would be farther away, just appear behind other objects in 2D. This view will also make it so that Unity defaults to Sprites instead of textures. Great! 
 
-Remember that [Unity Pong assets file](https://s3.amazonaws.com/awesomeinc/unity-pong-assets.zip) that we downloaded? Now's a great time to unzip that file. You'll see a folder called `unitypong-assets`, which will contain a set of images, fonts, and other assets that we'll be using today. Select all, click, and drag these files into the Project pane at the bottom of your Unity window. They should end up in your Assets folder. If your Unity Editor window looks much different, then you may want to set your editor Layout to "Default".
+Remember that [Unity Pong assets file](/files/unity-pong-assets/) that we downloaded? Now's a great time to unzip that file. You'll see a folder called `unitypong-assets`, which will contain a set of images, fonts, and other assets that we'll be using today. Select all, click, and drag these files into the Project pane at the bottom of your Unity window. They should end up in your Assets folder. If your Unity Editor window looks much different, then you may want to set your editor Layout to "Default".
 
 ![Downloaded assets](/img/tutorials/unity-pong/unitypong-assets.png)
 
@@ -75,6 +75,10 @@ Look at the Inspector pane and the 'Sprite renderer' dropdown menu. We want to m
 Now we're cooking. Lets select the Main Camera object in your Hierarchy pane. Rename it so 'MainCamera' is one word. That will be important later in some of our scripting so that our code knows what object to look for. Next, make your camera settings look like mine, here to the left. All these settings are doing is getting the camera in the right position for the later pieces we'll be adding. The camera box won't exactly match with the Background, but that's fine - if the screen gets resized, we won't go past the background as quickly. The Scale options refer to how big a given object will be. The position refers to where it is on a graph - which is what your scene view is. Changing these numbers will change where the object is. The center is always 0,0,0.
 
 ![MainCamera properties](/img/tutorials/unity-pong/inspector_3.png)
+
+Now is a great time to save your Scene. Go to File -> Save Scene As... We're going to call our Scene 'Main', and we can save it right in our Assets folder. Once you save, you should see a file called `Main.unity` from your Project pane.
+
+![Save Scene file as Main.unity](/img/tutorials/unity-pong/saved_scene_main.png)
 
 ## Step Two: The Paddles
 
@@ -113,10 +117,10 @@ The next line is the class name, the name of our file. It's the same thing that 
 
 the next couple of lines are variables, or objects the class should know about. By making these variables 'public,' we can adjust them through our Unity interface as well. If we have variables we don't want other developers to see in the Unity interface, we should call them 'private'. Unity may automatically add lines for a function called Start(), but we won't be using that, so you can delete that function.
 
-The first two lines we add will denote the keys that we'll press to move the paddles, and the next one is the speed of the paddle, and the last one is a reference to our Rigidbody.
+The first two lines we add will denote the keys that we'll press to move the paddles (W goes up, S goes down), and the next one is the speed of the paddle, and the last one is a reference to our Rigidbody that we'll use later.
 
-	public KeyCode moveUp = KeyCode.UpArrow;
-    public KeyCode moveDown = KeyCode.DownArrow;
+	public KeyCode moveUp = KeyCode.W;
+    public KeyCode moveDown = KeyCode.S;
     public float speed = 10.0f;
     private Rigidbody2D rb2d;
 
@@ -155,52 +159,93 @@ The last bit of code should help keep the paddle still when the ball hits it - i
 
 *NOTE: Sometimes as we're writing code, our method (or function) names are important to keep the same, as they come from our packages. Make sure that you name methods the same thing that I do. For instance, an 'Update()' function is one that Unity knows to run once every frame, because it is called 'Update()'. If you want to / know how to play with how the methods accomplish what they do, you can do that. This doesn't apply to all methods, but be aware!*
 
-Cool. Save that, and exit out. Now, when we go back to Unity, we should have a paddle that moves. Go to the 'Game' tab next to the 'Scene' tab, and hit the play button at the top of the screen. Use the up and down arrow keys. Does it work? Awesome! Go back to scene view, and click on our 'Player01' object. Under the Inspector pane, you should see a place to change the key bindings for up and down, and the speed that it moves at. Mess around with those as you please. The next step is to make a second paddle. All we need to do is right click 'Player01' in the Hierarchy menu, and choose Duplicate from the menu that appears when we right click. Rename it to be 'Player02'. Next, change its key bindings (I recommend using 'W' for up and 'S' for down), and move it to be the opposite location on the board - change the X value in Transform -> Position to be positive. Now go to 'Game' and test this one too. That work? AWESOME! You should have something that looks like this now:
+Cool. Save that, and exit out. Now, when we go back to Unity, we should have a paddle that moves. To test our game, click the play button (&#9658;) at the top of the screen. Use the up and down arrow keys. Does it work? Awesome! Go back to scene view, and click on our 'Player01' object. Under the Inspector pane, you should see a place to change the key bindings for up and down, and the speed that it moves at. Mess around with those as you please. The next step is to make a second paddle. All we need to do is right click 'Player01' in the Hierarchy menu, and choose Duplicate from the menu that appears when we right click. Rename it to be 'Player02'. Next, change its key bindings (I recommend using 'Up Arrow' for up and 'Down Arrow' for down), and move it to be the opposite location on the board - change the X value in Transform -> Position to be positive. Player01 should be on the left, Player02 on the right. Now go to 'Game' and test this one too. That work? AWESOME! You should have something that looks like this now:
 
 ![image alt text](/img/tutorials/unity-pong/image_12.png)
 
-If so, move on - if not, go back and make sure you've done everything right. 
+If so, move on - if not, go back and make sure you've done everything right. Your completed C# script should look like this: [PlayerControls.cs](https://github.com/ainc/unity-pong/blob/5205fda66595247940ba1b63f51a127f339a87d0/Assets/PlayerControls.cs)
 
 ## Step Three: The Ball
 
 You've made it to the Ball. Congrats! Things get more complicated from here on, and start to have a lot more code, so fasten your seatbelts, and remember, harder is funner (Let's just pretend that's a word)!
 
-The first step is going to be finding the Ball image in the downloadable file, and dragging that into the Project view. Do that now. Drag it into the scene, same as our paddles and Background. Rename the object that now appears under the 'Hierarchy' menu to 'Ball,' and then head over to the Inspector to get the ball rolling. First, I've scaled down the size on the X and Y fields to .5. A smaller ball helps make the game not quite so awkward. Next we need to add similar components that we did to the paddle. Instead of adding 'BoxCollider 2D' we need to add 'Circle Collider 2D' and of course 'RigidBody 2D.' We don't need to change anything in the Circle Collider, except for adding a Material, so the ball will bounce. To do this, right click in the bottom Project pane, and create a new Physics2D material. Rename it 'BallBounce', and look at the Inspector. Change the friction value to 0, and the bounce factor to 1. That way our ball doesn't have friction from anything, including our paddles and wall. This means we control the speed of the ball from our script entirely. The bounciness factor means that it also doesn't lose any speed. It bounces back with the exact same speed it hit the object with. Select 'Ball' in the inspector. Drag 'BallBounce' to the 'Circle Collider 2D' box in the Inspector for 'Ball'. We also need to adjust a lot in 'Rigidbody 2D' so we can get pong ball behavior. It should look like this at the end:
+The first step is going to be finding the Ball image in the Project pane. Drag the Ball into the Scene, same as our Paddles. There should now be an object in the Hierarchy pane named 'Ball'. Click on it, then head over to the Inspector pane to get the ball rolling. First, I've scaled down the size on the X and Y fields to `0.5`. A smaller ball helps make the game not quite so awkward. Next we need to add similar components that we did to the paddle. Click the Add Component button, then in Physics 2D, let's add 'Circle Collider 2D' and of course 'RigidBody 2D.' We don't need to change anything in the Circle Collider, except for adding a Material, so the ball will bounce. You can use the 'BallBounce' Physics2D Material that was in the dowloadable assets pack for this. If you select it and look at the Inspector, you'll see the friction value is `0`, and the bounce factor is `1`. That way our ball doesn't have friction from anything, including our paddles and wall. The bounciness factor means that it also doesn't lose any speed. It bounces back with the exact same speed it hit the object with. This means we control the speed of the ball from our script entirely. Select 'Ball' in the inspector. Drag 'BallBounce' to the 'Circle Collider 2D' box. We also need to adjust several settings in 'Rigidbody 2D' so we can get our desired pong ball behavior. It should look like this at the end:
 
-![image alt text](/img/tutorials/unity-pong/image_13.png)
+![Physics settings for Ball](/img/tutorials/unity-pong/ball_inspector_physics.png)
 
-But of course, to actually get the Ball to move, we need a script. It's time to write our next one, this time called 'BallControl'. I'll do the same thing as before, and post the code with an explanation of what's happening:
+But of course, to actually get the Ball to move, we need a script. With 'Ball' still selected in your Hierarchy, click Add Component in the Inspector pane. Create a New Script, this time called 'BallControl', with the C Sharp language selected. Double-click on the new BallControl script to open it in MonoDevelop. I'll do the same thing as before, and post the code with an explanation of what's happening:
 
 ### Code Breakdown:
 
-**First, as always, we import our packages and name our file.**
+First, as always, we import our packages and confirm that our class name matches our filename.
 
-![image alt text](/img/tutorials/unity-pong/image_14.png)
+    using UnityEngine;
+    using System.Collections;
 
-**In our 'Start()' function, we use the 'hi()' function to wait two seconds by using some code from the packages we imported into our file - this is to give people time to get ready before the ball starts.**
+    public class BallControl : MonoBehaviour {
 
-![image alt text](/img/tutorials/unity-pong/image_15.png)
+We need to declare a couple variables that we'll use later.
 
-**Then we make the ball start to move using the 'GoBall()' function. This function chooses a random direction to go.**
+    private Rigidbody2D rb2d;
+    private Vector2 vel;
 
-![image alt text](/img/tutorials/unity-pong/image_16.png)
+We also need a few functions. `hi()` will let us wait two seconds to give people time to get ready before the ball starts.
 
-**'resetBall()' and 'hasWon()' are two function used by other scripts which we will write later. In short, 'hasWon()' looks for a win condition and resets the ball.**
+    IEnumerator Hi(float secs){
+        yield return new WaitForSeconds(secs);
+    }
 
-![image alt text](/img/tutorials/unity-pong/image_17.png)
+`GoBall()` will choose a random direction (left or right), then make the ball start to move.
 
-**'resetBall()' is used when our reset button is pushed. We'll add that button later, but essentially it centers the ball on the board, and then tells it to start again.**
+    void GoBall(){
+        float rand = Random.Range(0.0f, 2.0f);
+        if(rand < 1.0f){
+            rb2d.AddForce(new Vector2(20.0f, -15.0f));
+        } else {
+            rb2d.AddForce(new Vector2(-20.0f, -15.0f));
+        }
+    }
 
-![image alt text](/img/tutorials/unity-pong/image_18.png)
+In our `Start()` function, we'll initialize our variables, then call the `hi()` and `goBall()` functions.
+    
+    void Start () {
+        rb2d = GetComponent<Rigidbody2D>();
+        vel = rb2d.velocity;
+        hi(2.0f);
+        goBall();
+    }
 
-**'OnCollisionEnter2D' waits until we collide with a paddle, then adjusts the velocity appropriately using both the speed of the ball and of the paddle.**
+`ResetBall()` and `ResartGame()` are two functions used by other scripts which we will write later. `ResetBall()` is used when a win condition is met. It stops the ball, and resets it's position to the center of the board.
 
-![image alt text](/img/tutorials/unity-pong/image_19.png)
+    void ResetBall(){
+        vel.y = 0;
+        vel.x = 0;
+        rb2d.velocity = vel;
+        gameObject.transform.position = new Vector2(0, 0);
+    }
 
-Nifty swifty, neato spedito, our game is looking swell. Let's recap. We have two paddles that work, and now a ball that bounces around realistically. Does yours look like this in the Scene view, with a ball underneath the Camera symbol? The Game view should have just two paddles and a ball there, while the Scene view looks like this:
+`RestartGame()` is used when our restart button is pushed. We'll add that button later. This function uses `ResetBall()` to center the ball on the board, wait 2 seconds, then start moving again.
 
-![image alt text](/img/tutorials/unity-pong/image_20.png)
-So we're done right? Nope. You might have noticed I have something under the Hierarchy menu called HUD (or Heads Up Display) - this is what we need to write next.
+    void RestartGame(){
+        ResetBall();
+        Hi(0.5f);
+        GoBall();
+    }
+
+'OnCollisionEnter2D' waits until we collide with a paddle, then adjusts the velocity appropriately using both the speed of the ball and of the paddle.
+
+    void OnCollisionEnter2D (Collision2D coll) {
+        if(coll.collider.CompareTag("Player")){
+            vel.y = (vel.y / 2.0f) + (coll.collider.attachedRigidbody.velocity.y / 3.0f);
+            rb2d.velocity = vel;
+        }
+    }
+
+Nifty swifty, neato spedito, our game is looking swell. Let's recap. We have two paddles that work, and now a ball that bounces around realistically. Does yours look like this in the Scene view, with a ball underneath the Camera symbol? The completed script we just added should look like this: [BallControl](). The Game view should have just two paddles and a ball there, while the Scene view looks like this:
+
+![Player paddles and ball complete](/img/tutorials/unity-pong/paddles_ball_finished.png)
+
+So we're done right? Nope. Let's add something called HUD (or Heads Up Display) - this is what we need to write next.
 
 ## Step Four: The Walls
 
