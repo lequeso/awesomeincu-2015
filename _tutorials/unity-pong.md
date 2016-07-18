@@ -106,54 +106,66 @@ To add a script, make sure that Player01 is still selected in your Hierarchy pan
 
 In short, the first two lines are packages of pre-written code we want to tell our program it can use.
 
-    using UnityEngine;
-    using System.Collections;
+{% highlight csharp %}
+using UnityEngine;
+using System.Collections;
+{% endhighlight %}
 
 The next line is the class name, the name of our file. It's the same thing that we named our Component.
 
-	public class PlayerControls : MonoBehaviour {
+{% highlight csharp %}
+public class PlayerControls : MonoBehaviour {
+{% endhighlight %}
 
 the next couple of lines are variables, or objects the class should know about. By making these variables 'public,' we can adjust them through our Unity interface as well. If we have variables we don't want other developers to see in the Unity interface, we should call them 'private'. Unity may automatically add lines for a function called Start(), but we won't be using that, so you can delete that function.
 
 The first two lines we add will denote the keys that we'll press to move the paddles (W goes up, S goes down), and the next one is the speed of the paddle, and the last one is a reference to our Rigidbody that we'll use later.
 
-	public KeyCode moveUp = KeyCode.W;
-    public KeyCode moveDown = KeyCode.S;
-    public float speed = 10.0f;
-    private Rigidbody2D rb2d;
+{% highlight csharp %}
+public KeyCode moveUp = KeyCode.W;
+public KeyCode moveDown = KeyCode.S;
+public float speed = 10.0f;
+private Rigidbody2D rb2d;
+{% endhighlight %}
 
 Start is a function that is called when we first launch our game. We'll use it to do some initial setup, such as setting up our Rigidbody2D:
 
-	void Start () {
-        rb2d = GetComponent<Rigidbody2D>();
-	}
+{% highlight csharp %}
+void Start () {
+    rb2d = GetComponent<Rigidbody2D>();
+}
+{% endhighlight %}
 
 Update is a function that is called once per frame. We'll use it to tell us what button is being pressed, and then move the paddle accordingly, or, if no button is pressed, keep the paddle still.
 
-	void Update () {
-        if (Input.GetKey(moveUp))
-        {
-            var vel = rb2d.velocity;
-            vel.y = speed;
-            rb2d.velocity = vel;
-        } else if (Input.GetKey(moveDown))
-        {
-            var vel = rb2d.velocity;
-            vel.y = -1 * speed;
-            rb2d.velocity = vel;
-        } else if (!Input.anyKey)
-        {
-            var vel = rb2d.velocity;
-            vel.y = 0.0f;
-            rb2d.velocity = vel;
-        }
-	}
+{% highlight csharp %}
+void Update () {
+    if (Input.GetKey(moveUp))
+    {
+        var vel = rb2d.velocity;
+        vel.y = speed;
+        rb2d.velocity = vel;
+    } else if (Input.GetKey(moveDown))
+    {
+        var vel = rb2d.velocity;
+        vel.y = -1 * speed;
+        rb2d.velocity = vel;
+    } else if (!Input.anyKey)
+    {
+        var vel = rb2d.velocity;
+        vel.y = 0.0f;
+        rb2d.velocity = vel;
+    }
+}
+{% endhighlight %}
 
 The last bit of code should help keep the paddle still when the ball hits it - it's basically saying, after anything happens, put yourself back at the right x-coordinate. This is part of the 'Update()' function.
 
-        var reset = rb2d.velocity;
-        reset.x = 0;
-        rb2d.velocity = reset;
+{% highlight csharp %}
+var reset = rb2d.velocity;
+reset.x = 0;
+rb2d.velocity = reset;
+{% endhighlight %}
 
 *NOTE: Sometimes as we're writing code, our method (or function) names are important to keep the same, as they come from our packages. Make sure that you name methods the same thing that I do. For instance, an 'Update()' function is one that Unity knows to run once every frame, because it is called 'Update()'. If you want to / know how to play with how the methods accomplish what they do, you can do that. This doesn't apply to all methods, but be aware!*
 
@@ -181,59 +193,73 @@ But of course, to actually get the Ball to move, we need a script. With 'Ball' s
 
 First, as always, we import our packages and confirm that our class name matches our filename.
 
-    using UnityEngine;
-    using System.Collections;
+{% highlight csharp %}
+using UnityEngine;
+using System.Collections;
 
-    public class BallControl : MonoBehaviour {
+public class BallControl : MonoBehaviour {
+{% endhighlight %}
 
 We need to declare a couple variables that we'll use later.
 
-    private Rigidbody2D rb2d;
-    private Vector2 vel;
+{% highlight csharp %}
+private Rigidbody2D rb2d;
+private Vector2 vel;
+{% endhighlight %}
 
 We also need a `GoBall()` function, that will choose a random direction (left or right), then make the ball start to move.
 
-    void GoBall(){
-        float rand = Random.Range(0.0f, 2.0f);
-        if(rand < 1.0f){
-            rb2d.AddForce(new Vector2(20.0f, -15.0f));
-        } else {
-            rb2d.AddForce(new Vector2(-20.0f, -15.0f));
-        }
+{% highlight csharp %}
+void GoBall(){
+    float rand = Random.Range(0.0f, 2.0f);
+    if(rand < 1.0f){
+        rb2d.AddForce(new Vector2(20.0f, -15.0f));
+    } else {
+        rb2d.AddForce(new Vector2(-20.0f, -15.0f));
     }
+}
+{% endhighlight %}
 
 In our `Start()` function, we'll initialize our `rb2d` variable. Then we'll call the `GoBall()` function, using `Invoke()`, which [allows us to wait](https://docs.unity3d.com/ScriptReference/MonoBehaviour.Invoke.html) before execution. This will wait two seconds to give players time to get ready before the ball starts moving.
-    
-    void Start () {
-        rb2d = GetComponent<Rigidbody2D>();
-        Invoke("GoBall", 2.0f);
-    }
+
+{% highlight csharp %}    
+void Start () {
+    rb2d = GetComponent<Rigidbody2D>();
+    Invoke("GoBall", 2.0f);
+}
+{% endhighlight %}
 
 `ResetBall()` and `ResartGame()` are two functions used by other scripts which we will write later. `ResetBall()` is used when a win condition is met. It stops the ball, and resets it's position to the center of the board.
 
-    void ResetBall(){
-        vel.y = 0;
-        vel.x = 0;
-        rb2d.velocity = vel;
-        gameObject.transform.position = new Vector2(0, 0);
-    }
+{% highlight csharp %}
+void ResetBall(){
+    vel.y = 0;
+    vel.x = 0;
+    rb2d.velocity = vel;
+    gameObject.transform.position = new Vector2(0, 0);
+}
+{% endhighlight %}
 
 `RestartGame()` is used when our restart button is pushed. We'll add that button later. This function uses `ResetBall()` to center the ball on the board. Then it uses `Invoke()` to wait 1 second, then start the ball moving again.
 
-    void RestartGame(){
-        ResetBall();
-        Invoke("GoBall", 1.0f);
-    }
+{% highlight csharp %}
+void RestartGame(){
+    ResetBall();
+    Invoke("GoBall", 1.0f);
+}
+{% endhighlight %}
 
-'OnCollisionEnter2D' waits until we collide with a paddle, then adjusts the velocity appropriately using both the speed of the ball and of the paddle.
+`OnCollisionEnter2D()` waits until we collide with a paddle, then adjusts the velocity appropriately using both the speed of the ball and of the paddle.
 
-    void OnCollisionEnter2D (Collision2D coll) {
-        if(coll.collider.CompareTag("Player")){
-            vel.x = rb2d.velocity.x;
-            vel.y = (rb2d.velocity.y / 2.0f) + (coll.collider.attachedRigidbody.velocity.y / 3.0f);
-            rb2d.velocity = vel;
-        }
+{% highlight csharp %}
+void OnCollisionEnter2D (Collision2D coll) {
+    if(coll.collider.CompareTag("Player")){
+        vel.x = rb2d.velocity.x;
+        vel.y = (rb2d.velocity.y / 2.0f) + (coll.collider.attachedRigidbody.velocity.y / 3.0f);
+        rb2d.velocity = vel;
     }
+}
+{% endhighlight %}
 
 Nifty swifty, neato spedito, our game is looking swell. Let's recap. We have two paddles that work, and now a ball that bounces around realistically. Does yours look like this in the Scene view, with a ball underneath the Camera symbol? The completed script we just added should look like this: [BallControl.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/BallControl.cs). The Game view should have just two paddles and a ball there, while the Scene view looks like this:
 
@@ -251,20 +277,22 @@ So you may have also noticed by now that your paddles can fly off the screen, an
 
 Here, we'll import our packages as usual, and then declare some variables. The first two will be for our paddles, the next four are for each of our four walls. This helps create a slot in the Inspector for the HUD for us to put each of these objects. 
 
-    using UnityEngine;
-    using System.Collections;
+{% highlight csharp %}
+using UnityEngine;
+using System.Collections;
 
-    public class HUD : MonoBehaviour {
+public class HUD : MonoBehaviour {
 
-        public GameObject Player1;
-        public GameObject Player2;
+    public GameObject Player1;
+    public GameObject Player2;
 
-        public BoxCollider2D topWall;
-        public BoxCollider2D bottomWall;
-        public BoxCollider2D leftWall;
-        public BoxCollider2D rightWall;
+    public BoxCollider2D topWall;
+    public BoxCollider2D bottomWall;
+    public BoxCollider2D leftWall;
+    public BoxCollider2D rightWall;
 
-    }
+}
+{% endhighlight %}
 
 This also sets us up to get creative with the sizing of our game - if you want, you can try and figure out how to make the game resize using this script as you shrink or grow the game window. We're not going to write that today though as part of this tutorial, as that gets a little complicated to do.
 
@@ -286,62 +314,72 @@ We need to make a script. A big one, relatively speaking. It's going to be attac
 
 First, as always, we import our packages and declare our class.
 
-    using UnityEngine;
-    using System.Collections;
+{% highlight csharp %}
+using UnityEngine;
+using System.Collections;
 
-    public class GameManager : MonoBehaviour {
+public class GameManager : MonoBehaviour {
+{% endhighlight %}
 
 Next we make four variables. The first two variables are just integers to keep track of the scores for the two players. The next is a GUI object. 'GUI' stands for graphical user interface. This object is going to be responsible for displaying all our different buttons and graphics. We'll make this skin object in Unity after we finish here. The last object is so we can move our ball from this class.
 
-    public static int PlayerScore1 = 0;
-    public static int PlayerScore2 = 0;
+{% highlight csharp %}
+public static int PlayerScore1 = 0;
+public static int PlayerScore2 = 0;
 
-    public GUISkin layout;
+public GUISkin layout;
 
-    Transform theBall;
+Transform theBall;
+{% endhighlight %}
 
 Then comes the 'Start()' function, which we use when the game first starts.
 
-    void Start () {
-        theBall = GameObject.FindGameObjectWithTag("Ball").transform;
-    }
+{% highlight csharp %}
+void Start () {
+    theBall = GameObject.FindGameObjectWithTag("Ball").transform;
+}
+{% endhighlight %}
 
 Next is the 'Score()' function. It will get called by another script we write in just a minute, that detects when the ball hits the side walls.
 
-    public static void Score (string wallID) {
-        if (wallID == "rightWall")
-        {
-            PlayerScore1++;
-        } else
-        {
-            PlayerScore2++;
-        }
+{% highlight csharp %}
+public static void Score (string wallID) {
+    if (wallID == "rightWall")
+    {
+        PlayerScore1++;
+    } else
+    {
+        PlayerScore2++;
     }
+}
+{% endhighlight %}
 
 The OnGUI() function takes care of displaying the score and the reset button functionality. Then, it checks every time something happens if someone has won yet, and triggers the function 'resetBall()' if someone has.
 
-    void OnGUI () {
-        GUI.skin = layout;
-        GUI.Label(new Rect(Screen.width / 2 - 150 - 12, 20, 100, 100), "" + PlayerScore1);
-        GUI.Label(new Rect(Screen.width / 2 + 150 + 12, 20, 100, 100), "" + PlayerScore2);
+{% highlight csharp %}
+void OnGUI () {
+    GUI.skin = layout;
+    GUI.Label(new Rect(Screen.width / 2 - 150 - 12, 20, 100, 100), "" + PlayerScore1);
+    GUI.Label(new Rect(Screen.width / 2 + 150 + 12, 20, 100, 100), "" + PlayerScore2);
 
-        if (GUI.Button(new Rect(Screen.width / 2 - 60, 35, 120, 53), "RESTART"))
-        {
-            PlayerScore1 = 0;
-            PlayerScore2 = 0;
-            theBall.gameObject.SendMessage("RestartGame", 0.5f, SendMessageOptions.RequireReceiver);
-        }
-
-        if (PlayerScore1 == 10)
-        {
-            GUI.Label(new Rect(Screen.width / 2 - 150, 200, 2000, 1000), "PLAYER ONE WINS");
-            theBall.gameObject.SendMessage("ResetBall", null, SendMessageOptions.RequireReceiver);
-        } else if (PlayerScore2 == 10)
-        {
-            GUI.Label(new Rect(Screen.width / 2 - 150, 200, 2000, 1000), "PLAYER TWO WINS");
-            theBall.gameObject.SendMessage("ResetBall", null, SendMessageOptions.RequireReceiver);
-        }
+    if (GUI.Button(new Rect(Screen.width / 2 - 60, 35, 120, 53), "RESTART"))
+    {
+        PlayerScore1 = 0;
+        PlayerScore2 = 0;
+        theBall.gameObject.SendMessage("RestartGame", 0.5f, SendMessageOptions.RequireReceiver);
     }
+
+    if (PlayerScore1 == 10)
+    {
+        GUI.Label(new Rect(Screen.width / 2 - 150, 200, 2000, 1000), "PLAYER ONE WINS");
+        theBall.gameObject.SendMessage("ResetBall", null, SendMessageOptions.RequireReceiver);
+    } else if (PlayerScore2 == 10)
+    {
+        GUI.Label(new Rect(Screen.width / 2 - 150, 200, 2000, 1000), "PLAYER TWO WINS");
+        theBall.gameObject.SendMessage("ResetBall", null, SendMessageOptions.RequireReceiver);
+    }
+}
+{% endhighlight %}
 
 The 'SendMessage' call is something we've been using a lot in this chunk of code - it will trigger any function that matches the name that we send it in a class we specify. So when we say `theBall.gameObject.SendMessage("ResetBall")`, we tell the program to access the 'BallControl' class and trigger the `ResetBall()` method. Here's the completed script: [HUD.cs](https://github.com/ainc/unity-pong/blob/unity5/Assets/HUD.cs)
 
@@ -367,20 +405,22 @@ Cool. Now let's make sure that the game knows when we do score. To do that, we n
 
 After we import our packages, we just need to write one function. This function detects when something is colliding with our left or right walls. If it's the ball, we call the score method in GameManager, and reset the ball to the middle. That's about it really. Huh. That was easy.
 
-    using UnityEngine;
-    using System.Collections;
+{% highlight csharp %}
+using UnityEngine;
+using System.Collections;
 
-    public class SideWalls : MonoBehaviour {
+public class SideWalls : MonoBehaviour {
 
-        void OnTriggerEnter2D (Collider2D hitInfo) {
-            if (hitInfo.name == "Ball")
-            {
-                string wallName = transform.name;
-                GameManager.Score(wallName);
-                hitInfo.gameObject.SendMessage("RestartGame", 1.0f, SendMessageOptions.RequireReceiver);
-            }
+    void OnTriggerEnter2D (Collider2D hitInfo) {
+        if (hitInfo.name == "Ball")
+        {
+            string wallName = transform.name;
+            GameManager.Score(wallName);
+            hitInfo.gameObject.SendMessage("RestartGame", 1.0f, SendMessageOptions.RequireReceiver);
         }
     }
+}
+{% endhighlight %}
 
 *NOTE: if you skipped writing the 'Score()' function in GameManager.cs before, go back and write it NOW.*
 

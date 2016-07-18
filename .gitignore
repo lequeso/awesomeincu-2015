@@ -6,6 +6,9 @@ _site/
 .sass-cache/
 .jekyll-metadata
 
+# Bundler
+Gemfile.lock
+
 # Mac OS X
 .DS_Store
 .AppleDouble
