@@ -34,7 +34,7 @@ Seems easy enough. And it is, but maybe not as easy as it seems. We'll tackle ea
 
 ## Step One: The Setup
 
-First, download this [Unity Pong assets file](/files/unity-pong-assets/). It contains images and other assets that we'll be using in this tutorial.
+First, download this [Unity Pong assets file](/files/unity-pong-assets.zip). It contains images and other assets that we'll be using in this tutorial.
 
 Now, let's start with the paddles. When we open up Unity, we're used to seeing the camera hovering in 3D space. But that's not what we want today. Open up Unity and follow these steps:
 
@@ -50,7 +50,7 @@ Now, let's start with the paddles. When we open up Unity, we're used to seeing t
 
 You should now see the camera in a more 2D space. If you don't, in the Scene view in Unity, make sure the '2D' button is pressed along the top toolbar. Setting up Unity in 2D does several things. Objects that in 3D space would be farther away, just appear behind other objects in 2D. This view will also make it so that Unity defaults to Sprites instead of textures. Great! 
 
-Remember that [Unity Pong assets file](/files/unity-pong-assets/) that we downloaded? Now's a great time to unzip that file. You'll see a folder called `unitypong-assets`, which will contain a set of images, fonts, and other assets that we'll be using today. Select all, <kbd>click + drag</kbd> these files into the Project pane at the bottom of your Unity window. They should end up in your Assets folder. If your Unity Editor window looks much different, then you may want to set your editor Layout to "Default".
+Remember that [Unity Pong assets file](/files/unity-pong-assets.zip) that we downloaded? Now's a great time to unzip that file. You'll see a folder called `unitypong-assets`, which will contain a set of images, fonts, and other assets that we'll be using today. Select all, <kbd>click + drag</kbd> these files into the Project pane at the bottom of your Unity window. They should end up in your Assets folder. If your Unity Editor window looks much different, then you may want to set your editor Layout to "Default".
 
 ![Downloaded assets](/img/tutorials/unity-pong/unitypong-assets.png)
 
