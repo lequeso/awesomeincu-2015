@@ -93,11 +93,17 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * Introductions - students, instructors
 * Why it’s important to learn to code
-* What ground rules should we have?
+* Awesome Inc Core Values
     * Be Good
     * Be Excellent
     * Be a Friend
     * Be You
+* What ground rules should we have?
+    * When the instructor is talking, ______.
+    * Keep your hands to ______.
+    * Keep your _____ for refills.
+    * The _____ are back by the water fountain.
+    * Try, Read, Friend, TA.
 * Text editor skills and vocabulary
     * Copy, Cut, Paste, Switch windows
     * Arrow keys vs Mouse, Shift-to-select
@@ -108,12 +114,12 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 * Use [MIT App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html)
 * Hello world
 * Password app
-    * Variables
-    * If Statements
-    * For Loops
-* Talk to Me
-    * [Part 1](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart1.pdf) - press button for sound
-    * [Part 2](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart2.pdf) - get user input
+    * Variables (hardcode `myName`, get `yourName` via user input)
+    * If Statements (check if variables match, do something)
+    * [For Loops](https://docs.google.com/spreadsheets/d/1ih5AsT1SWX2493nGQ6JoXbu7PojJdM8GqtssRMYr_6w/edit#gid=1560899409) (repeat what you do `n` times)
+* Add Talk to Me features
+    * [Part 1](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart1.pdf) - press button speak out loud (generate sound)
+    * [Part 2](http://appinventor.mit.edu/explore/sites/all/files/hourofcode/TalkToMePart2.pdf) - get user input (ask user what to say)
 
 #### 2:00pm
 
@@ -128,20 +134,23 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 * [Whack-a-Mole game](http://appinventor.mit.edu/explore/ai2/molemash.html)
     * Get a [Meow noise](http://appinventor.mit.edu/explore/sites/all/files/tutorials/helloPurr/meow.mp3) from [HelloPurr](http://appinventor.mit.edu/explore/content/hellopurr.html)
     * Get a [Pikachu sprite](http://vignette1.wikia.nocookie.net/pokemon/images/f/fc/025Pikachu_OS_anime_5.png) and [Pikachu Sound](/files/weekofcode/pika.wav)
-* Danny’s Sample apps
-    * [Circles](https://dl.dropboxusercontent.com/u/15010097/circles.aia)
-    * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
-* [Space Invaders](http://appinventor.mit.edu/explore/ai2/space-invaders.html)
-    * Here’s a [video of the original game](https://www.youtube.com/watch?v=437Ld_rKM2s), if you missed the launch in 1978
 * My Favorite Team
     * [Sportsball Fanatic sample app](http://ai2.appinventor.mit.edu/?galleryId=4884510797201408)
-
+    * Launcher with 3 buttons (Catch game, Profile, Website)
+    * Team Profile
+    * Team Website
 
 #### 4:30pm
 
 * Confirm Web (Sublime Text, FileZilla) setup for Wednesday
 * More App Inventor
-    * [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html) or [Get the Gold](http://appinventor.mit.edu/explore/get-gold.html)
+    * Add [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html) to Pokemon app
+    * Add [Mini Golf](http://appinventor.mit.edu/explore/content/minigolf.html)
+    * Create [Space Invaders](http://appinventor.mit.edu/explore/ai2/space-invaders.html)
+        * Here’s a [video of the original game](https://www.youtube.com/watch?v=437Ld_rKM2s), if you missed the launch in 1978
+    * Danny’s Sample apps
+        * [Circles](https://dl.dropboxusercontent.com/u/15010097/circles.aia)
+        * [Bars](https://dl.dropboxusercontent.com/u/15010097/bars.aia)
 * Want to go more in-depth with Android?
     * See [Android on Udacity](https://www.udacity.com/course/ud853)
     * Install [Android Studio](https://developer.android.com/sdk/installing/studio.html)
@@ -202,12 +211,11 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
 
 * Deployment with FTP
     * FileZilla
-        * Use SFTP
-        * Host: [projects.awesomeincu.com](http://projects.awesomeincu.com/)
-        * Port: 22
-        * Logon Type: Normal
-        * User: (ask instructor)
-        * Password: (ask instructor)
+        * Host: [projects.awesomeincu.com](ftp://projects.awesomeincu.com/)
+        * Protocol: FTP
+        * Encryption: Use explicit FTP over TLS if available
+        * Logon Type: Anonymous
+        * After login, go to [`/woc/` directory](ftp://projects.awesomeincu.com/woc)
     * Server
     * Relative links
 * How to register a Domain Name
