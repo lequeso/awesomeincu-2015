@@ -99,8 +99,8 @@ _These notes are for Week of Code - Classic (Mobile, Web, Games). Looking for [W
     * Be a Friend
     * Be You
 * What ground rules should we have?
-    * When the instructor is talking, ______.
-    * Keep your hands to ______.
+    * When the instructor is talking, _____.
+    * Keep your hands to _____.
     * Keep your _____ for refills.
     * The _____ are back by the water fountain.
     * Try, Read, Friend, TA.
