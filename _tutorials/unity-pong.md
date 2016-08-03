@@ -440,7 +440,7 @@ Now, click on 'Player Settings.' This is where you should put your name on the P
 
 Now, hit Build and choose where you want to save the file (I chose the desktop), and name it something (I named it Pong v1.0). Look at your desktop. Is it there? Sweet. If you want to see my completed version, here's the [sample code on GitHub](https://github.com/ainc/unity-pong).
 
-Congratulations, and enjoy your game. Thanks for going through this tutorial, and if you want to learn more about Unity or coding in general, make sure to check out the rest of [Awesome Inc U](http://www.awesomeincu.com/) online. 
+Congratulations, and enjoy your game. Thanks for going through this tutorial, and if you want to learn more about Unity or coding in general, make sure to check out the rest of [We Love Pasta](http://www.awesomeincu.com/) online. 
 
 ## THANKS, AND GAME ON.
 

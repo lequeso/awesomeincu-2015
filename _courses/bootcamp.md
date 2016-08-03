@@ -40,7 +40,7 @@ Tuition for the Bootcamp is $9500. Financing and flexible payment plans are avai
 
 ### Are scholarships available?
 
-Yes. In addition to combatting developer shortage, APAX Software and Awesome Inc U have joined forces to tackle the gender and race imbalance in the tech industry by offering scholarships to women and minorities. Please [contact us](/contact/) for more information.
+Yes. In addition to combatting developer shortage, APAX Software and We Love Pasta have joined forces to tackle the gender and race imbalance in the tech industry by offering scholarships to women and minorities. Please [contact us](/contact/) for more information.
 
 ### What will I learn during the Bootcamp?
 

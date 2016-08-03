@@ -30,7 +30,7 @@ So, let's say that you wanted to learn how to make your first iPhone app. Where 
 * [Udemy](https://www.udemy.com/courses/search/?q=iphone) (Lots of options here)
 * [Tuts+](http://mobile.tutsplus.com/category/tutorials/iphone/)
 * [Ray Wenderlich](http://www.raywenderlich.com/tutorials) (Great tutorials, especially for games)
-* [Awesome Inc U](http://awesomeincu.com/) (Hey, that's us!)
+* [We Love Pasta](http://awesomeincu.com/) (Hey, that's us!)
 * [CodeSchool](http://www.codeschool.com/courses/try-ios) (allows you to compile Objective-C remotely, so you don't even need a Mac)
 * [Get a $30 book](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051/ref=dp_ob_title_bk) (maybe free at your public library)
 

@@ -10,7 +10,7 @@ tags: [learntocode, k-12, teachers]
 
 by [Nick Such](https://plus.google.com/+NickSuch/)
 
-Our vision at Awesome Inc U is that everyone should have access to a programming education. While we offer a variety of in-person classes at our offices in Lexington, we know that due to the constraints of time, finances, and geography, not everyone can attend our courses. We hope to someday see computer programming classes as a core part of the K-12 education experience.
+Our vision at We Love Pasta is that everyone should have access to a programming education. While we offer a variety of in-person classes at our offices in Lexington, we know that due to the constraints of time, finances, and geography, not everyone can attend our courses. We hope to someday see computer programming classes as a core part of the K-12 education experience.
 
 <!--break-->
 

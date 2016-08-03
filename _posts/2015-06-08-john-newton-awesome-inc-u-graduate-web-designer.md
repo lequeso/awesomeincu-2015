@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "John Newton: Awesome Inc U Graduate, Web Designer"
-description: "John Newton came to the Awesome Inc U Membership without web development experience, and left with a coding job."
+title: "John Newton: We Love Pasta Graduate, Web Designer"
+description: "John Newton came to the We Love Pasta Membership without web development experience, and left with a coding job."
 category: 
 tags: [learntocode, academy, students]
 ---
@@ -10,21 +10,21 @@ tags: [learntocode, academy, students]
 
 By Sarah Brookbank
 
-One of our goals at Awesome Inc is to help everyone pursue their own definition of awesome, and our coding school is a way we work towards that goal. For two years [Awesome Inc U](http://www.awesomeincu.com/) has helped anyone and everyone learn to code, from professionals looking to beef up their skill set to middle school students who learn the more practical side of Minecraft.
+One of our goals at Awesome Inc is to help everyone pursue their own definition of awesome, and our coding school is a way we work towards that goal. For two years [We Love Pasta](http://www.awesomeincu.com/) has helped anyone and everyone learn to code, from professionals looking to beef up their skill set to middle school students who learn the more practical side of Minecraft.
 
 <!--break-->
 
 John Newton was looking to learn a new skill when he came to Awesome Inc with some C++ coding experience. John recently got a job at[ eLink Design](https://www.elinkdesign.com/) in Lexington, debugging, upgrading, and creating websites with the skills he learned at Awesome Inc. 
 
-"Pretty much everything I was doing [at Awesome Inc U], I'm doing over [at eLink] now. I was hired mostly to work on a big Symfony project," John said.
+"Pretty much everything I was doing [at We Love Pasta], I'm doing over [at eLink] now. I was hired mostly to work on a big Symfony project," John said.
 
-One of the bigger parts of this project was debugging the site. John said that his training  from Awesome Inc U gave him the knowledge to know what is going on, so he can fix it without having to Google the problem.
+One of the bigger parts of this project was debugging the site. John said that his training  from We Love Pasta gave him the knowledge to know what is going on, so he can fix it without having to Google the problem.
 
 "If you get stuck with something, it helps to talk with people," John said.
 
-John said the most valuable experience he had at Awesome Inc U was creating his own website. Awesome Inc U also became a sounding board for John's ideas and helped him work through his designs.
+John said the most valuable experience he had at We Love Pasta was creating his own website. We Love Pasta also became a sounding board for John's ideas and helped him work through his designs.
 
-Some of the programs John learned at Awesome Inc U were Symfony 2 and Bootstrap, a program that creates website frameworks, which he uses now at eLink Design to help clients. John has created sites for a number of clients, including realty companies, insurance agencies and a cycling team.
+Some of the programs John learned at We Love Pasta were Symfony 2 and Bootstrap, a program that creates website frameworks, which he uses now at eLink Design to help clients. John has created sites for a number of clients, including realty companies, insurance agencies and a cycling team.
 
 John has earned his master's in astronomy and physics and used to sit at a computer, creating digital images and simulations but came to Awesome Inc wanting to learn how to do something else.
 

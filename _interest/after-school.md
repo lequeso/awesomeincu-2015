@@ -10,7 +10,7 @@ description: Learn to code with friends, in a fun, encouraging environment. Make
 
 Do you have a student at home who spends plenty of time on the computer, plays lots of Minecraft, or has enjoyed doing the Hour of Code at school? The After-School Coding Club is the place to take that interest in technology, and turn it into a productive skill. Designed for boys and girls ages 9 - 13 who want to try out programming, the Coding Club is a fun way to learn to code in a social, after-school setting.
 
-<img alt="Student with website project at Awesome Inc U" src="/img/academy-young-student.jpg" class="img-responsive">
+<img alt="Student with website project at We Love Pasta" src="/img/academy-young-student.jpg" class="img-responsive">
 
 The After-School Coding Club meets one night a week for 90 minutes, and new sessions begin each month during the school year. Come back for as many sessions as you'd like, the fun and the knowledge keep on building. Sign up with friends, or meet new people with similar interests. No prior programming experience is required, but students should be comfortable typing and using a web browser.
 
@@ -21,4 +21,4 @@ The After-School Coding Club meets one night a week for 90 minutes, and new sess
 * Meet other students learning to code
 
 
-<img alt="Students work with instructors Awesome Inc U" src="/img/after-school-group.jpg" class="img-responsive">
+<img alt="Students work with instructors We Love Pasta" src="/img/after-school-group.jpg" class="img-responsive">

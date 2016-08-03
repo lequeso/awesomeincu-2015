@@ -12,7 +12,7 @@ Already attending Hour of Code as a student? <a href="/hoc/" class="btn btn-lg b
 
 # STLP brings the #learntocode movement to Kentucky
 
-Want an Hour of Code in your school? [Register](/applications/hourofcode/) to bring in the Awesome Inc U team!
+Want an Hour of Code in your school? [Register](/applications/hourofcode/) to bring in the We Love Pasta team!
 
 Want to run your own Hour of Code? On [Dec. 3rd](https://www.eventbrite.com/e/hour-of-code-teacher-workshop-2-tickets-14300688745), you can attend a workshop for teachers.
 

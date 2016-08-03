@@ -184,8 +184,8 @@ The Plan
 * [Codecademy](https://www.codecademy.com/learn/web) - interactive Web Development tutorials
 * [From email newsletters and online forms to $25k in three months](http://thenextweb.com/entrepreneur/2013/11/23/email-newsletters-online-forms-25k-three-months-coding-required/)
 * [Markdown](http://daringfireball.net/projects/markdown/)
-* [Awesome Inc U - Web Development Level 2 - Deep Dive](http://www.eventbrite.com/e/front-end-web-development-level-2-crash-course-tickets-9901758426?aff=es2&rank=1&sid=89054926968411e3a6541231381b30f6)
-* [Awesome Inc U - Udemy courses](https://www.udemy.com/u/awesomeinc)
+* [We Love Pasta - Web Development Level 2 - Deep Dive](http://www.eventbrite.com/e/front-end-web-development-level-2-crash-course-tickets-9901758426?aff=es2&rank=1&sid=89054926968411e3a6541231381b30f6)
+* [We Love Pasta - Udemy courses](https://www.udemy.com/u/awesomeinc)
 * [A Practical Guide to HTML and CSS](http://learn.shayhowe.com/)
 
 ### [WYSIWYG](http://xkcd.com/1341/) web tools

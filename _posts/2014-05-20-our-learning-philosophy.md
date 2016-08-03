@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our Learning Philosophy at Awesome Inc U"
+title: "Our Learning Philosophy at We Love Pasta"
 description: "We're building a world-class learning environment, by learning from the best."
 category: 
 tags: [learntocode, learning, teaching, philosophy]
@@ -8,19 +8,19 @@ tags: [learntocode, learning, teaching, philosophy]
 
 by [Nick Such](https://plus.google.com/+NickSuch?rel=author)
 
-At [Awesome Inc U](http://www.awesomeincu.com), our goal is not only to create excellent programmers, but also to create a better way of learning. We think the ability to create stuff and solve problems using computer software is a skill with a significant term of usefulness, but some other skill *du jour* will eventually replace it. This is why the latter achievement, creating a great way to learn anything, is the more important of our two goals. In addition to the [Core Values](http://blog.awesomeinc.org/post/65083231094/core-value-training) we live by at Awesome Inc, we have identified some basic tenets that we’re applying to our Awesome Inc U program.
+At [We Love Pasta](http://www.awesomeincu.com), our goal is not only to create excellent programmers, but also to create a better way of learning. We think the ability to create stuff and solve problems using computer software is a skill with a significant term of usefulness, but some other skill *du jour* will eventually replace it. This is why the latter achievement, creating a great way to learn anything, is the more important of our two goals. In addition to the [Core Values](http://blog.awesomeinc.org/post/65083231094/core-value-training) we live by at Awesome Inc, we have identified some basic tenets that we’re applying to our We Love Pasta program.
 
 <!--break-->
 
 ## Our Strategy: How to Create Excellent Programmers
 
-This strategy is what our core team at Awesome Inc U is working to implement. As we’re designing courses, scheduling summer camps, marketing our products, and coaching our instructors, this is what we keep in mind.
+This strategy is what our core team at We Love Pasta is working to implement. As we’re designing courses, scheduling summer camps, marketing our products, and coaching our instructors, this is what we keep in mind.
 
 ### Step 1: Find great programmers to be instructors
 
 If we’re looking to create excellent programmers, we want to create them in the image of existing excellent programmers. This is our end goal, so this is where we must start. By having these living, breathing examples, our students will get to interact with their end goal. This makes it tangible: when the student can do what the master can do, he or she has made sufficient progress.
 
-![Awesome Inc U instructors](/img/blog/philosophy-instructors.jpg)
+![We Love Pasta instructors](/img/blog/philosophy-instructors.jpg)
 
 ### Step 2: Choose instructors who remember what it was like to not be a programmer
 
@@ -58,4 +58,4 @@ These tactics are some of the things that we remind our students and teaching as
 
 ## Additional Reading
 
-The above are just a few guidelines that we’re following as we’re growing Awesome Inc U into a premier training program for technical skills. We’re constantly learning through this process as well, so we hope to add further insights to this list. There are some other great resources out there for improving the learning process. We’re a big fan of the work the [Khan Academy](https://www.khanacademy.org/) is doing. Purely online education still has a long way to go, but Sal Khan and his team are thinking about it in the right way. Jeff Casimir’s [How to Teach Anyone Anything](http://blip.tv/rubynation/jeff-casimir-4337403) is a great reference, especially for others who are helping people learn to code. But perhaps the best advice comes from my one of my math professors in college. He asked our class a question, which most of us initially thought to be self-serving, but was quite the opposite: “Who’s the best teacher you’ve ever had?” After shooting down a series of answers, he let us know the only answer that he would accept: “You, yourself, are the best teacher you will ever have.”
+The above are just a few guidelines that we’re following as we’re growing We Love Pasta into a premier training program for technical skills. We’re constantly learning through this process as well, so we hope to add further insights to this list. There are some other great resources out there for improving the learning process. We’re a big fan of the work the [Khan Academy](https://www.khanacademy.org/) is doing. Purely online education still has a long way to go, but Sal Khan and his team are thinking about it in the right way. Jeff Casimir’s [How to Teach Anyone Anything](http://blip.tv/rubynation/jeff-casimir-4337403) is a great reference, especially for others who are helping people learn to code. But perhaps the best advice comes from my one of my math professors in college. He asked our class a question, which most of us initially thought to be self-serving, but was quite the opposite: “Who’s the best teacher you’ve ever had?” After shooting down a series of answers, he let us know the only answer that he would accept: “You, yourself, are the best teacher you will ever have.”

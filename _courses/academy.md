@@ -1,7 +1,7 @@
 ---
 layout: course
 title: The Academy
-description: Awesome Inc U's Premier Coding Program
+description: We Love Pasta's Premier Coding Program
 cover: /img/Awesome-Inc-Academy.jpg
 application: /applications/academy/
 redirect_from: /programs/academy/

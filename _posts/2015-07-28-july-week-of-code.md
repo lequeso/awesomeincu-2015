@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July Week of Code
-description: Students learn more than programming at Awesome Inc U's learn-to-code summer camp
+description: Students learn more than programming at We Love Pasta's learn-to-code summer camp
 category: 
 tags: [learntocode, weekofcode, students]
 ---
@@ -10,7 +10,7 @@ tags: [learntocode, weekofcode, students]
 
 By Danny Thorne
 
-During July 7th through 10th, seventeen middle school and high school students braved severe weather and flooding to attend an Awesome Inc U Week of Code. They learned web development in HTML/CSS/JavaScript, app development with [MIT App Inventor](http://appinventor.mit.edu/explore/), and game development with [Unity 3D](https://unity3d.com/). 
+During July 7th through 10th, seventeen middle school and high school students braved severe weather and flooding to attend an We Love Pasta Week of Code. They learned web development in HTML/CSS/JavaScript, app development with [MIT App Inventor](http://appinventor.mit.edu/explore/), and game development with [Unity 3D](https://unity3d.com/). 
 
 <!--break-->
 

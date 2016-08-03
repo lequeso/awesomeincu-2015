@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our Most Popular Courses Now On Udemy"
-description: "Our most popular Awesome Inc U courses (Basic Web, iPhone Apps) are now available via the online training site Udemy."
+description: "Our most popular We Love Pasta courses (Basic Web, iPhone Apps) are now available via the online training site Udemy."
 category: 
 tags: [learntocode, udemy, online, mooc, video, screencast]
 ---
@@ -10,7 +10,7 @@ tags: [learntocode, udemy, online, mooc, video, screencast]
 
 By [Nick Such](https://plus.google.com/+NickSuch/)
 
-When we started Awesome Inc U, our vision was to simply offer 1-2 day, in-person courses in the basics of software development. These "Crash Courses" are great because they provide a hands-on experience for our students, with lots of interaction with our instructional team, and they happen 2-3 times per month. While this was a great way to get started, we’ve learned a few things from our students since we launched in June 2013. Based on feedback from our students, we decided to share our courses through the online training site, [Udemy](https://www.udemy.com/u/awesomeinc/) in addition to our in-person courses. Here are a few benefits that we hope it will offer:
+When we started We Love Pasta, our vision was to simply offer 1-2 day, in-person courses in the basics of software development. These "Crash Courses" are great because they provide a hands-on experience for our students, with lots of interaction with our instructional team, and they happen 2-3 times per month. While this was a great way to get started, we’ve learned a few things from our students since we launched in June 2013. Based on feedback from our students, we decided to share our courses through the online training site, [Udemy](https://www.udemy.com/u/awesomeinc/) in addition to our in-person courses. Here are a few benefits that we hope it will offer:
 
 <!--break-->
 
@@ -34,5 +34,5 @@ We currently have 3 courses up on Udemy:
 
 * [Jekyll and GitHub Pages Web Development](https://www.udemy.com/jekyll-and-github-pages/?couponCode=aincwebsite)
 
-The first two of these are our most popular Crash Courses, while [Jekyll](http://jekyllrb.com/) is a tool that we use internally to manage the [Awesome Inc and Awesome Inc U websites](http://github.com/ainc) (and if WordPress isn’t doing the trick for your site, you should check out Jekyll, too). We’ll continue to add more courses as time goes on. If there are any topics that you’d like for us to cover in future courses, please [let us know](https://www.facebook.com/awesomeincorporated). In the mean time, you can [follow us on Udemy](https://www.udemy.com/u/awesomeinc/) to keep updated as courses roll out.
+The first two of these are our most popular Crash Courses, while [Jekyll](http://jekyllrb.com/) is a tool that we use internally to manage the [Awesome Inc and We Love Pasta websites](http://github.com/ainc) (and if WordPress isn’t doing the trick for your site, you should check out Jekyll, too). We’ll continue to add more courses as time goes on. If there are any topics that you’d like for us to cover in future courses, please [let us know](https://www.facebook.com/awesomeincorporated). In the mean time, you can [follow us on Udemy](https://www.udemy.com/u/awesomeinc/) to keep updated as courses roll out.
 

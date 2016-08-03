@@ -36,8 +36,8 @@ Fortunately, many apps and[ programs](http://www.awesomeincu.com/) have been cre
 
 * [Free online options](http://www.inc.com/larry-kim/9-places-you-can-learn-how-to-code-for-free.html) can be accessed at home, such as Khan Academy, MIT open courseware, Codecademy, and many others.
 
-* Learn to code with [Awesome Inc U](http://www.awesomeincu.com/adults/)'s Membership program, Developer Bootcamp, or Individual Tutoring.
+* Learn to code with [We Love Pasta](http://www.awesomeincu.com/adults/)'s Membership program, Developer Bootcamp, or Individual Tutoring.
 
-* Have a child interested in code? Sign them up for an immersive experience such as Awesome Inc U's[ Week of Code Summer Camp](https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457).
+* Have a child interested in code? Sign them up for an immersive experience such as We Love Pasta's[ Week of Code Summer Camp](https://www.eventbrite.com/e/week-of-code-summer-camp-august-lexington-tickets-21394811457).
 
 * [Programming Tutorials From Made With Code by Google](https://www.madewithcode.com/): Google's Made With Code project has a mission of encouraging girls to pursue careers in computer science. The Made With Code projects are easy to follow and designed for both intermediate and beginner coders. 

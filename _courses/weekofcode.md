@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Week of Code
-description: Awesome Inc U's Kids Coding Camp
+description: We Love Pasta's Kids Coding Camp
 cover: /img/Awesome-Inc-Week-Of-Code.jpg
 applications: 
 permalink: /weekofcode/

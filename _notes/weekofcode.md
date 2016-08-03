@@ -289,7 +289,7 @@ If times remains:
     * Mobile
         * [Ray’s Android App](http://www.raywenderlich.com/56107/make-first-android-app-part-1)
         * [App Inventor intermediate tutorials](http://appinventor.mit.edu/explore/ai2/tutorials.html), such as [Get the Gold](http://appinventor.mit.edu/explore/ai2/get-gold.html)
-        * (Mac only) [Awesome Inc U iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
+        * (Mac only) [We Love Pasta iPhone App Development - Objective-C](https://www.udemy.com/iphone-app-crash-course/?couponCode=woc14)
         * (Mac only) [Bitfountain iOS 8 / Swift intro course](http://fedora.bitfountain.io/courses/mini-ios8)
     * Web
         * [RailsBridge](http://docs.railsbridge.org/docs/)
@@ -337,7 +337,7 @@ Note: many projects here will take longer than 4 hours to complete. That's OK! O
 
 * Recap
 * Next steps for learning
-    1. Online resources: [Codecademy](http://www.codecademy.com/), [Awesome Inc U on Udemy](https://www.udemy.com/u/awesomeinc/)
+    1. Online resources: [Codecademy](http://www.codecademy.com/), [We Love Pasta on Udemy](https://www.udemy.com/u/awesomeinc/)
     2. [Awesome Inc Academy](http://www.awesomeincu.com/academy/)
     3. [Awesome Inc After-School Coding Club](http://www.awesomeincu.com/after-school/)
 

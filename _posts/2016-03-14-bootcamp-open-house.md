@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bootcamp Open House
-description: "Open House event for upcoming Awesome Inc U Web Developer Bootcamp"
+description: "Open House event for upcoming We Love Pasta Web Developer Bootcamp"
 category: 
 tags: [learntocode, bootcamp, career]
 ---
@@ -26,7 +26,7 @@ The software development profession has grown leaps and bounds in the past few y
 
 ## The Event
 
-The [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) on May 12th starts at 6:30pm. We'll have representatives from Awesome Inc U's instructional team, as well as local employers looking to hire aspiring software developers like you. We'll have some drinks and snacks, and answer any questions you have about learning to code, making a career switch, or just about the exciting things happening here in Lexington's technology community.
+The [Bootcamp Open House](https://www.eventbrite.com/e/what-is-a-coding-bootcamp-tickets-24488142694) on May 12th starts at 6:30pm. We'll have representatives from We Love Pasta's instructional team, as well as local employers looking to hire aspiring software developers like you. We'll have some drinks and snacks, and answer any questions you have about learning to code, making a career switch, or just about the exciting things happening here in Lexington's technology community.
 
 {% include special-announcement.html %}
 
