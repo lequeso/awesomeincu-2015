@@ -87,7 +87,7 @@ a:hover, a:focus, a:active{ color: #557991;}
 /* Declare heights because of positioning of img element */
 .carousel .item {
   height: 500px;
-  background-image: url(/img/awesome-inc-learn-to-code-homepage-bg.jpg);
+  background-image: url(/img/wlp-front.jpg);
     background-size: cover;
 
 }
@@ -104,7 +104,7 @@ a:hover, a:focus, a:active{ color: #557991;}
   Bootstrap Carousel Fade Transition (for Bootstrap 3.3.x)
   CSS from:       http://codepen.io/transportedman/pen/NPWRGq
   and:            http://stackoverflow.com/questions/18548731/bootstrap-3-carousel-fading-to-new-slide-instead-of-sliding-to-new-slide
-  Inspired from:  http://codepen.io/Rowno/pen/Afykb 
+  Inspired from:  http://codepen.io/Rowno/pen/Afykb
 */
 .carousel-fade .carousel-inner .item {
   opacity: 0.2;
@@ -199,7 +199,7 @@ a:hover, a:focus, a:active{ color: #557991;}
 
 .featurette-heading a {
   text-decoration: none;
-  
+
 }
 
 .text-muted {color: #557991;}
@@ -218,7 +218,7 @@ a:hover, a:focus, a:active{ color: #557991;}
   left:0;
   z-index: -1;
   background-size: cover;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat;
   background-position: center;
 }
 
@@ -238,8 +238,8 @@ background:transparent;
   opacity: 1;
   height: 500px;
   z-index: 1;
-  background-repeat: no-repeat; 
-  background-position: center; 
+  background-repeat: no-repeat;
+  background-position: center;
   background-size: cover;
   z-index: -1;
 }
@@ -306,7 +306,7 @@ form {
   line-height: 1.5;
 }
 
-.blog-main p, .content-main p { 
+.blog-main p, .content-main p {
   margin-bottom: 30px;
 }
 
@@ -334,7 +334,7 @@ form {
     list-style: none;
 }
 
-/* PRESS PAGE 
+/* PRESS PAGE
 -------------------------------------------------- */
 .press img {
   width: 30%;
@@ -432,7 +432,7 @@ form {
   float: right;
 }
 
-/* SYNTAX HIGHLIGHTING for embedded code blocks 
+/* SYNTAX HIGHLIGHTING for embedded code blocks
 -------------------------------------------------- */
 
 /* .highlight  { background: #ffffff; } */
@@ -497,6 +497,6 @@ form {
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
 
 /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
-.highlight .lineno {-webkit-user-select: none;-moz-user-select: none; -o-user-select: none;} 
+.highlight .lineno {-webkit-user-select: none;-moz-user-select: none; -o-user-select: none;}
 .lineno::-moz-selection {background-color: transparent;} /* Mozilla specific */
 .lineno::selection {background-color: transparent;} /* Other major browsers */
