@@ -25,14 +25,15 @@ press_footer: true
         <div class="item active">
           <div class="container">
             <div class="carousel-caption">
-              <h1><code>Die Beste</code> pastas in town!</h1>
+              <h1>Simply put, the best pastas in town!</h1>
               <!--<p style="background-color: rgba(0,0,0,0.3);">{{ boot_course.headline }}</p>-->
-              <p><a class="btn btn-lg btn-primary" href="{% if boot_course.curriculum == 'k12-week' %}/weekofcode{% else %}{{ boot_course.url }}{% endif %}" role="button">See Menu</a></p>
+              <!--<p><a class="btn btn-lg btn-primary" href="{% if boot_course.curriculum == 'k12-week' %}/weekofcode{% else %}{{ boot_course.url }}{% endif %}" role="button">See Menu</a></p>-->
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">See Menu</a></p>
             </div>
           </div>
         </div>
   {% endif %}
-{% for course in site.data.course-list-eventbrite limit: 3 %}
+{% for course in site.data.course-list-eventbrite limit: 0 %}
   {% if course.status == 'active' %}
         <div class="item ">
           <div class="container">

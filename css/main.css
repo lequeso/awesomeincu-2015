@@ -88,7 +88,7 @@ a:hover, a:focus, a:active{ color: #557991;}
 .carousel .item {
   height: 500px;
   background-image: url(/img/wlp-front.jpg);
-    background-size: cover;
+    background-size: auto;
 
 }
 .carousel-inner > .item > img {
