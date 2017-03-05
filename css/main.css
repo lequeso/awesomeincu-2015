@@ -166,6 +166,10 @@ a:hover, a:focus, a:active{ color: #557991;}
 }
 .marketing h2 {
   font-weight: normal;
+  text-align: center;
+}
+.marketing p {
+	text-align: center;
 }
 .marketing .col-lg-4 p {
   margin-right: 10px;
