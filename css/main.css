@@ -22,7 +22,7 @@ div.carousel-caption h1 {font-family: 'Exo', sans-serif; font-weight: 800; text-
 p, li { font-size: 18px;}
 p { margin-bottom: 30px;}
 .nav li {font-size: 14px;}
-a {color:#7ca5b7;}
+/*a {color:#7ca5b7;}*/
 a:hover, a:focus, a:active{ color: #557991;}
 .btn-primary {
     background-color: #e4173d;

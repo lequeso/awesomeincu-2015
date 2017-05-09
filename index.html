@@ -12,7 +12,7 @@ press_footer: true
         {% if boot_course.status == 'active' %}
               <li data-target="#course-carousel" data-slide-to="0" class="active"></li>
         {% endif %}
-{% for course in site.data.course-list-eventbrite limit: 3 %}
+{% for course in site.data.course-list-eventbrite limit: 1 %}
   {% if course.status == 'active' %}
         <li data-target="#course-carousel" data-slide-to="{{ forloop.index }}" ></li>
   {% endif %}
@@ -25,7 +25,7 @@ press_footer: true
         <div class="item active">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Sin duda, ¡La mejor pasta de Escazú!</h1>
+              <h1>Sin duda... La mejor pasta de Escazú</h1>
               <p style="background-color: rgba(0,0,0,0.4);">Nos especializamos en lo que mejor sabemos hacer! <i class="fa fa-1x fa-heart"></i></br>Creamos pastas 5 estrellas para tu deleite y amamos saber que te encanta nuestra comida!</p>
               <!--<p><a class="btn btn-lg btn-primary" href="{% if boot_course.curriculum == 'k12-week' %}/weekofcode{% else %}{{ boot_course.url }}{% endif %}" role="button">See Menu</a></p>-->
               <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Ver Menu</a></p>-->
@@ -37,14 +37,15 @@ press_footer: true
           </div>
         </div>
   {% endif %}
-{% for course in site.data.course-list-eventbrite limit: 0 %}
+{% for course in site.data.course-list-eventbrite limit: 1 %}
   {% if course.status == 'active' %}
         <div class="item ">
           <div class="container">
             <div class="carousel-caption">
-              <h1><code>Learn To Code</code> with {{ course.title }}</h1>
-              <p style="background-color: rgba(0,0,0,0.3);">{{ course.headline }}</p>
-              <p><a class="btn btn-lg btn-primary" href="{% if course.curriculum == 'k12-week' %}/weekofcode{% else %}{{ course.url }}{% endif %}" role="button">Ver más</a></p>
+              <h1>{{ course.title }}</h1>
+              <p style="background-color: rgba(0,0,0,0.4);">{{ course.headline }}</p>
+              <p><a class="btn btn-lg btn-primary thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="La mejor pasta!" data-caption="" data-image="/img/Menu.jpg" data-target="#image-gallery">
+                Ver Menú</a></p>
             </div>
           </div>
         </div>
